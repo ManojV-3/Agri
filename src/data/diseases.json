@@ -1,0 +1,844 @@
+[
+  {
+    "id": "tomato_early_blight",
+    "crop": "tomato",
+    "name": {
+      "en": "Tomato Early Blight",
+      "kn": "ಟೊಮೇಟೊ ಆರಂಭಿಕ ಅಂಗಮಾರಿ ರೋಗ"
+    },
+    "severity": "medium",
+    "symptoms": {
+      "en": "Dark brown concentric spots resembling target boards on older lower leaves, leaf yellowing and dropping.",
+      "kn": "ಹಳೆಯ ಕೆಳಗಿನ ಎಲೆಗಳ ಮೇಲೆ ವೃತ್ತಾಕಾರದ ಕಂದು ಬಣ್ಣದ ಚುಕ್ಕೆಗಳು, ಎಲೆಗಳು ಹಳದಿಯಾಗಿ ಉದುರುವುದು."
+    },
+    "solutions": [
+      {
+        "id": "sol_eb_organic_neem",
+        "type": "organic",
+        "name": {
+          "en": "Cold-pressed Neem Oil Spray (10,000 ppm)",
+          "kn": "ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಣೆ (10,000 ಪಿಪಿಎಂ)"
+        },
+        "steps": {
+          "en": "Mix neem oil with 5ml mild liquid soap in 1 litre water. Spray thoroughly on both leaf sides early morning or late evening every 7 days.",
+          "kn": "1 ಲೀಟರ್ ನೀರಿಗೆ ಬೇವಿನ ಎಣ್ಣೆ ಮತ್ತು 5 ಮಿ.ಲೀ ದ್ರವ ಸಾಬೂನು ಬೆರೆಸಿ. ಪ್ರತಿ 7 ದಿನಗಳಿಗೊಮ್ಮೆ ಮುಂಜಾನೆ ಅಥವಾ ಸಂಜೆ ಎಲೆಗಳ ಎರಡೂ ಬದಿಗಳಿಗೆ ಸಿಂಪಡಿಸಿ."
+        },
+        "dosagePerAcre": "500 ml in 200 L water",
+        "effectiveness": 4
+      },
+      {
+        "id": "sol_eb_chemical_mancozeb",
+        "type": "chemical",
+        "name": {
+          "en": "Mancozeb 75% WP (Dithane M-45)",
+          "kn": "ಮ್ಯಾಂಕೋಜೆಬ್ 75% ಡಬ್ಲ್ಯುಪಿ (ಡೈಥೇನ್ ಎಂ-45)"
+        },
+        "steps": {
+          "en": "Dissolve 2.5g Mancozeb per litre of water. Apply at first sign of spots and repeat after 10-14 days if wet weather persists.",
+          "kn": "ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ 2.5 ಗ್ರಾಂ ಮ್ಯಾಂಕೋಜೆಬ್ ಕರಗಿಸಿ. ಚುಕ್ಕೆಗಳು ಕಂಡ ತಕ್ಷಣ ಸಿಂಪಡಿಸಿ, ಮಳೆ ಅಥವಾ ತೇವಾಂಶವಿದ್ದರೆ 10-14 ದಿನಗಳ ನಂತರ ಪುನರಾವರ್ತಿಸಿ."
+        },
+        "dosagePerAcre": "600 g in 200 L water",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_eb_preventive_mulch",
+        "type": "preventive",
+        "name": {
+          "en": "Straw Mulching & Lower Leaf Pruning",
+          "kn": "ಒಣಹುಲ್ಲು ಹೊದಿಕೆ ಮತ್ತು ಕೆಳಗಿನ ಎಲೆ ಕತ್ತರಿಸುವುದು"
+        },
+        "steps": {
+          "en": "Prune bottom 12 inches of leaves to prevent soil splash. Spread dry straw mulch around plant base to suppress fungal spores.",
+          "kn": "ಮಣ್ಣಿನ ತೇವಾಂಶ ಸಿಡಿಯದಂತೆ ಕೆಳಗಿನ 12 ಇಂಚಿನ ಎಲೆಗಳನ್ನು ತೆಗೆಯಿರಿ. ಶಿಲೀಂಧ್ರ ತಡೆಯಲು ಬುಡದ ಸುತ್ತ ಒಣಹುಲ್ಲಿನ ಹೊದಿಕೆ ಹಾಕಿ."
+        },
+        "dosagePerAcre": "1.5 tonnes dry straw per acre",
+        "effectiveness": 4
+      }
+    ]
+  },
+  {
+    "id": "tomato_late_blight",
+    "crop": "tomato",
+    "name": {
+      "en": "Tomato Late Blight",
+      "kn": "ಟೊಮೇಟೊ ತಡವಾದ ಅಂಗಮಾರಿ ರೋಗ"
+    },
+    "severity": "high",
+    "symptoms": {
+      "en": "Large, irregular water-soaked pale green lesions on leaves turning dark brown/purplish, white fuzzy mold underneath in cool humid weather.",
+      "kn": "ಎಲೆಗಳ ಮೇಲೆ ನೀರಿನಿಂದ ಕೂಡಿದ ಕಡು ಕಂದು ಕಲೆಗಳು, ತಂಪಾದ ಮತ್ತು ತೇವಾಂಶದ ವಾತಾವರಣದಲ್ಲಿ ಎಲೆಯ ಹಿಂಭಾಗದಲ್ಲಿ ಬಿಳಿ ಬೂಷ್ಟು."
+    },
+    "solutions": [
+      {
+        "id": "sol_lb_organic_copper",
+        "type": "organic",
+        "name": {
+          "en": "Bordeaux Mixture (1%) / Copper Oxychloride",
+          "kn": "ಬೋರ್ಡೋ ದ್ರಾವಣ (1%) / ತಾಮ್ರದ ಆಕ್ಸಿಕ್ಲೋರೈಡ್"
+        },
+        "steps": {
+          "en": "Prepare fresh Bordeaux mixture (copper sulphate + slaked lime). Spray uniformly over foliage before continuous rains.",
+          "kn": "ತಾಜಾ ಬೋರ್ಡೋ ದ್ರಾವಣ (ಮೈಲುತುತ್ತ + ಸುಣ್ಣ) ತಯಾರಿಸಿ. ಸತತ ಮಳೆಯಾಗುವ ಮುನ್ನ ಎಲೆಗಳ ಮೇಲೆ ಸಮವಾಗಿ ಸಿಂಪಡಿಸಿ."
+        },
+        "dosagePerAcre": "1 kg copper oxychloride in 200 L water",
+        "effectiveness": 4
+      },
+      {
+        "id": "sol_lb_chemical_metalaxyl",
+        "type": "chemical",
+        "name": {
+          "en": "Metalaxyl 8% + Mancozeb 64% WP (Ridomil MZ)",
+          "kn": "ಮೆಟಾಲಾಕ್ಸಿಲ್ 8% + ಮ್ಯಾಂಕೋಜೆಬ್ 64% (ರಿಡೋಮಿಲ್ ಎಂಝೆಡ್)"
+        },
+        "steps": {
+          "en": "Mix 2g per litre water. Provides systemic curative action inside plant tissues. Spray immediately upon blight detection.",
+          "kn": "ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ 2 ಗ್ರಾಂ ಮಿಶ್ರಣ ಮಾಡಿ. ರೋಗದ ಲಕ್ಷಣ ಕಂಡ ಕೂಡಲೇ ಸಿಂಪಡಿಸಿ ಗಿಡದ ಒಳಗಿನಿಂದ ರೋಗ ತಡೆಯುತ್ತದೆ."
+        },
+        "dosagePerAcre": "500 g in 200 L water",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_lb_preventive_drainage",
+        "type": "preventive",
+        "name": {
+          "en": "Drip Irrigation & Raised Bed Spacing",
+          "kn": "ಹನಿ ನೀರಾವರಿ ಮತ್ತು ಎತ್ತರದ ಮಡಿಗಳು"
+        },
+        "steps": {
+          "en": "Avoid overhead sprinkler watering. Ensure 60cm row spacing and proper drainage trenches to keep foliage dry.",
+          "kn": "ಮೇಲಿನಿಂದ ಸ್ಪ್ರಿಂಕ್ಲರ್ ನೀರು ಹಾಯಿಸಬೇಡಿ. ಎಲೆಗಳು ಒಣಗಿರಲು 60 ಸೆಂ.ಮೀ ಅಂತರ ಮತ್ತು ನೀರು ಹರಿದುಹೋಗುವ ಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಮಾಡಿ."
+        },
+        "dosagePerAcre": "Field engineering practice",
+        "effectiveness": 4
+      }
+    ]
+  },
+  {
+    "id": "tomato_leaf_curl",
+    "crop": "tomato",
+    "name": {
+      "en": "Tomato Yellow Leaf Curl Virus",
+      "kn": "ಟೊಮೇಟೊ ಎಲೆ ಸುರುಟು ವೈರಸ್ ರೋಗ"
+    },
+    "severity": "high",
+    "symptoms": {
+      "en": "Severe upward leaf curling, yellow leaf margins, stunting of plants, bushy growth and dropped blossoms.",
+      "kn": "ಎಲೆಗಳು ಮೇಲ್ಮುಖವಾಗಿ ಸುರುಟಿಕೊಳ್ಳುವುದು, ಹಳದಿ ಅಂಚುಗಳು, ಗಿಡ ಗಿಡ್ಡವಾಗುವುದು ಮತ್ತು ಹೂಗಳು ಉದುರುವುದು."
+    },
+    "solutions": [
+      {
+        "id": "sol_tlc_organic_traps",
+        "type": "organic",
+        "name": {
+          "en": "Yellow Sticky Traps & Agniastra Spray",
+          "kn": "ಹಳದಿ ಅಂಟು ಬಲೆಗಳು ಮತ್ತು ಅಗ್ನಿಯಾಸ್ತ್ರ ಕಷಾಯ"
+        },
+        "steps": {
+          "en": "Install 20 yellow sticky traps per acre at canopy level to trap whiteflies. Spray traditional Agniastra botanical extract every 5 days.",
+          "kn": "ಬಿಳಿ ನೊಣಗಳನ್ನು ಹಿಡಿಯಲು ಎಕರೆಗೆ 20 ಹಳದಿ ಅಂಟು ಬಲೆಗಳನ್ನು ಅಳವಡಿಸಿ. 5 ದಿನಗಳಿಗೊಮ್ಮೆ ಅಗ್ನಿಯಾಸ್ತ್ರ ನೈಸರ್ಗಿಕ ಕಷಾಯ ಸಿಂಪಡಿಸಿ."
+        },
+        "dosagePerAcre": "20 traps + 5 L Agniastra in 200 L water",
+        "effectiveness": 4
+      },
+      {
+        "id": "sol_tlc_chemical_imidacloprid",
+        "type": "chemical",
+        "name": {
+          "en": "Imidacloprid 17.8% SL (Confidor)",
+          "kn": "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ 17.8% ಎಸ್ಎಲ್ (ಕಾನ್ಫಿಡೋರ್)"
+        },
+        "steps": {
+          "en": "Mix 0.5ml per litre water to control the whitefly vector (Bemisia tabaci). Spray early morning on leaf undersides.",
+          "kn": "ಬಿಳಿ ನೊಣ ನಿಯಂತ್ರಣಕ್ಕೆ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ 0.5 ಮಿ.ಲೀ ಬೆರೆಸಿ. ಮುಂಜಾನೆ ಎಲೆಯ ತಳಭಾಗಕ್ಕೆ ಸಿಂಪಡಿಸಿ."
+        },
+        "dosagePerAcre": "100 ml in 200 L water",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_tlc_preventive_mesh",
+        "type": "preventive",
+        "name": {
+          "en": "Nylon Insect Netting (40 Mesh) in Nursery",
+          "kn": "ನರ್ಸರಿಯಲ್ಲಿ 40 ಮೆಶ್ ಕೀಟ ನಿರೋಧಕ ಪರದೆ"
+        },
+        "steps": {
+          "en": "Raise seedlings under 40 mesh nylon net for first 25-30 days to prevent whitefly vector feeding and virus inoculation.",
+          "kn": "ಬಿಳಿ ನೊಣ ಕಚ್ಚದಂತೆ ಮೊದಲ 25-30 ದಿನ ಸಸಿಗಳನ್ನು 40 ಮೆಶ್ ನೈಲಾನ್ ಪರದೆಯ ಕೆಳಗೆ ಬೆಳೆಸಿ ನಂತರ ನಾಟಿ ಮಾಡಿ."
+        },
+        "dosagePerAcre": "1 nursery enclosure net",
+        "effectiveness": 5
+      }
+    ]
+  },
+  {
+    "id": "tomato_healthy",
+    "crop": "tomato",
+    "name": {
+      "en": "Tomato Healthy Leaf",
+      "kn": "ಟೊಮೇಟೊ ಆರೋಗ್ಯಕರ ಎಲೆ"
+    },
+    "severity": "low",
+    "symptoms": {
+      "en": "Vibrant green uniform leaves with no lesions, spots, curling, or insect infestation.",
+      "kn": "ಯಾವುದೇ ಚುಕ್ಕೆ, ರಂಧ್ರ ಅಥವಾ ಸುರುಟು ಇಲ್ಲದ ಹಚ್ಚ ಹಸಿರಾದ ಆರೋಗ್ಯಕರ ಎಲೆಗಳು."
+    },
+    "solutions": [
+      {
+        "id": "sol_th_preventive_panchagavya",
+        "type": "organic",
+        "name": {
+          "en": "Panchagavya Organic Immunity Tonic (3%)",
+          "kn": "ಪಂಚಗವ್ಯ ನೈಸರ್ಗಿಕ ರೋಗನಿರೋಧಕ ದ್ರಾವಣ (3%)"
+        },
+        "steps": {
+          "en": "Dilute 30ml Panchagavya per litre of water. Spray every 15 days to stimulate plant vigor, leaf shine, and natural pathogen defense.",
+          "kn": "ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ 30 ಮಿ.ಲೀ ಪಂಚಗವ್ಯ ಬೆರೆಸಿ ಪ್ರತಿ 15 ದಿನಗಳಿಗೊಮ್ಮೆ ಸಿಂಪಡಿಸಿ. ಇದು ಸಸ್ಯದ ಶಕ್ತಿ ಮತ್ತು ರೋಗನಿರೋಧಕತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
+        },
+        "dosagePerAcre": "6 L in 200 L water",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_th_preventive_scouting",
+        "type": "preventive",
+        "name": {
+          "en": "Weekly Scouting & Balanced NPK Nutrition",
+          "kn": "ವಾರಕ್ಕೊಮ್ಮೆ ತಪಾಸಣೆ ಮತ್ತು ಸಮತೋಲಿತ ಪೋಷಕಾಂಶ"
+        },
+        "steps": {
+          "en": "Inspect 10 random plants weekly. Maintain balanced potassium and calcium to keep leaf cell walls tough against fungi.",
+          "kn": "ವಾರಕ್ಕೊಮ್ಮೆ ಕನಿಷ್ಠ 10 ಗಿಡಗಳನ್ನು ಪರಿಶೀಲಿಸಿ. ಎಲೆಗಳ ಶಕ್ತಿಗಾಗಿ ಪೊಟ್ಯಾಶ್ ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂ ಸಮತೋಲನ ಕಾಪಾಡಿ."
+        },
+        "dosagePerAcre": "Regular agronomic management",
+        "effectiveness": 5
+      }
+    ]
+  },
+  {
+    "id": "potato_early_blight",
+    "crop": "potato",
+    "name": {
+      "en": "Potato Early Blight",
+      "kn": "ಆಲೂಗಡ್ಡೆ ಆರಂಭಿಕ ಅಂಗಮಾರಿ ರೋಗ"
+    },
+    "severity": "medium",
+    "symptoms": {
+      "en": "Small dark spots on bottom foliage expanding with concentric rings, premature leaf yellowing and tuber surface lesions.",
+      "kn": "ಕೆಳಗಿನ ಎಲೆಗಳಲ್ಲಿ ವೃತ್ತಾಕಾರದ ಕಪ್ಪು ಕಂದು ಚುಕ್ಕೆಗಳು, ಎಲೆಗಳು ಬೇಗನೆ ಉದುರುವುದು ಮತ್ತು ಗೆಡ್ಡೆಗಳ ಮೇಲೆ ಕಲೆಗಳು."
+    },
+    "solutions": [
+      {
+        "id": "sol_peb_organic_trichoderma",
+        "type": "organic",
+        "name": {
+          "en": "Trichoderma viride Bio-fungicide",
+          "kn": "ಟ್ರೈಕೋಡರ್ಮ ವಿರಿಡೆ ಜೈವಿಕ ಶಿಲೀಂಧ್ರನಾಶಕ"
+        },
+        "steps": {
+          "en": "Mix 5g Trichoderma powder per litre of water. Drench soil and spray foliage to antagonize pathogenic Alternaria fungi.",
+          "kn": "1 ಲೀಟರ್ ನೀರಿಗೆ 5 ಗ್ರಾಂ ಟ್ರೈಕೋಡರ್ಮ ಬೆರೆಸಿ ಮಣ್ಣಿಗೆ ಮತ್ತು ಎಲೆಗಳಿಗೆ ಸಿಂಪಡಿಸಿ ರೋಗಕಾರಕ ಶಿಲೀಂಧ್ರವನ್ನು ತಡೆಯಿರಿ."
+        },
+        "dosagePerAcre": "1 kg in 200 L water",
+        "effectiveness": 4
+      },
+      {
+        "id": "sol_peb_chemical_chlorothalonil",
+        "type": "chemical",
+        "name": {
+          "en": "Chlorothalonil 75% WP (Kavach)",
+          "kn": "ಕ್ಲೋರೋಥಾಲೋನಿಲ್ 75% ಡಬ್ಲ್ಯುಪಿ (ಕವಚ್)"
+        },
+        "steps": {
+          "en": "Dissolve 2g per litre water. Creates protective surface film preventing spore germination. Apply every 10 days.",
+          "kn": "ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ 2 ಗ್ರಾಂ ಕರಗಿಸಿ ಸಿಂಪಡಿಸಿ. ಶಿಲೀಂಧ್ರ ಬೆಳೆಯದಂತೆ ಎಲೆಗಳ ಮೇಲೆ ರಕ್ಷಣಾ ಕವಚ ಉಂಟುಮಾಡುತ್ತದೆ."
+        },
+        "dosagePerAcre": "500 g in 200 L water",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_peb_preventive_rotation",
+        "type": "preventive",
+        "name": {
+          "en": "Crop Rotation with Legumes & Certified Seed Tubers",
+          "kn": "ದ್ವಿದಳ ಧಾನ್ಯಗಳೊಂದಿಗೆ ಬೆಳೆ ಪರಿವರ್ತನೆ ಮತ್ತು ಪ್ರಮಾಣೀಕೃತ ಬಿತ್ತನೆ ಗೆಡ್ಡೆಗಳು"
+        },
+        "steps": {
+          "en": "Do not plant solanaceous crops in the same plot for 2 years. Use certified disease-free seed tubers.",
+          "kn": "ಆಲೂಗಡ್ಡೆ ಬೆಳೆದ ಜಾಗದಲ್ಲಿ ಮುಂದಿನ 2 ವರ್ಷ ಟೊಮೇಟೊ ಅಥವಾ ಬದನೆ ಬೆಳೆಯಬೇಡಿ. ಪ್ರಮಾಣೀಕೃತ ರೋಗಮುಕ್ತ ಗೆಡ್ಡೆಗಳನ್ನೇ ಬಿತ್ತಿ."
+        },
+        "dosagePerAcre": "Agronomic practice",
+        "effectiveness": 5
+      }
+    ]
+  },
+  {
+    "id": "potato_late_blight",
+    "crop": "potato",
+    "name": {
+      "en": "Potato Late Blight",
+      "kn": "ಆಲೂಗಡ್ಡೆ ತಡವಾದ ಅಂಗಮಾರಿ ರೋಗ"
+    },
+    "severity": "high",
+    "symptoms": {
+      "en": "Rapid water-soaked lesions spreading from leaf tips, foul rotting smell in field, tuber brown flesh rot.",
+      "kn": "ಎಲೆಗಳ ತುದಿಯಿಂದ ವೇಗವಾಗಿ ಹರಡುವ ನೀರಿನ ಕಲೆಗಳು, ಹೊಲದಲ್ಲಿ ಕೊಳೆತ ವಾಸನೆ, ಆಲೂಗಡ್ಡೆಯ ಒಳಭಾಗ ಕಂದುಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ ಕೊಳೆಯುವುದು."
+    },
+    "solutions": [
+      {
+        "id": "sol_plb_organic_pseudomonas",
+        "type": "organic",
+        "name": {
+          "en": "Pseudomonas fluorescens 1% WP",
+          "kn": "ಸ್ಯೂಡೋಮೊನಾಸ್ ಫ್ಲೋರೊಸೆನ್ಸ್ 1% ಡಬ್ಲ್ಯುಪಿ"
+        },
+        "steps": {
+          "en": "Foliar spray with 10g per litre water before disease onset. Colonizes leaf surface and produces natural fungicides.",
+          "kn": "ರೋಗ ಬರುವ ಮುನ್ನ 1 ಲೀಟರ್ ನೀರಿಗೆ 10 ಗ್ರಾಂ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ. ಇದು ಎಲೆಯ ಮೇಲೆ ಪ್ರಯೋಜನಕಾರಿ ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಕೋಟೆ ಕಟ್ಟುತ್ತದೆ."
+        },
+        "dosagePerAcre": "1.5 kg in 200 L water",
+        "effectiveness": 4
+      },
+      {
+        "id": "sol_plb_chemical_cymoxanil",
+        "type": "chemical",
+        "name": {
+          "en": "Cymoxanil 8% + Mancozeb 64% (Curzate M8)",
+          "kn": "ಸೈಮೋಕ್ಸಾನಿಲ್ 8% + ಮ್ಯಾಂಕೋಜೆಬ್ 64% (ಕರ್ಜೇಟ್ ಎಂ8)"
+        },
+        "steps": {
+          "en": "Mix 3g per litre water. Has penetrating stop-action curing early unseen infections within 48 hours of contact.",
+          "kn": "ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ 3 ಗ್ರಾಂ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ. ಸೋಂಕು ತಗುಲಿದ 48 ಗಂಟೆಗಳ ಒಳಗಾಗಿ ರೋಗವನ್ನು ತಕ್ಷಣವೇ ಸ್ಥಗಿತಗೊಳಿಸುತ್ತದೆ."
+        },
+        "dosagePerAcre": "600 g in 200 L water",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_plb_preventive_earthing",
+        "type": "preventive",
+        "name": {
+          "en": "High Ridge Earthing-Up & Dehaulming",
+          "kn": "ಬುಡಕ್ಕೆ ಎತ್ತರದ ಮಣ್ಣು ಹಾಕುವುದು ಮತ್ತು ಕೊಯ್ಲಿಗೆ ಮುನ್ನ ಬಳ್ಳಿ ಕತ್ತರಿಸುವುದು"
+        },
+        "steps": {
+          "en": "Build high ridges (15-20cm) to prevent spores washing into tubers. Cut haulms 10 days before harvesting.",
+          "kn": "ಗೆಡ್ಡೆಗಳಿಗೆ ರೋಗ ಬರದಂತೆ ಗಿಡದ ಬುಡಕ್ಕೆ 15-20 ಸೆಂ.ಮೀ ಮಣ್ಣು ಏರಿಸಿ. ಕೊಯ್ಲಿಗೆ 10 ದಿನ ಮೊದಲು ಗಿಡದ ಸೊಪ್ಪನ್ನು ಕತ್ತರಿಸಿ ತೆಗೆಯಿರಿ."
+        },
+        "dosagePerAcre": "Field cultural operation",
+        "effectiveness": 5
+      }
+    ]
+  },
+  {
+    "id": "potato_healthy",
+    "crop": "potato",
+    "name": {
+      "en": "Potato Healthy Leaf",
+      "kn": "ಆಲೂಗಡ್ಡೆ ಆರೋಗ್ಯಕರ ಎಲೆ"
+    },
+    "severity": "low",
+    "symptoms": {
+      "en": "Lush green robust leaves with clean stems and vigorous growth.",
+      "kn": "ಯಾವುದೇ ಕಲೆಗಳಿಲ್ಲದ, ಸಮೃದ್ಧವಾಗಿ ಬೆಳೆದ ಹಸಿರು ಎಲೆಗಳು ಮತ್ತು ಬಲವಾದ ಕಾಂಡ."
+    },
+    "solutions": [
+      {
+        "id": "sol_ph_organic_jeevamrutha",
+        "type": "organic",
+        "name": {
+          "en": "Jeevamrutha Soil Drenching & Foliar Spray",
+          "kn": "ಜೀವಾಮೃತ ಮಣ್ಣಿಗೆ ನೀಡುವುದು ಮತ್ತು ಎಲೆ ಸಿಂಪಡಣೆ"
+        },
+        "steps": {
+          "en": "Apply 200L prepared Jeevamrutha through irrigation water every 15 days to multiply beneficial soil microflora.",
+          "kn": "ಪ್ರತಿ 15 ದಿನಗಳಿಗೊಮ್ಮೆ 200 ಲೀಟರ್ ಜೀವಾಮೃತವನ್ನು ನೀರಿನೊಂದಿಗೆ ಹಾಯಿಸಿ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಮತ್ತು ಸೂಕ್ಷ್ಮಾಣುಜೀವಿಗಳನ್ನು ಹೆಚ್ಚಿಸಿ."
+        },
+        "dosagePerAcre": "200 L per acre through drip/flood",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_ph_preventive_monitoring",
+        "type": "preventive",
+        "name": {
+          "en": "Proper Hill Spacing & Adequate Aeration",
+          "kn": "ಸೂಕ್ತ ಸಾಲುಗಳ ಅಂತರ ಮತ್ತು ಗಾಳಿಯಾಡುವಿಕೆ"
+        },
+        "steps": {
+          "en": "Maintain 60cm row-to-row and 20cm plant-to-plant spacing for maximum sunlight penetration and airflow.",
+          "kn": "ಸಾಲುಗಳ ನಡುವೆ 60 ಸೆಂ.ಮೀ ಮತ್ತು ಗಿಡಗಳ ನಡುವೆ 20 ಸೆಂ.ಮೀ ಅಂತರವಿಟ್ಟು ಸೂರ್ಯನ ಬೆಳಕು ಚೆನ್ನಾಗಿ ಬೀಳುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ."
+        },
+        "dosagePerAcre": "Agronomic standard",
+        "effectiveness": 5
+      }
+    ]
+  },
+  {
+    "id": "maize_common_rust",
+    "crop": "maize",
+    "name": {
+      "en": "Maize Common Rust",
+      "kn": "ಮೆಕ್ಕೆಜೋಳದ ತುಕ್ಕು ರೋಗ"
+    },
+    "severity": "medium",
+    "symptoms": {
+      "en": "Small powdery cinnamon-brown to golden pustules scattered on upper and lower surfaces of maize leaves.",
+      "kn": "ಮೆಕ್ಕೆಜೋಳದ ಎಲೆಗಳ ಮೇಲ್ಭಾಗ ಮತ್ತು ಕೆಳಭಾಗದಲ್ಲಿ ದಾಲ್ಚಿನ್ನಿ ಕಂದು ಬಣ್ಣದ ಪುಡಿಯಂಥ ಗುಳ್ಳೆಗಳು."
+    },
+    "solutions": [
+      {
+        "id": "sol_mcr_organic_sour_buttermilk",
+        "type": "organic",
+        "name": {
+          "en": "Fermented Sour Buttermilk + Asafoetida Spray",
+          "kn": "ಹುಳಿ ಮಜ್ಜಿಗೆ + ಇಂಗಿನ ದ್ರಾವಣ ಸಿಂಪಡಣೆ"
+        },
+        "steps": {
+          "en": "Ferment 5L buttermilk for 4 days with copper wire. Add 50g asafoetida, dilute in 150L water and spray.",
+          "kn": "5 ಲೀಟರ್ ಮಜ್ಜಿಗೆಗೆ ತಾಮ್ರದ ತುಂಡು ಹಾಕಿ 4 ದಿನ ಹುಳಿಯಾಗಲು ಬಿಡಿ. 50 ಗ್ರಾಂ ಇಂಗು ಬೆರೆಸಿ, 150 ಲೀ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ."
+        },
+        "dosagePerAcre": "5 L buttermilk in 150 L water",
+        "effectiveness": 4
+      },
+      {
+        "id": "sol_mcr_chemical_azoxystrobin",
+        "type": "chemical",
+        "name": {
+          "en": "Azoxystrobin 18.2% + Difenoconazole 11.4% SC (Amistar Top)",
+          "kn": "ಅಜೋಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ + ಡೈಫೆನೊಕೊನಜೋಲ್ (ಅಮಿಸ್ಟಾರ್ ಟಾಪ್)"
+        },
+        "steps": {
+          "en": "Mix 1ml per litre water. Dual-action strobilurin and triazole stops rust germination and cures existing pustules.",
+          "kn": "ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ 1 ಮಿ.ಲೀ ಬೆರೆಸಿ. ಇದು ತುಕ್ಕು ಶಿಲೀಂಧ್ರವನ್ನು ನಾಶಪಡಿಸಿ ಬೆಳೆಯ ಹಸಿರನ್ನು ಪುನಃ ತರುತ್ತದೆ."
+        },
+        "dosagePerAcre": "200 ml in 200 L water",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_mcr_preventive_hybrid",
+        "type": "preventive",
+        "name": {
+          "en": "Rust-Resistant Hybrid Seeds & Early Planting",
+          "kn": "ತುಕ್ಕು ನಿರೋಧಕ ತಳಿಗಳ ಬಿತ್ತನೆ ಮತ್ತು ಮುಂಚಿತ ಬಿತ್ತನೆ"
+        },
+        "steps": {
+          "en": "Sow rust-resistant certified hybrid cultivars early in the season before monsoon fungal spores peak.",
+          "kn": "ರೋಗ ನಿರೋಧಕ ಸಾಮರ್ಥ್ಯವಿರುವ ಪ್ರಮಾಣೀಕೃತ ಹೈಬ್ರಿಡ್ ಬೀಜಗಳನ್ನು ಆರಿಸಿ ಮುಂಗಾರಿನ ಆರಂಭದಲ್ಲೇ ಬಿತ್ತನೆ ಮಾಡಿ."
+        },
+        "dosagePerAcre": "8 kg seed per acre",
+        "effectiveness": 5
+      }
+    ]
+  },
+  {
+    "id": "maize_fall_armyworm",
+    "crop": "maize",
+    "name": {
+      "en": "Maize Fall Armyworm Damage",
+      "kn": "ಮೆಕ್ಕೆಜೋಳದ ಸೈನಿಕ ಹುಳು ಬಾಧೆ"
+    },
+    "severity": "high",
+    "symptoms": {
+      "en": "Ragged shot-holes on whorl leaves, extensive moist yellowish-brown sawdust-like frass inside the central plant whorl.",
+      "kn": "ಸುಳಿಯ ಎಲೆಗಳಲ್ಲಿ ರಂಧ್ರಗಳು, ಕೇಂದ್ರ ಸುಳಿಯೊಳಗೆ ಮರದ ಪುಡಿಯಂತಹ ಹಳದಿ-ಕಂದು ಮಲದ ರಾಶಿ ಮತ್ತು ಗರಿಗಳ ನಷ್ಟ."
+    },
+    "solutions": [
+      {
+        "id": "sol_faw_organic_sand_lime",
+        "type": "organic",
+        "name": {
+          "en": "Fine River Sand + Wood Ash Whorl Application",
+          "kn": "ನದಿ ಮರಳು + ಕಟ್ಟಿಗೆ ಬೂದಿ ಸುಳಿಗೆ ಹಾಕುವುದು"
+        },
+        "steps": {
+          "en": "Mix clean dry river sand with wood ash (9:1). Drop 1 pinch into each maize whorl to mechanically suffocate and abrade young larvae.",
+          "kn": "ಸ್ವಚ್ಛ ನದಿ ಮರಳು ಮತ್ತು ಬೂದಿಯನ್ನು 9:1 ಅನುಪಾತದಲ್ಲಿ ಬೆರೆಸಿ. ಪ್ರತಿ ಗಿಡದ ಸುಳಿಯೊಳಗೆ ಚಿಟಿಕೆಯಷ್ಟು ಹಾಕಿ ಹುಳುಗಳನ್ನು ನಾಶಪಡಿಸಿ."
+        },
+        "dosagePerAcre": "10 kg mixture per acre",
+        "effectiveness": 4
+      },
+      {
+        "id": "sol_faw_chemical_emamectin",
+        "type": "chemical",
+        "name": {
+          "en": "Emamectin Benzoate 5% SG (Proclaim)",
+          "kn": "ಎಮಾಮೆಕ್ಟಿನ್ ಬೆಂಜೊಯೆಟ್ 5% ಎಸ್ಜಿ (ಪ್ರೊಕ್ಲೇಮ್)"
+        },
+        "steps": {
+          "en": "Dissolve 0.4g per litre water. Direct spray lance directly into central whorls where caterpillars hide.",
+          "kn": "ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ 0.4 ಗ್ರಾಂ ಕರಗಿಸಿ. ಹುಳುಗಳು ಅಡಗಿರುವ ಗಿಡದ ಮಧ್ಯದ ಸುಳಿಗೆ ನೇರವಾಗಿ ನಳಿಕೆ ಇಟ್ಟು ಸಿಂಪಡಿಸಿ."
+        },
+        "dosagePerAcre": "80 g in 200 L water",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_faw_preventive_pheromone",
+        "type": "preventive",
+        "name": {
+          "en": "FAW Pheromone Lures & Intercropping with Cowpea",
+          "kn": "ಫೆರಮೋನ್ ಮೋಹಕ ಬಲೆಗಳು ಮತ್ತು ಅಲಸಂದಿ ಅಂತರಬೆಳೆ"
+        },
+        "steps": {
+          "en": "Install 5-8 FAW sex pheromone funnel traps per acre. Intercrop 4 rows maize with 1 row cowpea to foster natural predatory wasps.",
+          "kn": "ಎಕರೆಗೆ 5-8 ಫೆರಮೋನ್ ಆಕರ್ಷಕ ಬಲೆ ಅಳವಡಿಸಿ. ನೈಸರ್ಗಿಕ ಶತ್ರು ಕೀಟಗಳನ್ನು ಆಕರ್ಷಿಸಲು 4 ಸಾಲು ಮೆಕ್ಕೆಜೋಳಕ್ಕೆ 1 ಸಾಲು ಅಲಸಂದಿ ಬೆಳೆಯಿರಿ."
+        },
+        "dosagePerAcre": "6 traps per acre",
+        "effectiveness": 4
+      }
+    ]
+  },
+  {
+    "id": "maize_healthy",
+    "crop": "maize",
+    "name": {
+      "en": "Maize Healthy Plant",
+      "kn": "ಮೆಕ್ಕೆಜೋಳ ಆರೋಗ್ಯಕರ ಬೆಳೆ"
+    },
+    "severity": "low",
+    "symptoms": {
+      "en": "Broad dark green arching leaves without feeding damage or spots, clean vigorous central whorl.",
+      "kn": "ಯಾವುದೇ ರಂಧ್ರ ಅಥವಾ ಕಲೆಗಳಿಲ್ಲದ ಕಡು ಹಸಿರು ಅಗಲವಾದ ಗರಿಗಳು, ಸ್ವಚ್ಛವಾದ ಸುಳಿ."
+    },
+    "solutions": [
+      {
+        "id": "sol_mh_organic_compost",
+        "type": "organic",
+        "name": {
+          "en": "Enriched Farmyard Manure & Vermicompost Topdressing",
+          "kn": "ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಮತ್ತು ಎರೆಹುಳು ಗೊಬ್ಬರ ಮೇಲುಗೊಬ್ಬರ"
+        },
+        "steps": {
+          "en": "Apply vermicompost before earthing up at knee-high stage (30-35 DAS) to sustain rapid vegetative expansion.",
+          "kn": "ಮೊಳಕಾಲು ಎತ್ತರ ಬೆಳೆದಾಗ (30-35 ದಿನಗಳಲ್ಲಿ) ಎರೆಹುಳು ಗೊಬ್ಬರ ನೀಡಿ ಬುಡಕ್ಕೆ ಮಣ್ಣು ಏರಿಸಿ ಶಕ್ತಿಯುತ ಬೆಳವಣಿಗೆಗೆ ಪ್ರೋತ್ಸಾಹಿಸಿ."
+        },
+        "dosagePerAcre": "500 kg vermicompost per acre",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_mh_preventive_weed",
+        "type": "preventive",
+        "name": {
+          "en": "Timely Inter-cultivation & Soil Aeration",
+          "kn": "ಸಕಾಲಿಕ ಎಡೆಕುಂಟೆ ಹೊಡೆಯುವುದು ಮತ್ತು ಮಣ್ಣು ಸಡಿಲಗೊಳಿಸುವುದು"
+        },
+        "steps": {
+          "en": "Run cycle hoes at 20 and 40 days to break surface crust, eliminate competitor weeds, and conserve rain moisture.",
+          "kn": "20 ಮತ್ತು 40 ದಿನಗಳಲ್ಲಿ ಎಡೆಕುಂಟೆ ಹೊಡೆದು ಕಳೆ ಕೀಳಿ, ಮಣ್ಣು ಸಡಿಲಗೊಳಿಸಿ ಮಳೆಯ ತೇವಾಂಶ ಇಂಗುವಂತೆ ಮಾಡಿ."
+        },
+        "dosagePerAcre": "2 passes inter-cultivation",
+        "effectiveness": 5
+      }
+    ]
+  },
+  {
+    "id": "rice_blast",
+    "crop": "rice",
+    "name": {
+      "en": "Rice Blast Disease",
+      "kn": "ಭತ್ತದ ಬೆಂಕಿ ರೋಗ (ಬ್ಲಾಸ್ಟ್)"
+    },
+    "severity": "high",
+    "symptoms": {
+      "en": "Spindle/diamond-shaped eye spots with grey/white centers and brown margins on leaves; neck rot on panicles.",
+      "kn": "ಎಲೆಗಳ ಮೇಲೆ ಕಣ್ಣಿನ ಆಕಾರದ (ಮಧ್ಯೆ ಬಿಳಿ-ಬೂದು, ಅಂಚಿನಲ್ಲಿ ಕಂದು) ಚುಕ್ಕೆಗಳು, ತೆನೆಯ ಕುತ್ತಿಗೆ ಕಪ್ಪಾಗಿ ಮುರಿದು ಬೀಳುವುದು."
+    },
+    "solutions": [
+      {
+        "id": "sol_rb_organic_silicon",
+        "type": "organic",
+        "name": {
+          "en": "Diatomaceous Earth / Potassium Silicate Spray",
+          "kn": "ಸಿಲಿಕಾನ್ ಪೋಷಕಾಂಶ / ಬೂದಿ ದ್ರಾವಣ ಸಿಂಪಡಣೆ"
+        },
+        "steps": {
+          "en": "Spray potassium silicate (2ml/L) to strengthen leaf silica cells, making tissue impenetrable to blast fungal germ tubes.",
+          "kn": "ಲೀಟರ್ ನೀರಿಗೆ 2 ಮಿ.ಲೀ ಪೊಟ್ಯಾಸಿಯಂ ಸಿಲಿಕೇಟ್ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ. ಇದು ಎಲೆಯ ಜೀವಕೋಶಗಳಿಗೆ ಬಲ ನೀಡಿ ಶಿಲೀಂಧ್ರ ತೂರದಂತೆ ಮಾಡುತ್ತದೆ."
+        },
+        "dosagePerAcre": "400 ml in 200 L water",
+        "effectiveness": 4
+      },
+      {
+        "id": "sol_rb_chemical_tricyclazole",
+        "type": "chemical",
+        "name": {
+          "en": "Tricyclazole 75% WP (Beam)",
+          "kn": "ಟ್ರೈಸೈಕ್ಲಾಜೋಲ್ 75% ಡಬ್ಲ್ಯುಪಿ (ಬೀಮ್)"
+        },
+        "steps": {
+          "en": "Dissolve 0.6g per litre water. Highly specific anti-blast systemic fungicide; protect during tillering and panicle emergence.",
+          "kn": "ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ 0.6 ಗ್ರಾಂ ಕರಗಿಸಿ. ತೆನೆ ಹೊಡೆಯುವ ಹಂತದಲ್ಲಿ ಮತ್ತು ರೋಗದ ಮೊದಲ ಹಂತದಲ್ಲಿ ಸಿಂಪಡಿಸಿ."
+        },
+        "dosagePerAcre": "120 g in 200 L water",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_rb_preventive_nitrogen",
+        "type": "preventive",
+        "name": {
+          "en": "Split Nitrogen Application & Drainage Management",
+          "kn": "ಯೂರಿಯಾ ವಿಭಜಿಸಿ ನೀಡುವುದು ಮತ್ತು ನೀರು ಬಸಿದು ತೆಗೆಯುವುದು"
+        },
+        "steps": {
+          "en": "Avoid excess urea, split nitrogen in 3 doses. Temporarily drain stagnant water for 48 hours to dry field humidity.",
+          "kn": "ಹೆಚ್ಚು ಯೂರಿಯಾ ಹಾಕಬೇಡಿ, 3 ಹಂತಗಳಲ್ಲಿ ಹಂಚಿ ಕೊಡಿ. ಗದ್ದೆಯಲ್ಲಿ ನಿಂತ ನೀರನ್ನು 2 ದಿನ ಬಸಿದು ಬಿಸಿಲು ಬೀಳಲು ಬಿಡಿ."
+        },
+        "dosagePerAcre": "Agronomic nutrient management",
+        "effectiveness": 4
+      }
+    ]
+  },
+  {
+    "id": "rice_brown_spot",
+    "crop": "rice",
+    "name": {
+      "en": "Rice Brown Spot",
+      "kn": "ಭತ್ತದ ಕಂದು ಚುಕ್ಕೆ ರೋಗ"
+    },
+    "severity": "medium",
+    "symptoms": {
+      "en": "Numerous oval dark brown spots resembling sesame seeds all over leaf blades, yellowing leaf tips.",
+      "kn": "ಎಲೆಗಳ ಮೇಲೆ ಎಳ್ಳಿನ ಆಕಾರದ ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಕಂದು ಚುಕ್ಕೆಗಳು, ಎಲೆಯ ತುದಿ ಒಣಗುವುದು."
+    },
+    "solutions": [
+      {
+        "id": "sol_rbs_organic_cow_urine",
+        "type": "organic",
+        "name": {
+          "en": "Cow Urine (Gomutra 10%) + Bio-ferment Spray",
+          "kn": "ಗೋಮೂತ್ರ (10%) ಮತ್ತು ಜೈವಿಕ ದ್ರಾವಣ ಸಿಂಪಡಣೆ"
+        },
+        "steps": {
+          "en": "Dilute 100ml mature cow urine in 1 litre water. Natural antimicrobial phenols check Helminthosporium pathogen growth.",
+          "kn": "1 ಲೀಟರ್ ನೀರಿಗೆ 100 ಮಿ.ಲೀ ಹಳೆಯ ಗೋಮೂತ್ರ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ. ಇದರಲ್ಲಿನ ನೈಸರ್ಗಿಕ ಅಂಶಗಳು ರೋಗಾಣು ತಡೆಯುತ್ತವೆ."
+        },
+        "dosagePerAcre": "20 L cow urine in 200 L water",
+        "effectiveness": 4
+      },
+      {
+        "id": "sol_rbs_chemical_edifenphos",
+        "type": "chemical",
+        "name": {
+          "en": "Propiconazole 25% EC (Tilt)",
+          "kn": "ಪ್ರೊಪಿಕೊನಜೋಲ್ 25% ಇಸಿ (ಟಿಲ್ಟ್)"
+        },
+        "steps": {
+          "en": "Mix 1ml per litre water. Thorough spray over entire crop canopy when brown spots exceed 5% leaf area.",
+          "kn": "ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ 1 ಮಿ.ಲೀ ಬೆರೆಸಿ ಸಮಗ್ರವಾಗಿ ಸಿಂಪಡಿಸಿ. ಚುಕ್ಕೆಗಳು ಹೆಚ್ಚಾಗುವುದನ್ನು ತಕ್ಷಣ ಹತೋಟಿಗೆ ತರುತ್ತದೆ."
+        },
+        "dosagePerAcre": "200 ml in 200 L water",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_rbs_preventive_zinc",
+        "type": "preventive",
+        "name": {
+          "en": "Zinc Sulphate Micronutrient Basal Soil Application",
+          "kn": "ಸತು (ಜಿಂಕ್ ಸಲ್ಫೇಟ್) ಸೂಕ್ಷ್ಮ ಪೋಷಕಾಂಶ ನೀಡುವುದು"
+        },
+        "steps": {
+          "en": "Brown spot thrives in zinc/potassium deficient soils. Apply 10kg zinc sulphate heptahydrate per acre at puddling.",
+          "kn": "ಸತುವಿನ ಕೊರತೆಯಿರುವ ನೆಲದಲ್ಲಿ ಈ ರೋಗ ಹೆಚ್ಚು. ಕೊನೆಯ ಉಳುಮೆಯಲ್ಲಿ ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಹಾಕಿ."
+        },
+        "dosagePerAcre": "10 kg Zinc Sulphate per acre",
+        "effectiveness": 5
+      }
+    ]
+  },
+  {
+    "id": "rice_healthy",
+    "crop": "rice",
+    "name": {
+      "en": "Rice Healthy Plant",
+      "kn": "ಭತ್ತ ಆರೋಗ್ಯಕರ ಬೆಳೆ"
+    },
+    "severity": "low",
+    "symptoms": {
+      "en": "Erect vibrant emerald-green leaves with clean sheaths, sturdy tillers and spotless panicles.",
+      "kn": "ನೆಟ್ಟಗೆ ನಿಂತಿರುವ ನಳನಳಿಸುವ ಹಸಿರು ಎಲೆಗಳು, ಗಟ್ಟಿಯಾದ ಕವಲುಗಳು ಮತ್ತು ಕಲೆಯಿಲ್ಲದ ಕಾಳುಗಳು."
+    },
+    "solutions": [
+      {
+        "id": "sol_rh_organic_azolla",
+        "type": "organic",
+        "name": {
+          "en": "Azolla Bio-fertilizer Green Manuring",
+          "kn": "ಅಜೋಲ್ಲಾ ಜೈವಿಕ ಗೊಬ್ಬರ ಹಸಿರೆಲೆ ಗೊಬ್ಬರ"
+        },
+        "steps": {
+          "en": "Inoculate 200kg fresh Azolla per acre 7 days after transplanting. Suppresses weeds and fixes 30kg atmospheric nitrogen.",
+          "kn": "ನಾಟಿ ಮಾಡಿದ 7 ದಿನಗಳ ನಂತರ ಎಕರೆಗೆ 200 ಕೆಜಿ ಅಜೋಲ್ಲಾ ಹರಡಿ. ಕಳೆ ತಡೆದು ನೈಸರ್ಗಿಕ ಸಾರಜನಕ ಒದಗಿಸುತ್ತದೆ."
+        },
+        "dosagePerAcre": "200 kg fresh Azolla inoculant",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_rh_preventive_water",
+        "type": "preventive",
+        "name": {
+          "en": "Alternate Wetting and Drying (AWD) Irrigation",
+          "kn": "ಆವರ್ತಕ ಒಣಗಿಸುವ ಮತ್ತು ನೆನೆಸುವ (AWD) ನೀರಾವರಿ ಪದ್ಧತಿ"
+        },
+        "steps": {
+          "en": "Maintain 2-5cm water depth, allow water level to drop 5cm below soil surface before re-irrigating to encourage deep roots.",
+          "kn": "ಸದಾ ನೀರು ನಿಲ್ಲಿಸದೆ, ಮಣ್ಣು ಸ್ವಲ್ಪ ಒಣಗಿದ ನಂತರವೇ ಮತ್ತೆ ನೀರು ಹಾಯಿಸಿ ಬೇರುಗಳು ಆಳಕ್ಕೆ ಇಳಿಯಲು ನೆರವಾಗಿ."
+        },
+        "dosagePerAcre": "Water management regime",
+        "effectiveness": 5
+      }
+    ]
+  },
+  {
+    "id": "chilli_leaf_curl",
+    "crop": "chilli",
+    "name": {
+      "en": "Chilli Leaf Curl & Murda Disease",
+      "kn": "ಮೆಣಸಿನಕಾಯಿ ಮುರಡ ರೋಗ (ಎಲೆ ಸುರುಟು)"
+    },
+    "severity": "high",
+    "symptoms": {
+      "en": "Leaves curled upwards into boat shape (thrips) or downwards inverted cup (mites), thickened brittle leaves, stunted bushy plant.",
+      "kn": "ಎಲೆಗಳು ದೋಣಿಯಂತೆ ಮೇಲಕ್ಕೆ (ಹೇನುಗಳು) ಅಥವಾ ಬಟ್ಟಲಿನಂತೆ ಕೆಳಕ್ಕೆ (ನುಸಿಗಳು) ಸುರುಟಿಕೊಳ್ಳುವುದು, ಗಿಡ ಕುಬ್ಜವಾಗುವುದು."
+    },
+    "solutions": [
+      {
+        "id": "sol_clc_organic_dashaparni",
+        "type": "organic",
+        "name": {
+          "en": "Dashaparni Kashayam Botanical Insecticide",
+          "kn": "ದಶಪರ್ಣಿ ಕಷಾಯ ನೈಸರ್ಗಿಕ ಕೀಟನಾಶಕ"
+        },
+        "steps": {
+          "en": "Mix 200ml fermented 10-leaf herbal extract per 10L water. Repels and knocks down thrips and mites naturally.",
+          "kn": "10 ಲೀಟರ್ ನೀರಿಗೆ 200 ಮಿ.ಲೀ ದಶಪರ್ಣಿ ಕಷಾಯ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ. ನೈಸರ್ಗಿಕವಾಗಿ ರಸ ಹೀರುವ ಕೀಟಗಳನ್ನು ಹಿಮ್ಮೆಟ್ಟಿಸಿ."
+        },
+        "dosagePerAcre": "4 L in 200 L water",
+        "effectiveness": 4
+      },
+      {
+        "id": "sol_clc_chemical_diafenthiuron",
+        "type": "chemical",
+        "name": {
+          "en": "Diafenthiuron 50% WP (Pegasus)",
+          "kn": "ಡಯಾಫೆಂಥಿಯುರಾನ್ 50% ಡಬ್ಲ್ಯುಪಿ (ಪೆಗಾಸಸ್)"
+        },
+        "steps": {
+          "en": "Dissolve 1.25g per litre water. Vapor and contact action kills both thrips and mites under bright sunlight.",
+          "kn": "ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ 1.25 ಗ್ರಾಂ ಕರಗಿಸಿ ಬಿಸಿಲಿರುವ ಸಮಯದಲ್ಲಿ ಸಿಂಪಡಿಸಿ. ನುಸಿ ಮತ್ತು ಹೇನುಗಳನ್ನು ತ್ವರಿತವಾಗಿ ಕೊಲ್ಲುತ್ತದೆ."
+        },
+        "dosagePerAcre": "250 g in 200 L water",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_clc_preventive_border",
+        "type": "preventive",
+        "name": {
+          "en": "Maize/Sorghum Border Barrier Crop & Blue Traps",
+          "kn": "ಮೆಕ್ಕೆಜೋಳದ ಗಡಿ ರಕ್ಷಣಾ ಬೆಳೆ ಮತ್ತು ನೀಲಿ ಅಂಟು ಬಲೆಗಳು"
+        },
+        "steps": {
+          "en": "Plant 3 dense border rows of maize or sorghum around chilli field to physically block incoming thrips. Hang 15 blue traps.",
+          "kn": "ಹೊಲದ ಸುತ್ತ 3 ಸಾಲು ಮೆಕ್ಕೆಜೋಳವನ್ನು ತಡೆಗೋಡೆಯಾಗಿ ಬೆಳೆಯಿರಿ. ಹೇನು ನಿಯಂತ್ರಣಕ್ಕೆ 15 ನೀಲಿ ಅಂಟು ಬಲೆ ಕಟ್ಟಿ."
+        },
+        "dosagePerAcre": "Border seed + 15 traps per acre",
+        "effectiveness": 5
+      }
+    ]
+  },
+  {
+    "id": "chilli_anthracnose",
+    "crop": "chilli",
+    "name": {
+      "en": "Chilli Anthracnose / Fruit Rot",
+      "kn": "ಮೆಣಸಿನಕಾಯಿ ಹಣ್ಣು ಕೊಳೆ ರೋಗ (ಆಂಥ್ರಾಕ್ನೋಸ್)"
+    },
+    "severity": "high",
+    "symptoms": {
+      "en": "Circular sunken dark spots with concentric rings of black acervuli on ripe fruits, tip dieback on twigs.",
+      "kn": "ಹಣ್ಣುಗಳ ಮೇಲೆ ಕಪ್ಪು ಉಂಗುರದಂತಹ ತಗ್ಗು ಬಿದ್ದ ಕೊಳೆತ ಕಲೆಗಳು, ಕೊಂಬೆಗಳು ತುದಿಯಿಂದ ಕೆಳಕ್ಕೆ ಒಣಗುವುದು (ಡೈ-ಬ್ಯಾಕ್)."
+    },
+    "solutions": [
+      {
+        "id": "sol_can_organic_cow_dung",
+        "type": "organic",
+        "name": {
+          "en": "Cow Dung Slurry Filtrate + Turmeric Extract",
+          "kn": "ಹಸುವಿನ ಸಗಣಿ ತಿಳಿನೀರು + ಅರಿಶಿನ ಪುಡಿ ಸಿಂಪಡಣೆ"
+        },
+        "steps": {
+          "en": "Filter 5kg cow dung in 100L water. Add 200g pure turmeric powder. Spray to coat developing green and ripe pods.",
+          "kn": "100 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ 5 ಕೆಜಿ ಸಗಣಿ ಕಿವುಚಿ ಬಟ್ಟೆಯಲ್ಲಿ ಸೋಸಿ. 200 ಗ್ರಾಂ ಅರಿಶಿನ ಪುಡಿ ಬೆರೆಸಿ ಕಾಯಿಗಳ ಮೇಲೆ ಸಿಂಪಡಿಸಿ."
+        },
+        "dosagePerAcre": "5 kg dung + 200 g turmeric in 200 L",
+        "effectiveness": 4
+      },
+      {
+        "id": "sol_can_chemical_tebuconazole",
+        "type": "chemical",
+        "name": {
+          "en": "Tebuconazole 50% + Trifloxystrobin 25% WG (Nativo)",
+          "kn": "ಟೆಬುಕೊನಜೋಲ್ + ಟ್ರೈಫ್ಲಾಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ (ನೇಟಿವೊ)"
+        },
+        "steps": {
+          "en": "Dissolve 0.6g per litre water. High mesostemic protection preventing fruit rotting and ensuring export-quality pods.",
+          "kn": "ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ 0.6 ಗ್ರಾಂ ಕರಗಿಸಿ ಕಾಯಿ ಕಚ್ಚುವ ಹಂತದಲ್ಲಿ ಸಿಂಪಡಿಸಿ ಹಣ್ಣು ಕೊಳೆಯದಂತೆ ತಡೆಯಿರಿ."
+        },
+        "dosagePerAcre": "120 g in 200 L water",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_can_preventive_spacing",
+        "type": "preventive",
+        "name": {
+          "en": "Clean Picking of Diseased Pods & Seed Treatment",
+          "kn": "ರೋಗಪೀಡಿತ ಹಣ್ಣುಗಳನ್ನು ಆರಿಸಿ ನಾಶಪಡಿಸುವುದು ಮತ್ತು ಬೀಜೋಪಚಾರ"
+        },
+        "steps": {
+          "en": "Regularly pick and burn diseased fruits. Treat seeds with Trichoderma (10g/kg) before sowing.",
+          "kn": "ರೋಗಬಂದ ಹಣ್ಣುಗಳನ್ನು ಆರಿಸಿ ಹೊಲದಿಂದ ದೂರ ಸುಟ್ಟುಹಾಕಿ. ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಬೀಜಕ್ಕೆ ಟ್ರೈಕೋಡರ್ಮ (10ಗ್ರಾಂ/ಕೆಜಿ) ಲೇಪಿಸಿ."
+        },
+        "dosagePerAcre": "Seed treatment & phytosanitation",
+        "effectiveness": 5
+      }
+    ]
+  },
+  {
+    "id": "chilli_healthy",
+    "crop": "chilli",
+    "name": {
+      "en": "Chilli Healthy Plant",
+      "kn": "ಮೆಣಸಿನಕಾಯಿ ಆರೋಗ್ಯಕರ ಬೆಳೆ"
+    },
+    "severity": "low",
+    "symptoms": {
+      "en": "Glossy green flat foliage, strong branching, profuse white flowers and spotless firm peppers.",
+      "kn": "ಹೊಳೆಯುವ ಚಪ್ಪಟೆಯಾದ ಹಸಿರು ಎಲೆಗಳು, ಸಮೃದ್ಧ ಬಿಳಿ ಹೂಗಳು ಮತ್ತು ಗಟ್ಟಿಯಾದ ಕಾಯಿಗಳು."
+    },
+    "solutions": [
+      {
+        "id": "sol_ch_organic_waste_decomposer",
+        "type": "organic",
+        "name": {
+          "en": "Waste Decomposer Bio-solution Drenching",
+          "kn": "ವೇಸ್ಟ್ ಡಿಕಂಪೋಸರ್ ದ್ರಾವಣ ಮಣ್ಣಿಗೆ ಹಾಯಿಸುವುದು"
+        },
+        "steps": {
+          "en": "Mix 200L activated waste decomposer with irrigation water per acre to enrich microbial activity and mobilize soil phosphorus.",
+          "kn": "ಪ್ರತಿ ಎಕರೆಗೆ 200 ಲೀಟರ್ ಸಕ್ರಿಯ ವೇಸ್ಟ್ ಡಿಕಂಪೋಸರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಹಾಯಿಸಿ ರಂಜಕ ಮತ್ತು ಲಘು ಪೋಷಕಾಂಶ ಒದಗಿಸಿ."
+        },
+        "dosagePerAcre": "200 L per acre via flood/drip",
+        "effectiveness": 5
+      },
+      {
+        "id": "sol_ch_preventive_micronutrient",
+        "type": "preventive",
+        "name": {
+          "en": "Foliar Micronutrient Mixture (Grade 1)",
+          "kn": "ಸೂಕ್ಷ್ಮ ಪೋಷಕಾಂಶಗಳ ದ್ರಾವಣ ಸಿಂಪಡಣೆ (ಗ್ರೇಡ್ 1)"
+        },
+        "steps": {
+          "en": "Spray 2.5g micronutrient formula per litre at flowering to prevent flower drop and promote uniform fruit setting.",
+          "kn": "ಹೂವಾಡುವ ಹಂತದಲ್ಲಿ 1 ಲೀಟರ್ ನೀರಿಗೆ 2.5 ಗ್ರಾಂ ಸೂಕ್ಷ್ಮ ಪೋಷಕಾಂಶ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ ಹೂವು ಉದುರುವುದನ್ನು ತಡೆಯಿರಿ."
+        },
+        "dosagePerAcre": "500 g in 200 L water",
+        "effectiveness": 5
+      }
+    ]
+  }
+]

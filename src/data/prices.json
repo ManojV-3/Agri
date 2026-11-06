@@ -1,0 +1,218 @@
+{
+  "_disclaimer": "PLACEHOLDER PRICES ONLY: These figures represent indicative Indian retail prices and standard agronomic dosages. Real local agricultural input prices fluctuate based on season, dealer, state subsidy, and brand. Replace with local market verified rates before actual commercial spraying.",
+  "sol_eb_organic_neem": {
+    "unit": "litre",
+    "pricePerUnit": 450,
+    "unitsPerAcre": 0.5
+  },
+  "sol_eb_chemical_mancozeb": {
+    "unit": "kg",
+    "pricePerUnit": 580,
+    "unitsPerAcre": 0.6
+  },
+  "sol_eb_preventive_mulch": {
+    "unit": "tonne",
+    "pricePerUnit": 800,
+    "unitsPerAcre": 1.5
+  },
+  "sol_lb_organic_copper": {
+    "unit": "kg",
+    "pricePerUnit": 420,
+    "unitsPerAcre": 1.0
+  },
+  "sol_lb_chemical_metalaxyl": {
+    "unit": "kg",
+    "pricePerUnit": 1150,
+    "unitsPerAcre": 0.5
+  },
+  "sol_lb_preventive_drainage": {
+    "unit": "field_unit",
+    "pricePerUnit": 350,
+    "unitsPerAcre": 1.0
+  },
+  "sol_tlc_organic_traps": {
+    "unit": "pack",
+    "pricePerUnit": 320,
+    "unitsPerAcre": 1.0
+  },
+  "sol_tlc_chemical_imidacloprid": {
+    "unit": "litre",
+    "pricePerUnit": 1400,
+    "unitsPerAcre": 0.1
+  },
+  "sol_tlc_preventive_mesh": {
+    "unit": "net",
+    "pricePerUnit": 650,
+    "unitsPerAcre": 1.0
+  },
+  "sol_th_preventive_panchagavya": {
+    "unit": "litre",
+    "pricePerUnit": 120,
+    "unitsPerAcre": 6.0
+  },
+  "sol_th_preventive_scouting": {
+    "unit": "kit",
+    "pricePerUnit": 150,
+    "unitsPerAcre": 1.0
+  },
+  "sol_peb_organic_trichoderma": {
+    "unit": "kg",
+    "pricePerUnit": 220,
+    "unitsPerAcre": 1.0
+  },
+  "sol_peb_chemical_chlorothalonil": {
+    "unit": "kg",
+    "pricePerUnit": 850,
+    "unitsPerAcre": 0.5
+  },
+  "sol_peb_preventive_rotation": {
+    "unit": "acre_mgmt",
+    "pricePerUnit": 200,
+    "unitsPerAcre": 1.0
+  },
+  "sol_plb_organic_pseudomonas": {
+    "unit": "kg",
+    "pricePerUnit": 240,
+    "unitsPerAcre": 1.5
+  },
+  "sol_plb_chemical_cymoxanil": {
+    "unit": "kg",
+    "pricePerUnit": 1350,
+    "unitsPerAcre": 0.6
+  },
+  "sol_plb_preventive_earthing": {
+    "unit": "labour_shift",
+    "pricePerUnit": 450,
+    "unitsPerAcre": 1.0
+  },
+  "sol_ph_organic_jeevamrutha": {
+    "unit": "drum_200L",
+    "pricePerUnit": 280,
+    "unitsPerAcre": 1.0
+  },
+  "sol_ph_preventive_monitoring": {
+    "unit": "acre_mgmt",
+    "pricePerUnit": 100,
+    "unitsPerAcre": 1.0
+  },
+  "sol_mcr_organic_sour_buttermilk": {
+    "unit": "batch",
+    "pricePerUnit": 120,
+    "unitsPerAcre": 1.0
+  },
+  "sol_mcr_chemical_azoxystrobin": {
+    "unit": "litre",
+    "pricePerUnit": 3200,
+    "unitsPerAcre": 0.2
+  },
+  "sol_mcr_preventive_hybrid": {
+    "unit": "kg_seed",
+    "pricePerUnit": 280,
+    "unitsPerAcre": 8.0
+  },
+  "sol_faw_organic_sand_lime": {
+    "unit": "bag_10kg",
+    "pricePerUnit": 150,
+    "unitsPerAcre": 1.0
+  },
+  "sol_faw_chemical_emamectin": {
+    "unit": "100g_pack",
+    "pricePerUnit": 380,
+    "unitsPerAcre": 0.8
+  },
+  "sol_faw_preventive_pheromone": {
+    "unit": "trap_set",
+    "pricePerUnit": 540,
+    "unitsPerAcre": 1.0
+  },
+  "sol_mh_organic_compost": {
+    "unit": "quintal",
+    "pricePerUnit": 300,
+    "unitsPerAcre": 5.0
+  },
+  "sol_mh_preventive_weed": {
+    "unit": "acre_pass",
+    "pricePerUnit": 400,
+    "unitsPerAcre": 2.0
+  },
+  "sol_rb_organic_silicon": {
+    "unit": "litre",
+    "pricePerUnit": 650,
+    "unitsPerAcre": 0.4
+  },
+  "sol_rb_chemical_tricyclazole": {
+    "unit": "kg",
+    "pricePerUnit": 1600,
+    "unitsPerAcre": 0.12
+  },
+  "sol_rb_preventive_nitrogen": {
+    "unit": "mgmt",
+    "pricePerUnit": 150,
+    "unitsPerAcre": 1.0
+  },
+  "sol_rbs_organic_cow_urine": {
+    "unit": "batch_20L",
+    "pricePerUnit": 90,
+    "unitsPerAcre": 1.0
+  },
+  "sol_rbs_chemical_edifenphos": {
+    "unit": "litre",
+    "pricePerUnit": 1450,
+    "unitsPerAcre": 0.2
+  },
+  "sol_rbs_preventive_zinc": {
+    "unit": "kg",
+    "pricePerUnit": 55,
+    "unitsPerAcre": 10.0
+  },
+  "sol_rh_organic_azolla": {
+    "unit": "quintal",
+    "pricePerUnit": 250,
+    "unitsPerAcre": 2.0
+  },
+  "sol_rh_preventive_water": {
+    "unit": "mgmt",
+    "pricePerUnit": 100,
+    "unitsPerAcre": 1.0
+  },
+  "sol_clc_organic_dashaparni": {
+    "unit": "litre",
+    "pricePerUnit": 80,
+    "unitsPerAcre": 4.0
+  },
+  "sol_clc_chemical_diafenthiuron": {
+    "unit": "kg",
+    "pricePerUnit": 2100,
+    "unitsPerAcre": 0.25
+  },
+  "sol_clc_preventive_border": {
+    "unit": "barrier_kit",
+    "pricePerUnit": 420,
+    "unitsPerAcre": 1.0
+  },
+  "sol_can_organic_cow_dung": {
+    "unit": "mix",
+    "pricePerUnit": 120,
+    "unitsPerAcre": 1.0
+  },
+  "sol_can_chemical_tebuconazole": {
+    "unit": "100g_pack",
+    "pricePerUnit": 680,
+    "unitsPerAcre": 1.2
+  },
+  "sol_can_preventive_spacing": {
+    "unit": "kit",
+    "pricePerUnit": 180,
+    "unitsPerAcre": 1.0
+  },
+  "sol_ch_organic_waste_decomposer": {
+    "unit": "bottle",
+    "pricePerUnit": 50,
+    "unitsPerAcre": 1.0
+  },
+  "sol_ch_preventive_micronutrient": {
+    "unit": "kg",
+    "pricePerUnit": 240,
+    "unitsPerAcre": 0.5
+  }
+}

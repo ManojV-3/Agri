@@ -1,0 +1,14 @@
+{
+  "modelName": "KRISHI MobileNet Leaf Disease Classifier",
+  "architecture": "Lightweight Mobile CNN / Feature-Dense Classifier",
+  "inputShape": [
+    1,
+    32
+  ],
+  "format": "tfjs-layers-model",
+  "classesCount": 16,
+  "trainedOn": "2026-11-05T19:36:56.090Z",
+  "overallAccuracy": "96.3%",
+  "totalTestImages": 160,
+  "correctPredictions": 154
+}

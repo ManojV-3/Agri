@@ -1,0 +1,3682 @@
+[
+  {
+    "id": "test_tomato_early_blight_01",
+    "sampleNumber": 1,
+    "crop": "tomato",
+    "diseaseId": "tomato_early_blight",
+    "diseaseName": "Tomato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 0,
+    "featureSummary": {
+      "meanRGB": [
+        0.461,
+        0.445,
+        0.187
+      ],
+      "exG": 0.209,
+      "darkLesions": 0.347,
+      "edgeVariance": 0.646
+    },
+    "predictedClassIndex": 0,
+    "predictedDiseaseId": "tomato_early_blight",
+    "confidence": 94.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_early_blight_02",
+    "sampleNumber": 2,
+    "crop": "tomato",
+    "diseaseId": "tomato_early_blight",
+    "diseaseName": "Tomato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 0,
+    "featureSummary": {
+      "meanRGB": [
+        0.483,
+        0.434,
+        0.153
+      ],
+      "exG": 0.238,
+      "darkLesions": 0.316,
+      "edgeVariance": 0.68
+    },
+    "predictedClassIndex": 0,
+    "predictedDiseaseId": "tomato_early_blight",
+    "confidence": 94.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_early_blight_03",
+    "sampleNumber": 3,
+    "crop": "tomato",
+    "diseaseId": "tomato_early_blight",
+    "diseaseName": "Tomato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 0,
+    "featureSummary": {
+      "meanRGB": [
+        0.479,
+        0.402,
+        0.123
+      ],
+      "exG": 0.244,
+      "darkLesions": 0.305,
+      "edgeVariance": 0.695
+    },
+    "predictedClassIndex": 0,
+    "predictedDiseaseId": "tomato_early_blight",
+    "confidence": 96.2,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_early_blight_04",
+    "sampleNumber": 4,
+    "crop": "tomato",
+    "diseaseId": "tomato_early_blight",
+    "diseaseName": "Tomato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 0,
+    "featureSummary": {
+      "meanRGB": [
+        0.451,
+        0.369,
+        0.116
+      ],
+      "exG": 0.223,
+      "darkLesions": 0.322,
+      "edgeVariance": 0.683
+    },
+    "predictedClassIndex": 0,
+    "predictedDiseaseId": "tomato_early_blight",
+    "confidence": 96.4,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_early_blight_05",
+    "sampleNumber": 5,
+    "crop": "tomato",
+    "diseaseId": "tomato_early_blight",
+    "diseaseName": "Tomato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 0,
+    "featureSummary": {
+      "meanRGB": [
+        0.416,
+        0.355,
+        0.135
+      ],
+      "exG": 0.188,
+      "darkLesions": 0.356,
+      "edgeVariance": 0.65
+    },
+    "predictedClassIndex": 0,
+    "predictedDiseaseId": "tomato_early_blight",
+    "confidence": 95.6,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_early_blight_06",
+    "sampleNumber": 6,
+    "crop": "tomato",
+    "diseaseId": "tomato_early_blight",
+    "diseaseName": "Tomato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 0,
+    "featureSummary": {
+      "meanRGB": [
+        0.396,
+        0.368,
+        0.17
+      ],
+      "exG": 0.16,
+      "darkLesions": 0.386,
+      "edgeVariance": 0.618
+    },
+    "predictedClassIndex": 0,
+    "predictedDiseaseId": "tomato_early_blight",
+    "confidence": 93.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_early_blight_07",
+    "sampleNumber": 7,
+    "crop": "tomato",
+    "diseaseId": "tomato_early_blight",
+    "diseaseName": "Tomato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 0,
+    "featureSummary": {
+      "meanRGB": [
+        0.403,
+        0.401,
+        0.198
+      ],
+      "exG": 0.157,
+      "darkLesions": 0.394,
+      "edgeVariance": 0.605
+    },
+    "predictedClassIndex": 0,
+    "predictedDiseaseId": "tomato_early_blight",
+    "confidence": 92.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_early_blight_08",
+    "sampleNumber": 8,
+    "crop": "tomato",
+    "diseaseId": "tomato_early_blight",
+    "diseaseName": "Tomato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 0,
+    "featureSummary": {
+      "meanRGB": [
+        0.432,
+        0.433,
+        0.204
+      ],
+      "exG": 0.18,
+      "darkLesions": 0.375,
+      "edgeVariance": 0.62
+    },
+    "predictedClassIndex": 0,
+    "predictedDiseaseId": "tomato_early_blight",
+    "confidence": 94.4,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_early_blight_09",
+    "sampleNumber": 9,
+    "crop": "tomato",
+    "diseaseId": "tomato_early_blight",
+    "diseaseName": "Tomato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 0,
+    "featureSummary": {
+      "meanRGB": [
+        0.467,
+        0.445,
+        0.182
+      ],
+      "exG": 0.215,
+      "darkLesions": 0.341,
+      "edgeVariance": 0.653
+    },
+    "predictedClassIndex": 0,
+    "predictedDiseaseId": "tomato_early_blight",
+    "confidence": 94.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_early_blight_10",
+    "sampleNumber": 10,
+    "crop": "tomato",
+    "diseaseId": "tomato_early_blight",
+    "diseaseName": "Tomato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 0,
+    "featureSummary": {
+      "meanRGB": [
+        0.485,
+        0.429,
+        0.147
+      ],
+      "exG": 0.241,
+      "darkLesions": 0.312,
+      "edgeVariance": 0.684
+    },
+    "predictedClassIndex": 0,
+    "predictedDiseaseId": "tomato_early_blight",
+    "confidence": 95.2,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_late_blight_01",
+    "sampleNumber": 1,
+    "crop": "tomato",
+    "diseaseId": "tomato_late_blight",
+    "diseaseName": "Tomato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 1,
+    "featureSummary": {
+      "meanRGB": [
+        0.301,
+        0.365,
+        0.207
+      ],
+      "exG": 0.189,
+      "darkLesions": 0.547,
+      "edgeVariance": 0.546
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 95.5,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_late_blight_02",
+    "sampleNumber": 2,
+    "crop": "tomato",
+    "diseaseId": "tomato_late_blight",
+    "diseaseName": "Tomato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 1,
+    "featureSummary": {
+      "meanRGB": [
+        0.323,
+        0.354,
+        0.173
+      ],
+      "exG": 0.218,
+      "darkLesions": 0.516,
+      "edgeVariance": 0.58
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 95.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_late_blight_03",
+    "sampleNumber": 3,
+    "crop": "tomato",
+    "diseaseId": "tomato_late_blight",
+    "diseaseName": "Tomato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 1,
+    "featureSummary": {
+      "meanRGB": [
+        0.319,
+        0.322,
+        0.143
+      ],
+      "exG": 0.224,
+      "darkLesions": 0.505,
+      "edgeVariance": 0.595
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 95.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_late_blight_04",
+    "sampleNumber": 4,
+    "crop": "tomato",
+    "diseaseId": "tomato_late_blight",
+    "diseaseName": "Tomato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 1,
+    "featureSummary": {
+      "meanRGB": [
+        0.291,
+        0.289,
+        0.136
+      ],
+      "exG": 0.203,
+      "darkLesions": 0.522,
+      "edgeVariance": 0.583
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 95.2,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_late_blight_05",
+    "sampleNumber": 5,
+    "crop": "tomato",
+    "diseaseId": "tomato_late_blight",
+    "diseaseName": "Tomato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 1,
+    "featureSummary": {
+      "meanRGB": [
+        0.256,
+        0.275,
+        0.155
+      ],
+      "exG": 0.168,
+      "darkLesions": 0.556,
+      "edgeVariance": 0.55
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 94.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_late_blight_06",
+    "sampleNumber": 6,
+    "crop": "tomato",
+    "diseaseId": "tomato_late_blight",
+    "diseaseName": "Tomato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 1,
+    "featureSummary": {
+      "meanRGB": [
+        0.236,
+        0.288,
+        0.19
+      ],
+      "exG": 0.14,
+      "darkLesions": 0.586,
+      "edgeVariance": 0.518
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 94.6,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_late_blight_07",
+    "sampleNumber": 7,
+    "crop": "tomato",
+    "diseaseId": "tomato_late_blight",
+    "diseaseName": "Tomato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 1,
+    "featureSummary": {
+      "meanRGB": [
+        0.243,
+        0.321,
+        0.218
+      ],
+      "exG": 0.137,
+      "darkLesions": 0.594,
+      "edgeVariance": 0.505
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 94.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_late_blight_08",
+    "sampleNumber": 8,
+    "crop": "tomato",
+    "diseaseId": "tomato_late_blight",
+    "diseaseName": "Tomato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 1,
+    "featureSummary": {
+      "meanRGB": [
+        0.272,
+        0.353,
+        0.224
+      ],
+      "exG": 0.16,
+      "darkLesions": 0.575,
+      "edgeVariance": 0.52
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 95.1,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_late_blight_09",
+    "sampleNumber": 9,
+    "crop": "tomato",
+    "diseaseId": "tomato_late_blight",
+    "diseaseName": "Tomato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 1,
+    "featureSummary": {
+      "meanRGB": [
+        0.307,
+        0.365,
+        0.202
+      ],
+      "exG": 0.195,
+      "darkLesions": 0.541,
+      "edgeVariance": 0.553
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 95.6,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_late_blight_10",
+    "sampleNumber": 10,
+    "crop": "tomato",
+    "diseaseId": "tomato_late_blight",
+    "diseaseName": "Tomato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 1,
+    "featureSummary": {
+      "meanRGB": [
+        0.325,
+        0.349,
+        0.167
+      ],
+      "exG": 0.221,
+      "darkLesions": 0.512,
+      "edgeVariance": 0.584
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 95.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_leaf_curl_01",
+    "sampleNumber": 1,
+    "crop": "tomato",
+    "diseaseId": "tomato_leaf_curl",
+    "diseaseName": "Tomato Yellow Leaf Curl Virus",
+    "severity": "high",
+    "trueClassIndex": 2,
+    "featureSummary": {
+      "meanRGB": [
+        0.571,
+        0.665,
+        0.207
+      ],
+      "exG": 0.519,
+      "darkLesions": 0.037,
+      "edgeVariance": 0.816
+    },
+    "predictedClassIndex": 2,
+    "predictedDiseaseId": "tomato_leaf_curl",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_leaf_curl_02",
+    "sampleNumber": 2,
+    "crop": "tomato",
+    "diseaseId": "tomato_leaf_curl",
+    "diseaseName": "Tomato Yellow Leaf Curl Virus",
+    "severity": "high",
+    "trueClassIndex": 2,
+    "featureSummary": {
+      "meanRGB": [
+        0.593,
+        0.654,
+        0.173
+      ],
+      "exG": 0.548,
+      "darkLesions": 0.006,
+      "edgeVariance": 0.85
+    },
+    "predictedClassIndex": 2,
+    "predictedDiseaseId": "tomato_leaf_curl",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_leaf_curl_03",
+    "sampleNumber": 3,
+    "crop": "tomato",
+    "diseaseId": "tomato_leaf_curl",
+    "diseaseName": "Tomato Yellow Leaf Curl Virus",
+    "severity": "high",
+    "trueClassIndex": 2,
+    "featureSummary": {
+      "meanRGB": [
+        0.589,
+        0.622,
+        0.143
+      ],
+      "exG": 0.554,
+      "darkLesions": 0,
+      "edgeVariance": 0.865
+    },
+    "predictedClassIndex": 2,
+    "predictedDiseaseId": "tomato_leaf_curl",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_leaf_curl_04",
+    "sampleNumber": 4,
+    "crop": "tomato",
+    "diseaseId": "tomato_leaf_curl",
+    "diseaseName": "Tomato Yellow Leaf Curl Virus",
+    "severity": "high",
+    "trueClassIndex": 2,
+    "featureSummary": {
+      "meanRGB": [
+        0.561,
+        0.589,
+        0.136
+      ],
+      "exG": 0.533,
+      "darkLesions": 0.012,
+      "edgeVariance": 0.853
+    },
+    "predictedClassIndex": 2,
+    "predictedDiseaseId": "tomato_leaf_curl",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_leaf_curl_05",
+    "sampleNumber": 5,
+    "crop": "tomato",
+    "diseaseId": "tomato_leaf_curl",
+    "diseaseName": "Tomato Yellow Leaf Curl Virus",
+    "severity": "high",
+    "trueClassIndex": 2,
+    "featureSummary": {
+      "meanRGB": [
+        0.526,
+        0.575,
+        0.155
+      ],
+      "exG": 0.498,
+      "darkLesions": 0.046,
+      "edgeVariance": 0.82
+    },
+    "predictedClassIndex": 2,
+    "predictedDiseaseId": "tomato_leaf_curl",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_leaf_curl_06",
+    "sampleNumber": 6,
+    "crop": "tomato",
+    "diseaseId": "tomato_leaf_curl",
+    "diseaseName": "Tomato Yellow Leaf Curl Virus",
+    "severity": "high",
+    "trueClassIndex": 2,
+    "featureSummary": {
+      "meanRGB": [
+        0.506,
+        0.588,
+        0.19
+      ],
+      "exG": 0.47,
+      "darkLesions": 0.076,
+      "edgeVariance": 0.788
+    },
+    "predictedClassIndex": 2,
+    "predictedDiseaseId": "tomato_leaf_curl",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_leaf_curl_07",
+    "sampleNumber": 7,
+    "crop": "tomato",
+    "diseaseId": "tomato_leaf_curl",
+    "diseaseName": "Tomato Yellow Leaf Curl Virus",
+    "severity": "high",
+    "trueClassIndex": 2,
+    "featureSummary": {
+      "meanRGB": [
+        0.513,
+        0.621,
+        0.218
+      ],
+      "exG": 0.467,
+      "darkLesions": 0.084,
+      "edgeVariance": 0.775
+    },
+    "predictedClassIndex": 2,
+    "predictedDiseaseId": "tomato_leaf_curl",
+    "confidence": 99.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_leaf_curl_08",
+    "sampleNumber": 8,
+    "crop": "tomato",
+    "diseaseId": "tomato_leaf_curl",
+    "diseaseName": "Tomato Yellow Leaf Curl Virus",
+    "severity": "high",
+    "trueClassIndex": 2,
+    "featureSummary": {
+      "meanRGB": [
+        0.542,
+        0.653,
+        0.224
+      ],
+      "exG": 0.49,
+      "darkLesions": 0.065,
+      "edgeVariance": 0.79
+    },
+    "predictedClassIndex": 2,
+    "predictedDiseaseId": "tomato_leaf_curl",
+    "confidence": 99.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_leaf_curl_09",
+    "sampleNumber": 9,
+    "crop": "tomato",
+    "diseaseId": "tomato_leaf_curl",
+    "diseaseName": "Tomato Yellow Leaf Curl Virus",
+    "severity": "high",
+    "trueClassIndex": 2,
+    "featureSummary": {
+      "meanRGB": [
+        0.577,
+        0.665,
+        0.202
+      ],
+      "exG": 0.525,
+      "darkLesions": 0.031,
+      "edgeVariance": 0.823
+    },
+    "predictedClassIndex": 2,
+    "predictedDiseaseId": "tomato_leaf_curl",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_leaf_curl_10",
+    "sampleNumber": 10,
+    "crop": "tomato",
+    "diseaseId": "tomato_leaf_curl",
+    "diseaseName": "Tomato Yellow Leaf Curl Virus",
+    "severity": "high",
+    "trueClassIndex": 2,
+    "featureSummary": {
+      "meanRGB": [
+        0.595,
+        0.649,
+        0.167
+      ],
+      "exG": 0.551,
+      "darkLesions": 0.002,
+      "edgeVariance": 0.854
+    },
+    "predictedClassIndex": 2,
+    "predictedDiseaseId": "tomato_leaf_curl",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_healthy_01",
+    "sampleNumber": 1,
+    "crop": "tomato",
+    "diseaseId": "tomato_healthy",
+    "diseaseName": "Tomato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 3,
+    "featureSummary": {
+      "meanRGB": [
+        0.241,
+        0.725,
+        0.207
+      ],
+      "exG": 0.969,
+      "darkLesions": 0.007,
+      "edgeVariance": 0.216
+    },
+    "predictedClassIndex": 3,
+    "predictedDiseaseId": "tomato_healthy",
+    "confidence": 71.5,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_healthy_02",
+    "sampleNumber": 2,
+    "crop": "tomato",
+    "diseaseId": "tomato_healthy",
+    "diseaseName": "Tomato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 3,
+    "featureSummary": {
+      "meanRGB": [
+        0.263,
+        0.714,
+        0.173
+      ],
+      "exG": 0.998,
+      "darkLesions": 0,
+      "edgeVariance": 0.25
+    },
+    "predictedClassIndex": 3,
+    "predictedDiseaseId": "tomato_healthy",
+    "confidence": 72.3,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_healthy_03",
+    "sampleNumber": 3,
+    "crop": "tomato",
+    "diseaseId": "tomato_healthy",
+    "diseaseName": "Tomato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 3,
+    "featureSummary": {
+      "meanRGB": [
+        0.259,
+        0.682,
+        0.143
+      ],
+      "exG": 1.004,
+      "darkLesions": 0,
+      "edgeVariance": 0.265
+    },
+    "predictedClassIndex": 3,
+    "predictedDiseaseId": "tomato_healthy",
+    "confidence": 66.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_healthy_04",
+    "sampleNumber": 4,
+    "crop": "tomato",
+    "diseaseId": "tomato_healthy",
+    "diseaseName": "Tomato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 3,
+    "featureSummary": {
+      "meanRGB": [
+        0.231,
+        0.649,
+        0.136
+      ],
+      "exG": 0.983,
+      "darkLesions": 0,
+      "edgeVariance": 0.253
+    },
+    "predictedClassIndex": 3,
+    "predictedDiseaseId": "tomato_healthy",
+    "confidence": 60.6,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_healthy_05",
+    "sampleNumber": 5,
+    "crop": "tomato",
+    "diseaseId": "tomato_healthy",
+    "diseaseName": "Tomato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 3,
+    "featureSummary": {
+      "meanRGB": [
+        0.196,
+        0.635,
+        0.155
+      ],
+      "exG": 0.948,
+      "darkLesions": 0.016,
+      "edgeVariance": 0.22
+    },
+    "predictedClassIndex": 3,
+    "predictedDiseaseId": "tomato_healthy",
+    "confidence": 57.6,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_healthy_06",
+    "sampleNumber": 6,
+    "crop": "tomato",
+    "diseaseId": "tomato_healthy",
+    "diseaseName": "Tomato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 3,
+    "featureSummary": {
+      "meanRGB": [
+        0.176,
+        0.648,
+        0.19
+      ],
+      "exG": 0.92,
+      "darkLesions": 0.046,
+      "edgeVariance": 0.188
+    },
+    "predictedClassIndex": 3,
+    "predictedDiseaseId": "tomato_healthy",
+    "confidence": 56.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_healthy_07",
+    "sampleNumber": 7,
+    "crop": "tomato",
+    "diseaseId": "tomato_healthy",
+    "diseaseName": "Tomato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 3,
+    "featureSummary": {
+      "meanRGB": [
+        0.183,
+        0.681,
+        0.218
+      ],
+      "exG": 0.917,
+      "darkLesions": 0.054,
+      "edgeVariance": 0.175
+    },
+    "predictedClassIndex": 3,
+    "predictedDiseaseId": "tomato_healthy",
+    "confidence": 59.1,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_healthy_08",
+    "sampleNumber": 8,
+    "crop": "tomato",
+    "diseaseId": "tomato_healthy",
+    "diseaseName": "Tomato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 3,
+    "featureSummary": {
+      "meanRGB": [
+        0.212,
+        0.713,
+        0.224
+      ],
+      "exG": 0.94,
+      "darkLesions": 0.035,
+      "edgeVariance": 0.19
+    },
+    "predictedClassIndex": 3,
+    "predictedDiseaseId": "tomato_healthy",
+    "confidence": 64.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_healthy_09",
+    "sampleNumber": 9,
+    "crop": "tomato",
+    "diseaseId": "tomato_healthy",
+    "diseaseName": "Tomato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 3,
+    "featureSummary": {
+      "meanRGB": [
+        0.247,
+        0.725,
+        0.202
+      ],
+      "exG": 0.975,
+      "darkLesions": 0.001,
+      "edgeVariance": 0.223
+    },
+    "predictedClassIndex": 3,
+    "predictedDiseaseId": "tomato_healthy",
+    "confidence": 72.3,
+    "isCorrect": true
+  },
+  {
+    "id": "test_tomato_healthy_10",
+    "sampleNumber": 10,
+    "crop": "tomato",
+    "diseaseId": "tomato_healthy",
+    "diseaseName": "Tomato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 3,
+    "featureSummary": {
+      "meanRGB": [
+        0.265,
+        0.709,
+        0.167
+      ],
+      "exG": 1.001,
+      "darkLesions": 0,
+      "edgeVariance": 0.254
+    },
+    "predictedClassIndex": 3,
+    "predictedDiseaseId": "tomato_healthy",
+    "confidence": 71.6,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_early_blight_01",
+    "sampleNumber": 1,
+    "crop": "potato",
+    "diseaseId": "potato_early_blight",
+    "diseaseName": "Potato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 4,
+    "featureSummary": {
+      "meanRGB": [
+        0.441,
+        0.465,
+        0.177
+      ],
+      "exG": 0.279,
+      "darkLesions": 0.317,
+      "edgeVariance": 0.616
+    },
+    "predictedClassIndex": 4,
+    "predictedDiseaseId": "potato_early_blight",
+    "confidence": 96.1,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_early_blight_02",
+    "sampleNumber": 2,
+    "crop": "potato",
+    "diseaseId": "potato_early_blight",
+    "diseaseName": "Potato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 4,
+    "featureSummary": {
+      "meanRGB": [
+        0.463,
+        0.454,
+        0.143
+      ],
+      "exG": 0.308,
+      "darkLesions": 0.286,
+      "edgeVariance": 0.65
+    },
+    "predictedClassIndex": 4,
+    "predictedDiseaseId": "potato_early_blight",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_early_blight_03",
+    "sampleNumber": 3,
+    "crop": "potato",
+    "diseaseId": "potato_early_blight",
+    "diseaseName": "Potato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 4,
+    "featureSummary": {
+      "meanRGB": [
+        0.459,
+        0.422,
+        0.113
+      ],
+      "exG": 0.314,
+      "darkLesions": 0.275,
+      "edgeVariance": 0.665
+    },
+    "predictedClassIndex": 4,
+    "predictedDiseaseId": "potato_early_blight",
+    "confidence": 99.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_early_blight_04",
+    "sampleNumber": 4,
+    "crop": "potato",
+    "diseaseId": "potato_early_blight",
+    "diseaseName": "Potato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 4,
+    "featureSummary": {
+      "meanRGB": [
+        0.431,
+        0.389,
+        0.106
+      ],
+      "exG": 0.293,
+      "darkLesions": 0.292,
+      "edgeVariance": 0.653
+    },
+    "predictedClassIndex": 4,
+    "predictedDiseaseId": "potato_early_blight",
+    "confidence": 99.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_early_blight_05",
+    "sampleNumber": 5,
+    "crop": "potato",
+    "diseaseId": "potato_early_blight",
+    "diseaseName": "Potato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 4,
+    "featureSummary": {
+      "meanRGB": [
+        0.396,
+        0.375,
+        0.125
+      ],
+      "exG": 0.258,
+      "darkLesions": 0.326,
+      "edgeVariance": 0.62
+    },
+    "predictedClassIndex": 4,
+    "predictedDiseaseId": "potato_early_blight",
+    "confidence": 95.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_early_blight_06",
+    "sampleNumber": 6,
+    "crop": "potato",
+    "diseaseId": "potato_early_blight",
+    "diseaseName": "Potato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 4,
+    "featureSummary": {
+      "meanRGB": [
+        0.376,
+        0.388,
+        0.16
+      ],
+      "exG": 0.23,
+      "darkLesions": 0.356,
+      "edgeVariance": 0.588
+    },
+    "predictedClassIndex": 4,
+    "predictedDiseaseId": "potato_early_blight",
+    "confidence": 96.4,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_early_blight_07",
+    "sampleNumber": 7,
+    "crop": "potato",
+    "diseaseId": "potato_early_blight",
+    "diseaseName": "Potato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 4,
+    "featureSummary": {
+      "meanRGB": [
+        0.383,
+        0.421,
+        0.188
+      ],
+      "exG": 0.227,
+      "darkLesions": 0.364,
+      "edgeVariance": 0.575
+    },
+    "predictedClassIndex": 4,
+    "predictedDiseaseId": "potato_early_blight",
+    "confidence": 96.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_early_blight_08",
+    "sampleNumber": 8,
+    "crop": "potato",
+    "diseaseId": "potato_early_blight",
+    "diseaseName": "Potato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 4,
+    "featureSummary": {
+      "meanRGB": [
+        0.412,
+        0.453,
+        0.194
+      ],
+      "exG": 0.25,
+      "darkLesions": 0.345,
+      "edgeVariance": 0.59
+    },
+    "predictedClassIndex": 4,
+    "predictedDiseaseId": "potato_early_blight",
+    "confidence": 96.4,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_early_blight_09",
+    "sampleNumber": 9,
+    "crop": "potato",
+    "diseaseId": "potato_early_blight",
+    "diseaseName": "Potato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 4,
+    "featureSummary": {
+      "meanRGB": [
+        0.447,
+        0.465,
+        0.172
+      ],
+      "exG": 0.285,
+      "darkLesions": 0.311,
+      "edgeVariance": 0.623
+    },
+    "predictedClassIndex": 4,
+    "predictedDiseaseId": "potato_early_blight",
+    "confidence": 96,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_early_blight_10",
+    "sampleNumber": 10,
+    "crop": "potato",
+    "diseaseId": "potato_early_blight",
+    "diseaseName": "Potato Early Blight",
+    "severity": "medium",
+    "trueClassIndex": 4,
+    "featureSummary": {
+      "meanRGB": [
+        0.465,
+        0.449,
+        0.137
+      ],
+      "exG": 0.311,
+      "darkLesions": 0.282,
+      "edgeVariance": 0.654
+    },
+    "predictedClassIndex": 4,
+    "predictedDiseaseId": "potato_early_blight",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_late_blight_01",
+    "sampleNumber": 1,
+    "crop": "potato",
+    "diseaseId": "potato_late_blight",
+    "diseaseName": "Potato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 5,
+    "featureSummary": {
+      "meanRGB": [
+        0.281,
+        0.345,
+        0.187
+      ],
+      "exG": 0.189,
+      "darkLesions": 0.577,
+      "edgeVariance": 0.516
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 53.4,
+    "isCorrect": false
+  },
+  {
+    "id": "test_potato_late_blight_02",
+    "sampleNumber": 2,
+    "crop": "potato",
+    "diseaseId": "potato_late_blight",
+    "diseaseName": "Potato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 5,
+    "featureSummary": {
+      "meanRGB": [
+        0.303,
+        0.334,
+        0.153
+      ],
+      "exG": 0.218,
+      "darkLesions": 0.546,
+      "edgeVariance": 0.55
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 59,
+    "isCorrect": false
+  },
+  {
+    "id": "test_potato_late_blight_03",
+    "sampleNumber": 3,
+    "crop": "potato",
+    "diseaseId": "potato_late_blight",
+    "diseaseName": "Potato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 5,
+    "featureSummary": {
+      "meanRGB": [
+        0.299,
+        0.302,
+        0.123
+      ],
+      "exG": 0.224,
+      "darkLesions": 0.535,
+      "edgeVariance": 0.565
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 56.9,
+    "isCorrect": false
+  },
+  {
+    "id": "test_potato_late_blight_04",
+    "sampleNumber": 4,
+    "crop": "potato",
+    "diseaseId": "potato_late_blight",
+    "diseaseName": "Potato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 5,
+    "featureSummary": {
+      "meanRGB": [
+        0.271,
+        0.269,
+        0.116
+      ],
+      "exG": 0.203,
+      "darkLesions": 0.552,
+      "edgeVariance": 0.553
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 51.6,
+    "isCorrect": false
+  },
+  {
+    "id": "test_potato_late_blight_05",
+    "sampleNumber": 5,
+    "crop": "potato",
+    "diseaseId": "potato_late_blight",
+    "diseaseName": "Potato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 5,
+    "featureSummary": {
+      "meanRGB": [
+        0.236,
+        0.255,
+        0.135
+      ],
+      "exG": 0.168,
+      "darkLesions": 0.586,
+      "edgeVariance": 0.52
+    },
+    "predictedClassIndex": 5,
+    "predictedDiseaseId": "potato_late_blight",
+    "confidence": 53,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_late_blight_06",
+    "sampleNumber": 6,
+    "crop": "potato",
+    "diseaseId": "potato_late_blight",
+    "diseaseName": "Potato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 5,
+    "featureSummary": {
+      "meanRGB": [
+        0.216,
+        0.268,
+        0.17
+      ],
+      "exG": 0.14,
+      "darkLesions": 0.616,
+      "edgeVariance": 0.488
+    },
+    "predictedClassIndex": 5,
+    "predictedDiseaseId": "potato_late_blight",
+    "confidence": 54.1,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_late_blight_07",
+    "sampleNumber": 7,
+    "crop": "potato",
+    "diseaseId": "potato_late_blight",
+    "diseaseName": "Potato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 5,
+    "featureSummary": {
+      "meanRGB": [
+        0.223,
+        0.301,
+        0.198
+      ],
+      "exG": 0.137,
+      "darkLesions": 0.624,
+      "edgeVariance": 0.475
+    },
+    "predictedClassIndex": 5,
+    "predictedDiseaseId": "potato_late_blight",
+    "confidence": 53.2,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_late_blight_08",
+    "sampleNumber": 8,
+    "crop": "potato",
+    "diseaseId": "potato_late_blight",
+    "diseaseName": "Potato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 5,
+    "featureSummary": {
+      "meanRGB": [
+        0.252,
+        0.333,
+        0.204
+      ],
+      "exG": 0.16,
+      "darkLesions": 0.605,
+      "edgeVariance": 0.49
+    },
+    "predictedClassIndex": 5,
+    "predictedDiseaseId": "potato_late_blight",
+    "confidence": 50.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_late_blight_09",
+    "sampleNumber": 9,
+    "crop": "potato",
+    "diseaseId": "potato_late_blight",
+    "diseaseName": "Potato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 5,
+    "featureSummary": {
+      "meanRGB": [
+        0.287,
+        0.345,
+        0.182
+      ],
+      "exG": 0.195,
+      "darkLesions": 0.571,
+      "edgeVariance": 0.523
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 54.5,
+    "isCorrect": false
+  },
+  {
+    "id": "test_potato_late_blight_10",
+    "sampleNumber": 10,
+    "crop": "potato",
+    "diseaseId": "potato_late_blight",
+    "diseaseName": "Potato Late Blight",
+    "severity": "high",
+    "trueClassIndex": 5,
+    "featureSummary": {
+      "meanRGB": [
+        0.305,
+        0.329,
+        0.147
+      ],
+      "exG": 0.221,
+      "darkLesions": 0.542,
+      "edgeVariance": 0.554
+    },
+    "predictedClassIndex": 1,
+    "predictedDiseaseId": "tomato_late_blight",
+    "confidence": 59.3,
+    "isCorrect": false
+  },
+  {
+    "id": "test_potato_healthy_01",
+    "sampleNumber": 1,
+    "crop": "potato",
+    "diseaseId": "potato_healthy",
+    "diseaseName": "Potato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 6,
+    "featureSummary": {
+      "meanRGB": [
+        0.221,
+        0.745,
+        0.187
+      ],
+      "exG": 1.049,
+      "darkLesions": 0.007,
+      "edgeVariance": 0.196
+    },
+    "predictedClassIndex": 6,
+    "predictedDiseaseId": "potato_healthy",
+    "confidence": 66.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_healthy_02",
+    "sampleNumber": 2,
+    "crop": "potato",
+    "diseaseId": "potato_healthy",
+    "diseaseName": "Potato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 6,
+    "featureSummary": {
+      "meanRGB": [
+        0.243,
+        0.734,
+        0.153
+      ],
+      "exG": 1.078,
+      "darkLesions": 0,
+      "edgeVariance": 0.23
+    },
+    "predictedClassIndex": 6,
+    "predictedDiseaseId": "potato_healthy",
+    "confidence": 66.4,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_healthy_03",
+    "sampleNumber": 3,
+    "crop": "potato",
+    "diseaseId": "potato_healthy",
+    "diseaseName": "Potato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 6,
+    "featureSummary": {
+      "meanRGB": [
+        0.239,
+        0.702,
+        0.123
+      ],
+      "exG": 1.084,
+      "darkLesions": 0,
+      "edgeVariance": 0.245
+    },
+    "predictedClassIndex": 6,
+    "predictedDiseaseId": "potato_healthy",
+    "confidence": 71.1,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_healthy_04",
+    "sampleNumber": 4,
+    "crop": "potato",
+    "diseaseId": "potato_healthy",
+    "diseaseName": "Potato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 6,
+    "featureSummary": {
+      "meanRGB": [
+        0.211,
+        0.669,
+        0.116
+      ],
+      "exG": 1.063,
+      "darkLesions": 0,
+      "edgeVariance": 0.233
+    },
+    "predictedClassIndex": 6,
+    "predictedDiseaseId": "potato_healthy",
+    "confidence": 76.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_healthy_05",
+    "sampleNumber": 5,
+    "crop": "potato",
+    "diseaseId": "potato_healthy",
+    "diseaseName": "Potato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 6,
+    "featureSummary": {
+      "meanRGB": [
+        0.176,
+        0.655,
+        0.135
+      ],
+      "exG": 1.028,
+      "darkLesions": 0.016,
+      "edgeVariance": 0.2
+    },
+    "predictedClassIndex": 6,
+    "predictedDiseaseId": "potato_healthy",
+    "confidence": 78.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_healthy_06",
+    "sampleNumber": 6,
+    "crop": "potato",
+    "diseaseId": "potato_healthy",
+    "diseaseName": "Potato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 6,
+    "featureSummary": {
+      "meanRGB": [
+        0.156,
+        0.668,
+        0.17
+      ],
+      "exG": 1,
+      "darkLesions": 0.046,
+      "edgeVariance": 0.168
+    },
+    "predictedClassIndex": 6,
+    "predictedDiseaseId": "potato_healthy",
+    "confidence": 77.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_healthy_07",
+    "sampleNumber": 7,
+    "crop": "potato",
+    "diseaseId": "potato_healthy",
+    "diseaseName": "Potato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 6,
+    "featureSummary": {
+      "meanRGB": [
+        0.163,
+        0.701,
+        0.198
+      ],
+      "exG": 0.997,
+      "darkLesions": 0.054,
+      "edgeVariance": 0.155
+    },
+    "predictedClassIndex": 6,
+    "predictedDiseaseId": "potato_healthy",
+    "confidence": 75.4,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_healthy_08",
+    "sampleNumber": 8,
+    "crop": "potato",
+    "diseaseId": "potato_healthy",
+    "diseaseName": "Potato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 6,
+    "featureSummary": {
+      "meanRGB": [
+        0.192,
+        0.733,
+        0.204
+      ],
+      "exG": 1.02,
+      "darkLesions": 0.035,
+      "edgeVariance": 0.17
+    },
+    "predictedClassIndex": 6,
+    "predictedDiseaseId": "potato_healthy",
+    "confidence": 71.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_healthy_09",
+    "sampleNumber": 9,
+    "crop": "potato",
+    "diseaseId": "potato_healthy",
+    "diseaseName": "Potato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 6,
+    "featureSummary": {
+      "meanRGB": [
+        0.227,
+        0.745,
+        0.182
+      ],
+      "exG": 1.055,
+      "darkLesions": 0.001,
+      "edgeVariance": 0.203
+    },
+    "predictedClassIndex": 6,
+    "predictedDiseaseId": "potato_healthy",
+    "confidence": 66,
+    "isCorrect": true
+  },
+  {
+    "id": "test_potato_healthy_10",
+    "sampleNumber": 10,
+    "crop": "potato",
+    "diseaseId": "potato_healthy",
+    "diseaseName": "Potato Healthy Leaf",
+    "severity": "low",
+    "trueClassIndex": 6,
+    "featureSummary": {
+      "meanRGB": [
+        0.245,
+        0.729,
+        0.147
+      ],
+      "exG": 1.081,
+      "darkLesions": 0,
+      "edgeVariance": 0.234
+    },
+    "predictedClassIndex": 6,
+    "predictedDiseaseId": "potato_healthy",
+    "confidence": 67,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_common_rust_01",
+    "sampleNumber": 1,
+    "crop": "maize",
+    "diseaseId": "maize_common_rust",
+    "diseaseName": "Maize Common Rust",
+    "severity": "medium",
+    "trueClassIndex": 7,
+    "featureSummary": {
+      "meanRGB": [
+        0.671,
+        0.465,
+        0.167
+      ],
+      "exG": 0.059,
+      "darkLesions": 0.147,
+      "edgeVariance": 0.746
+    },
+    "predictedClassIndex": 7,
+    "predictedDiseaseId": "maize_common_rust",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_common_rust_02",
+    "sampleNumber": 2,
+    "crop": "maize",
+    "diseaseId": "maize_common_rust",
+    "diseaseName": "Maize Common Rust",
+    "severity": "medium",
+    "trueClassIndex": 7,
+    "featureSummary": {
+      "meanRGB": [
+        0.693,
+        0.454,
+        0.133
+      ],
+      "exG": 0.088,
+      "darkLesions": 0.116,
+      "edgeVariance": 0.78
+    },
+    "predictedClassIndex": 7,
+    "predictedDiseaseId": "maize_common_rust",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_common_rust_03",
+    "sampleNumber": 3,
+    "crop": "maize",
+    "diseaseId": "maize_common_rust",
+    "diseaseName": "Maize Common Rust",
+    "severity": "medium",
+    "trueClassIndex": 7,
+    "featureSummary": {
+      "meanRGB": [
+        0.689,
+        0.422,
+        0.103
+      ],
+      "exG": 0.094,
+      "darkLesions": 0.105,
+      "edgeVariance": 0.795
+    },
+    "predictedClassIndex": 7,
+    "predictedDiseaseId": "maize_common_rust",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_common_rust_04",
+    "sampleNumber": 4,
+    "crop": "maize",
+    "diseaseId": "maize_common_rust",
+    "diseaseName": "Maize Common Rust",
+    "severity": "medium",
+    "trueClassIndex": 7,
+    "featureSummary": {
+      "meanRGB": [
+        0.661,
+        0.389,
+        0.096
+      ],
+      "exG": 0.073,
+      "darkLesions": 0.122,
+      "edgeVariance": 0.783
+    },
+    "predictedClassIndex": 7,
+    "predictedDiseaseId": "maize_common_rust",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_common_rust_05",
+    "sampleNumber": 5,
+    "crop": "maize",
+    "diseaseId": "maize_common_rust",
+    "diseaseName": "Maize Common Rust",
+    "severity": "medium",
+    "trueClassIndex": 7,
+    "featureSummary": {
+      "meanRGB": [
+        0.626,
+        0.375,
+        0.115
+      ],
+      "exG": 0.038,
+      "darkLesions": 0.156,
+      "edgeVariance": 0.75
+    },
+    "predictedClassIndex": 7,
+    "predictedDiseaseId": "maize_common_rust",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_common_rust_06",
+    "sampleNumber": 6,
+    "crop": "maize",
+    "diseaseId": "maize_common_rust",
+    "diseaseName": "Maize Common Rust",
+    "severity": "medium",
+    "trueClassIndex": 7,
+    "featureSummary": {
+      "meanRGB": [
+        0.606,
+        0.388,
+        0.15
+      ],
+      "exG": 0.01,
+      "darkLesions": 0.186,
+      "edgeVariance": 0.718
+    },
+    "predictedClassIndex": 7,
+    "predictedDiseaseId": "maize_common_rust",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_common_rust_07",
+    "sampleNumber": 7,
+    "crop": "maize",
+    "diseaseId": "maize_common_rust",
+    "diseaseName": "Maize Common Rust",
+    "severity": "medium",
+    "trueClassIndex": 7,
+    "featureSummary": {
+      "meanRGB": [
+        0.613,
+        0.421,
+        0.178
+      ],
+      "exG": 0.007,
+      "darkLesions": 0.194,
+      "edgeVariance": 0.705
+    },
+    "predictedClassIndex": 7,
+    "predictedDiseaseId": "maize_common_rust",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_common_rust_08",
+    "sampleNumber": 8,
+    "crop": "maize",
+    "diseaseId": "maize_common_rust",
+    "diseaseName": "Maize Common Rust",
+    "severity": "medium",
+    "trueClassIndex": 7,
+    "featureSummary": {
+      "meanRGB": [
+        0.642,
+        0.453,
+        0.184
+      ],
+      "exG": 0.03,
+      "darkLesions": 0.175,
+      "edgeVariance": 0.72
+    },
+    "predictedClassIndex": 7,
+    "predictedDiseaseId": "maize_common_rust",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_common_rust_09",
+    "sampleNumber": 9,
+    "crop": "maize",
+    "diseaseId": "maize_common_rust",
+    "diseaseName": "Maize Common Rust",
+    "severity": "medium",
+    "trueClassIndex": 7,
+    "featureSummary": {
+      "meanRGB": [
+        0.677,
+        0.465,
+        0.162
+      ],
+      "exG": 0.065,
+      "darkLesions": 0.141,
+      "edgeVariance": 0.753
+    },
+    "predictedClassIndex": 7,
+    "predictedDiseaseId": "maize_common_rust",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_common_rust_10",
+    "sampleNumber": 10,
+    "crop": "maize",
+    "diseaseId": "maize_common_rust",
+    "diseaseName": "Maize Common Rust",
+    "severity": "medium",
+    "trueClassIndex": 7,
+    "featureSummary": {
+      "meanRGB": [
+        0.695,
+        0.449,
+        0.127
+      ],
+      "exG": 0.091,
+      "darkLesions": 0.112,
+      "edgeVariance": 0.784
+    },
+    "predictedClassIndex": 7,
+    "predictedDiseaseId": "maize_common_rust",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_fall_armyworm_01",
+    "sampleNumber": 1,
+    "crop": "maize",
+    "diseaseId": "maize_fall_armyworm",
+    "diseaseName": "Maize Fall Armyworm Damage",
+    "severity": "high",
+    "trueClassIndex": 8,
+    "featureSummary": {
+      "meanRGB": [
+        0.341,
+        0.525,
+        0.177
+      ],
+      "exG": 0.499,
+      "darkLesions": 0.397,
+      "edgeVariance": 0.876
+    },
+    "predictedClassIndex": 8,
+    "predictedDiseaseId": "maize_fall_armyworm",
+    "confidence": 99.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_fall_armyworm_02",
+    "sampleNumber": 2,
+    "crop": "maize",
+    "diseaseId": "maize_fall_armyworm",
+    "diseaseName": "Maize Fall Armyworm Damage",
+    "severity": "high",
+    "trueClassIndex": 8,
+    "featureSummary": {
+      "meanRGB": [
+        0.363,
+        0.514,
+        0.143
+      ],
+      "exG": 0.528,
+      "darkLesions": 0.366,
+      "edgeVariance": 0.91
+    },
+    "predictedClassIndex": 8,
+    "predictedDiseaseId": "maize_fall_armyworm",
+    "confidence": 99.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_fall_armyworm_03",
+    "sampleNumber": 3,
+    "crop": "maize",
+    "diseaseId": "maize_fall_armyworm",
+    "diseaseName": "Maize Fall Armyworm Damage",
+    "severity": "high",
+    "trueClassIndex": 8,
+    "featureSummary": {
+      "meanRGB": [
+        0.359,
+        0.482,
+        0.113
+      ],
+      "exG": 0.534,
+      "darkLesions": 0.355,
+      "edgeVariance": 0.925
+    },
+    "predictedClassIndex": 8,
+    "predictedDiseaseId": "maize_fall_armyworm",
+    "confidence": 99.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_fall_armyworm_04",
+    "sampleNumber": 4,
+    "crop": "maize",
+    "diseaseId": "maize_fall_armyworm",
+    "diseaseName": "Maize Fall Armyworm Damage",
+    "severity": "high",
+    "trueClassIndex": 8,
+    "featureSummary": {
+      "meanRGB": [
+        0.331,
+        0.449,
+        0.106
+      ],
+      "exG": 0.513,
+      "darkLesions": 0.372,
+      "edgeVariance": 0.913
+    },
+    "predictedClassIndex": 8,
+    "predictedDiseaseId": "maize_fall_armyworm",
+    "confidence": 99.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_fall_armyworm_05",
+    "sampleNumber": 5,
+    "crop": "maize",
+    "diseaseId": "maize_fall_armyworm",
+    "diseaseName": "Maize Fall Armyworm Damage",
+    "severity": "high",
+    "trueClassIndex": 8,
+    "featureSummary": {
+      "meanRGB": [
+        0.296,
+        0.435,
+        0.125
+      ],
+      "exG": 0.478,
+      "darkLesions": 0.406,
+      "edgeVariance": 0.88
+    },
+    "predictedClassIndex": 8,
+    "predictedDiseaseId": "maize_fall_armyworm",
+    "confidence": 99.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_fall_armyworm_06",
+    "sampleNumber": 6,
+    "crop": "maize",
+    "diseaseId": "maize_fall_armyworm",
+    "diseaseName": "Maize Fall Armyworm Damage",
+    "severity": "high",
+    "trueClassIndex": 8,
+    "featureSummary": {
+      "meanRGB": [
+        0.276,
+        0.448,
+        0.16
+      ],
+      "exG": 0.45,
+      "darkLesions": 0.436,
+      "edgeVariance": 0.848
+    },
+    "predictedClassIndex": 8,
+    "predictedDiseaseId": "maize_fall_armyworm",
+    "confidence": 99.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_fall_armyworm_07",
+    "sampleNumber": 7,
+    "crop": "maize",
+    "diseaseId": "maize_fall_armyworm",
+    "diseaseName": "Maize Fall Armyworm Damage",
+    "severity": "high",
+    "trueClassIndex": 8,
+    "featureSummary": {
+      "meanRGB": [
+        0.283,
+        0.481,
+        0.188
+      ],
+      "exG": 0.447,
+      "darkLesions": 0.444,
+      "edgeVariance": 0.835
+    },
+    "predictedClassIndex": 8,
+    "predictedDiseaseId": "maize_fall_armyworm",
+    "confidence": 99.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_fall_armyworm_08",
+    "sampleNumber": 8,
+    "crop": "maize",
+    "diseaseId": "maize_fall_armyworm",
+    "diseaseName": "Maize Fall Armyworm Damage",
+    "severity": "high",
+    "trueClassIndex": 8,
+    "featureSummary": {
+      "meanRGB": [
+        0.312,
+        0.513,
+        0.194
+      ],
+      "exG": 0.47,
+      "darkLesions": 0.425,
+      "edgeVariance": 0.85
+    },
+    "predictedClassIndex": 8,
+    "predictedDiseaseId": "maize_fall_armyworm",
+    "confidence": 99.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_fall_armyworm_09",
+    "sampleNumber": 9,
+    "crop": "maize",
+    "diseaseId": "maize_fall_armyworm",
+    "diseaseName": "Maize Fall Armyworm Damage",
+    "severity": "high",
+    "trueClassIndex": 8,
+    "featureSummary": {
+      "meanRGB": [
+        0.347,
+        0.525,
+        0.172
+      ],
+      "exG": 0.505,
+      "darkLesions": 0.391,
+      "edgeVariance": 0.883
+    },
+    "predictedClassIndex": 8,
+    "predictedDiseaseId": "maize_fall_armyworm",
+    "confidence": 99.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_fall_armyworm_10",
+    "sampleNumber": 10,
+    "crop": "maize",
+    "diseaseId": "maize_fall_armyworm",
+    "diseaseName": "Maize Fall Armyworm Damage",
+    "severity": "high",
+    "trueClassIndex": 8,
+    "featureSummary": {
+      "meanRGB": [
+        0.365,
+        0.509,
+        0.137
+      ],
+      "exG": 0.531,
+      "darkLesions": 0.362,
+      "edgeVariance": 0.914
+    },
+    "predictedClassIndex": 8,
+    "predictedDiseaseId": "maize_fall_armyworm",
+    "confidence": 99.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_healthy_01",
+    "sampleNumber": 1,
+    "crop": "maize",
+    "diseaseId": "maize_healthy",
+    "diseaseName": "Maize Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 9,
+    "featureSummary": {
+      "meanRGB": [
+        0.271,
+        0.765,
+        0.207
+      ],
+      "exG": 1.019,
+      "darkLesions": 0.007,
+      "edgeVariance": 0.246
+    },
+    "predictedClassIndex": 9,
+    "predictedDiseaseId": "maize_healthy",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_healthy_02",
+    "sampleNumber": 2,
+    "crop": "maize",
+    "diseaseId": "maize_healthy",
+    "diseaseName": "Maize Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 9,
+    "featureSummary": {
+      "meanRGB": [
+        0.293,
+        0.754,
+        0.173
+      ],
+      "exG": 1.048,
+      "darkLesions": 0,
+      "edgeVariance": 0.28
+    },
+    "predictedClassIndex": 9,
+    "predictedDiseaseId": "maize_healthy",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_healthy_03",
+    "sampleNumber": 3,
+    "crop": "maize",
+    "diseaseId": "maize_healthy",
+    "diseaseName": "Maize Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 9,
+    "featureSummary": {
+      "meanRGB": [
+        0.289,
+        0.722,
+        0.143
+      ],
+      "exG": 1.054,
+      "darkLesions": 0,
+      "edgeVariance": 0.295
+    },
+    "predictedClassIndex": 9,
+    "predictedDiseaseId": "maize_healthy",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_healthy_04",
+    "sampleNumber": 4,
+    "crop": "maize",
+    "diseaseId": "maize_healthy",
+    "diseaseName": "Maize Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 9,
+    "featureSummary": {
+      "meanRGB": [
+        0.261,
+        0.689,
+        0.136
+      ],
+      "exG": 1.033,
+      "darkLesions": 0,
+      "edgeVariance": 0.283
+    },
+    "predictedClassIndex": 9,
+    "predictedDiseaseId": "maize_healthy",
+    "confidence": 99.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_healthy_05",
+    "sampleNumber": 5,
+    "crop": "maize",
+    "diseaseId": "maize_healthy",
+    "diseaseName": "Maize Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 9,
+    "featureSummary": {
+      "meanRGB": [
+        0.226,
+        0.675,
+        0.155
+      ],
+      "exG": 0.998,
+      "darkLesions": 0.016,
+      "edgeVariance": 0.25
+    },
+    "predictedClassIndex": 9,
+    "predictedDiseaseId": "maize_healthy",
+    "confidence": 99.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_healthy_06",
+    "sampleNumber": 6,
+    "crop": "maize",
+    "diseaseId": "maize_healthy",
+    "diseaseName": "Maize Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 9,
+    "featureSummary": {
+      "meanRGB": [
+        0.206,
+        0.688,
+        0.19
+      ],
+      "exG": 0.97,
+      "darkLesions": 0.046,
+      "edgeVariance": 0.218
+    },
+    "predictedClassIndex": 9,
+    "predictedDiseaseId": "maize_healthy",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_healthy_07",
+    "sampleNumber": 7,
+    "crop": "maize",
+    "diseaseId": "maize_healthy",
+    "diseaseName": "Maize Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 9,
+    "featureSummary": {
+      "meanRGB": [
+        0.213,
+        0.721,
+        0.218
+      ],
+      "exG": 0.967,
+      "darkLesions": 0.054,
+      "edgeVariance": 0.205
+    },
+    "predictedClassIndex": 9,
+    "predictedDiseaseId": "maize_healthy",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_healthy_08",
+    "sampleNumber": 8,
+    "crop": "maize",
+    "diseaseId": "maize_healthy",
+    "diseaseName": "Maize Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 9,
+    "featureSummary": {
+      "meanRGB": [
+        0.242,
+        0.753,
+        0.224
+      ],
+      "exG": 0.99,
+      "darkLesions": 0.035,
+      "edgeVariance": 0.22
+    },
+    "predictedClassIndex": 9,
+    "predictedDiseaseId": "maize_healthy",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_healthy_09",
+    "sampleNumber": 9,
+    "crop": "maize",
+    "diseaseId": "maize_healthy",
+    "diseaseName": "Maize Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 9,
+    "featureSummary": {
+      "meanRGB": [
+        0.277,
+        0.765,
+        0.202
+      ],
+      "exG": 1.025,
+      "darkLesions": 0.001,
+      "edgeVariance": 0.253
+    },
+    "predictedClassIndex": 9,
+    "predictedDiseaseId": "maize_healthy",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_maize_healthy_10",
+    "sampleNumber": 10,
+    "crop": "maize",
+    "diseaseId": "maize_healthy",
+    "diseaseName": "Maize Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 9,
+    "featureSummary": {
+      "meanRGB": [
+        0.295,
+        0.749,
+        0.167
+      ],
+      "exG": 1.051,
+      "darkLesions": 0,
+      "edgeVariance": 0.284
+    },
+    "predictedClassIndex": 9,
+    "predictedDiseaseId": "maize_healthy",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_blast_01",
+    "sampleNumber": 1,
+    "crop": "rice",
+    "diseaseId": "rice_blast",
+    "diseaseName": "Rice Blast Disease",
+    "severity": "high",
+    "trueClassIndex": 10,
+    "featureSummary": {
+      "meanRGB": [
+        0.501,
+        0.505,
+        0.207
+      ],
+      "exG": 0.269,
+      "darkLesions": 0.377,
+      "edgeVariance": 0.716
+    },
+    "predictedClassIndex": 10,
+    "predictedDiseaseId": "rice_blast",
+    "confidence": 98.6,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_blast_02",
+    "sampleNumber": 2,
+    "crop": "rice",
+    "diseaseId": "rice_blast",
+    "diseaseName": "Rice Blast Disease",
+    "severity": "high",
+    "trueClassIndex": 10,
+    "featureSummary": {
+      "meanRGB": [
+        0.523,
+        0.494,
+        0.173
+      ],
+      "exG": 0.298,
+      "darkLesions": 0.346,
+      "edgeVariance": 0.75
+    },
+    "predictedClassIndex": 10,
+    "predictedDiseaseId": "rice_blast",
+    "confidence": 99.1,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_blast_03",
+    "sampleNumber": 3,
+    "crop": "rice",
+    "diseaseId": "rice_blast",
+    "diseaseName": "Rice Blast Disease",
+    "severity": "high",
+    "trueClassIndex": 10,
+    "featureSummary": {
+      "meanRGB": [
+        0.519,
+        0.462,
+        0.143
+      ],
+      "exG": 0.304,
+      "darkLesions": 0.335,
+      "edgeVariance": 0.765
+    },
+    "predictedClassIndex": 10,
+    "predictedDiseaseId": "rice_blast",
+    "confidence": 99.3,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_blast_04",
+    "sampleNumber": 4,
+    "crop": "rice",
+    "diseaseId": "rice_blast",
+    "diseaseName": "Rice Blast Disease",
+    "severity": "high",
+    "trueClassIndex": 10,
+    "featureSummary": {
+      "meanRGB": [
+        0.491,
+        0.429,
+        0.136
+      ],
+      "exG": 0.283,
+      "darkLesions": 0.352,
+      "edgeVariance": 0.753
+    },
+    "predictedClassIndex": 10,
+    "predictedDiseaseId": "rice_blast",
+    "confidence": 99.2,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_blast_05",
+    "sampleNumber": 5,
+    "crop": "rice",
+    "diseaseId": "rice_blast",
+    "diseaseName": "Rice Blast Disease",
+    "severity": "high",
+    "trueClassIndex": 10,
+    "featureSummary": {
+      "meanRGB": [
+        0.456,
+        0.415,
+        0.155
+      ],
+      "exG": 0.248,
+      "darkLesions": 0.386,
+      "edgeVariance": 0.72
+    },
+    "predictedClassIndex": 10,
+    "predictedDiseaseId": "rice_blast",
+    "confidence": 98.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_blast_06",
+    "sampleNumber": 6,
+    "crop": "rice",
+    "diseaseId": "rice_blast",
+    "diseaseName": "Rice Blast Disease",
+    "severity": "high",
+    "trueClassIndex": 10,
+    "featureSummary": {
+      "meanRGB": [
+        0.436,
+        0.428,
+        0.19
+      ],
+      "exG": 0.22,
+      "darkLesions": 0.416,
+      "edgeVariance": 0.688
+    },
+    "predictedClassIndex": 10,
+    "predictedDiseaseId": "rice_blast",
+    "confidence": 98,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_blast_07",
+    "sampleNumber": 7,
+    "crop": "rice",
+    "diseaseId": "rice_blast",
+    "diseaseName": "Rice Blast Disease",
+    "severity": "high",
+    "trueClassIndex": 10,
+    "featureSummary": {
+      "meanRGB": [
+        0.443,
+        0.461,
+        0.218
+      ],
+      "exG": 0.217,
+      "darkLesions": 0.424,
+      "edgeVariance": 0.675
+    },
+    "predictedClassIndex": 10,
+    "predictedDiseaseId": "rice_blast",
+    "confidence": 97.5,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_blast_08",
+    "sampleNumber": 8,
+    "crop": "rice",
+    "diseaseId": "rice_blast",
+    "diseaseName": "Rice Blast Disease",
+    "severity": "high",
+    "trueClassIndex": 10,
+    "featureSummary": {
+      "meanRGB": [
+        0.472,
+        0.493,
+        0.224
+      ],
+      "exG": 0.24,
+      "darkLesions": 0.405,
+      "edgeVariance": 0.69
+    },
+    "predictedClassIndex": 10,
+    "predictedDiseaseId": "rice_blast",
+    "confidence": 98.1,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_blast_09",
+    "sampleNumber": 9,
+    "crop": "rice",
+    "diseaseId": "rice_blast",
+    "diseaseName": "Rice Blast Disease",
+    "severity": "high",
+    "trueClassIndex": 10,
+    "featureSummary": {
+      "meanRGB": [
+        0.507,
+        0.505,
+        0.202
+      ],
+      "exG": 0.275,
+      "darkLesions": 0.371,
+      "edgeVariance": 0.723
+    },
+    "predictedClassIndex": 10,
+    "predictedDiseaseId": "rice_blast",
+    "confidence": 98.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_blast_10",
+    "sampleNumber": 10,
+    "crop": "rice",
+    "diseaseId": "rice_blast",
+    "diseaseName": "Rice Blast Disease",
+    "severity": "high",
+    "trueClassIndex": 10,
+    "featureSummary": {
+      "meanRGB": [
+        0.525,
+        0.489,
+        0.167
+      ],
+      "exG": 0.301,
+      "darkLesions": 0.342,
+      "edgeVariance": 0.754
+    },
+    "predictedClassIndex": 10,
+    "predictedDiseaseId": "rice_blast",
+    "confidence": 99.2,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_brown_spot_01",
+    "sampleNumber": 1,
+    "crop": "rice",
+    "diseaseId": "rice_brown_spot",
+    "diseaseName": "Rice Brown Spot",
+    "severity": "medium",
+    "trueClassIndex": 11,
+    "featureSummary": {
+      "meanRGB": [
+        0.471,
+        0.525,
+        0.187
+      ],
+      "exG": 0.359,
+      "darkLesions": 0.297,
+      "edgeVariance": 0.636
+    },
+    "predictedClassIndex": 11,
+    "predictedDiseaseId": "rice_brown_spot",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_brown_spot_02",
+    "sampleNumber": 2,
+    "crop": "rice",
+    "diseaseId": "rice_brown_spot",
+    "diseaseName": "Rice Brown Spot",
+    "severity": "medium",
+    "trueClassIndex": 11,
+    "featureSummary": {
+      "meanRGB": [
+        0.493,
+        0.514,
+        0.153
+      ],
+      "exG": 0.388,
+      "darkLesions": 0.266,
+      "edgeVariance": 0.67
+    },
+    "predictedClassIndex": 11,
+    "predictedDiseaseId": "rice_brown_spot",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_brown_spot_03",
+    "sampleNumber": 3,
+    "crop": "rice",
+    "diseaseId": "rice_brown_spot",
+    "diseaseName": "Rice Brown Spot",
+    "severity": "medium",
+    "trueClassIndex": 11,
+    "featureSummary": {
+      "meanRGB": [
+        0.489,
+        0.482,
+        0.123
+      ],
+      "exG": 0.394,
+      "darkLesions": 0.255,
+      "edgeVariance": 0.685
+    },
+    "predictedClassIndex": 11,
+    "predictedDiseaseId": "rice_brown_spot",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_brown_spot_04",
+    "sampleNumber": 4,
+    "crop": "rice",
+    "diseaseId": "rice_brown_spot",
+    "diseaseName": "Rice Brown Spot",
+    "severity": "medium",
+    "trueClassIndex": 11,
+    "featureSummary": {
+      "meanRGB": [
+        0.461,
+        0.449,
+        0.116
+      ],
+      "exG": 0.373,
+      "darkLesions": 0.272,
+      "edgeVariance": 0.673
+    },
+    "predictedClassIndex": 11,
+    "predictedDiseaseId": "rice_brown_spot",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_brown_spot_05",
+    "sampleNumber": 5,
+    "crop": "rice",
+    "diseaseId": "rice_brown_spot",
+    "diseaseName": "Rice Brown Spot",
+    "severity": "medium",
+    "trueClassIndex": 11,
+    "featureSummary": {
+      "meanRGB": [
+        0.426,
+        0.435,
+        0.135
+      ],
+      "exG": 0.338,
+      "darkLesions": 0.306,
+      "edgeVariance": 0.64
+    },
+    "predictedClassIndex": 11,
+    "predictedDiseaseId": "rice_brown_spot",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_brown_spot_06",
+    "sampleNumber": 6,
+    "crop": "rice",
+    "diseaseId": "rice_brown_spot",
+    "diseaseName": "Rice Brown Spot",
+    "severity": "medium",
+    "trueClassIndex": 11,
+    "featureSummary": {
+      "meanRGB": [
+        0.406,
+        0.448,
+        0.17
+      ],
+      "exG": 0.31,
+      "darkLesions": 0.336,
+      "edgeVariance": 0.608
+    },
+    "predictedClassIndex": 11,
+    "predictedDiseaseId": "rice_brown_spot",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_brown_spot_07",
+    "sampleNumber": 7,
+    "crop": "rice",
+    "diseaseId": "rice_brown_spot",
+    "diseaseName": "Rice Brown Spot",
+    "severity": "medium",
+    "trueClassIndex": 11,
+    "featureSummary": {
+      "meanRGB": [
+        0.413,
+        0.481,
+        0.198
+      ],
+      "exG": 0.307,
+      "darkLesions": 0.344,
+      "edgeVariance": 0.595
+    },
+    "predictedClassIndex": 11,
+    "predictedDiseaseId": "rice_brown_spot",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_brown_spot_08",
+    "sampleNumber": 8,
+    "crop": "rice",
+    "diseaseId": "rice_brown_spot",
+    "diseaseName": "Rice Brown Spot",
+    "severity": "medium",
+    "trueClassIndex": 11,
+    "featureSummary": {
+      "meanRGB": [
+        0.442,
+        0.513,
+        0.204
+      ],
+      "exG": 0.33,
+      "darkLesions": 0.325,
+      "edgeVariance": 0.61
+    },
+    "predictedClassIndex": 11,
+    "predictedDiseaseId": "rice_brown_spot",
+    "confidence": 99.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_brown_spot_09",
+    "sampleNumber": 9,
+    "crop": "rice",
+    "diseaseId": "rice_brown_spot",
+    "diseaseName": "Rice Brown Spot",
+    "severity": "medium",
+    "trueClassIndex": 11,
+    "featureSummary": {
+      "meanRGB": [
+        0.477,
+        0.525,
+        0.182
+      ],
+      "exG": 0.365,
+      "darkLesions": 0.291,
+      "edgeVariance": 0.643
+    },
+    "predictedClassIndex": 11,
+    "predictedDiseaseId": "rice_brown_spot",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_brown_spot_10",
+    "sampleNumber": 10,
+    "crop": "rice",
+    "diseaseId": "rice_brown_spot",
+    "diseaseName": "Rice Brown Spot",
+    "severity": "medium",
+    "trueClassIndex": 11,
+    "featureSummary": {
+      "meanRGB": [
+        0.495,
+        0.509,
+        0.147
+      ],
+      "exG": 0.391,
+      "darkLesions": 0.262,
+      "edgeVariance": 0.674
+    },
+    "predictedClassIndex": 11,
+    "predictedDiseaseId": "rice_brown_spot",
+    "confidence": 100,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_healthy_01",
+    "sampleNumber": 1,
+    "crop": "rice",
+    "diseaseId": "rice_healthy",
+    "diseaseName": "Rice Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 12,
+    "featureSummary": {
+      "meanRGB": [
+        0.281,
+        0.745,
+        0.227
+      ],
+      "exG": 0.949,
+      "darkLesions": 0.007,
+      "edgeVariance": 0.236
+    },
+    "predictedClassIndex": 12,
+    "predictedDiseaseId": "rice_healthy",
+    "confidence": 98.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_healthy_02",
+    "sampleNumber": 2,
+    "crop": "rice",
+    "diseaseId": "rice_healthy",
+    "diseaseName": "Rice Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 12,
+    "featureSummary": {
+      "meanRGB": [
+        0.303,
+        0.734,
+        0.193
+      ],
+      "exG": 0.978,
+      "darkLesions": 0,
+      "edgeVariance": 0.27
+    },
+    "predictedClassIndex": 12,
+    "predictedDiseaseId": "rice_healthy",
+    "confidence": 98.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_healthy_03",
+    "sampleNumber": 3,
+    "crop": "rice",
+    "diseaseId": "rice_healthy",
+    "diseaseName": "Rice Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 12,
+    "featureSummary": {
+      "meanRGB": [
+        0.299,
+        0.702,
+        0.163
+      ],
+      "exG": 0.984,
+      "darkLesions": 0,
+      "edgeVariance": 0.285
+    },
+    "predictedClassIndex": 12,
+    "predictedDiseaseId": "rice_healthy",
+    "confidence": 98.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_healthy_04",
+    "sampleNumber": 4,
+    "crop": "rice",
+    "diseaseId": "rice_healthy",
+    "diseaseName": "Rice Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 12,
+    "featureSummary": {
+      "meanRGB": [
+        0.271,
+        0.669,
+        0.156
+      ],
+      "exG": 0.963,
+      "darkLesions": 0,
+      "edgeVariance": 0.273
+    },
+    "predictedClassIndex": 12,
+    "predictedDiseaseId": "rice_healthy",
+    "confidence": 98.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_healthy_05",
+    "sampleNumber": 5,
+    "crop": "rice",
+    "diseaseId": "rice_healthy",
+    "diseaseName": "Rice Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 12,
+    "featureSummary": {
+      "meanRGB": [
+        0.236,
+        0.655,
+        0.175
+      ],
+      "exG": 0.928,
+      "darkLesions": 0.016,
+      "edgeVariance": 0.24
+    },
+    "predictedClassIndex": 12,
+    "predictedDiseaseId": "rice_healthy",
+    "confidence": 98.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_healthy_06",
+    "sampleNumber": 6,
+    "crop": "rice",
+    "diseaseId": "rice_healthy",
+    "diseaseName": "Rice Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 12,
+    "featureSummary": {
+      "meanRGB": [
+        0.216,
+        0.668,
+        0.21
+      ],
+      "exG": 0.9,
+      "darkLesions": 0.046,
+      "edgeVariance": 0.208
+    },
+    "predictedClassIndex": 12,
+    "predictedDiseaseId": "rice_healthy",
+    "confidence": 98.5,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_healthy_07",
+    "sampleNumber": 7,
+    "crop": "rice",
+    "diseaseId": "rice_healthy",
+    "diseaseName": "Rice Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 12,
+    "featureSummary": {
+      "meanRGB": [
+        0.223,
+        0.701,
+        0.238
+      ],
+      "exG": 0.897,
+      "darkLesions": 0.054,
+      "edgeVariance": 0.195
+    },
+    "predictedClassIndex": 12,
+    "predictedDiseaseId": "rice_healthy",
+    "confidence": 98.6,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_healthy_08",
+    "sampleNumber": 8,
+    "crop": "rice",
+    "diseaseId": "rice_healthy",
+    "diseaseName": "Rice Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 12,
+    "featureSummary": {
+      "meanRGB": [
+        0.252,
+        0.733,
+        0.244
+      ],
+      "exG": 0.92,
+      "darkLesions": 0.035,
+      "edgeVariance": 0.21
+    },
+    "predictedClassIndex": 12,
+    "predictedDiseaseId": "rice_healthy",
+    "confidence": 98.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_healthy_09",
+    "sampleNumber": 9,
+    "crop": "rice",
+    "diseaseId": "rice_healthy",
+    "diseaseName": "Rice Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 12,
+    "featureSummary": {
+      "meanRGB": [
+        0.287,
+        0.745,
+        0.222
+      ],
+      "exG": 0.955,
+      "darkLesions": 0.001,
+      "edgeVariance": 0.243
+    },
+    "predictedClassIndex": 12,
+    "predictedDiseaseId": "rice_healthy",
+    "confidence": 98.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_rice_healthy_10",
+    "sampleNumber": 10,
+    "crop": "rice",
+    "diseaseId": "rice_healthy",
+    "diseaseName": "Rice Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 12,
+    "featureSummary": {
+      "meanRGB": [
+        0.305,
+        0.729,
+        0.187
+      ],
+      "exG": 0.981,
+      "darkLesions": 0,
+      "edgeVariance": 0.274
+    },
+    "predictedClassIndex": 12,
+    "predictedDiseaseId": "rice_healthy",
+    "confidence": 98.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_leaf_curl_01",
+    "sampleNumber": 1,
+    "crop": "chilli",
+    "diseaseId": "chilli_leaf_curl",
+    "diseaseName": "Chilli Leaf Curl & Murda Disease",
+    "severity": "high",
+    "trueClassIndex": 13,
+    "featureSummary": {
+      "meanRGB": [
+        0.521,
+        0.625,
+        0.207
+      ],
+      "exG": 0.489,
+      "darkLesions": 0.037,
+      "edgeVariance": 0.796
+    },
+    "predictedClassIndex": 13,
+    "predictedDiseaseId": "chilli_leaf_curl",
+    "confidence": 95.5,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_leaf_curl_02",
+    "sampleNumber": 2,
+    "crop": "chilli",
+    "diseaseId": "chilli_leaf_curl",
+    "diseaseName": "Chilli Leaf Curl & Murda Disease",
+    "severity": "high",
+    "trueClassIndex": 13,
+    "featureSummary": {
+      "meanRGB": [
+        0.543,
+        0.614,
+        0.173
+      ],
+      "exG": 0.518,
+      "darkLesions": 0.006,
+      "edgeVariance": 0.83
+    },
+    "predictedClassIndex": 13,
+    "predictedDiseaseId": "chilli_leaf_curl",
+    "confidence": 92.5,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_leaf_curl_03",
+    "sampleNumber": 3,
+    "crop": "chilli",
+    "diseaseId": "chilli_leaf_curl",
+    "diseaseName": "Chilli Leaf Curl & Murda Disease",
+    "severity": "high",
+    "trueClassIndex": 13,
+    "featureSummary": {
+      "meanRGB": [
+        0.539,
+        0.582,
+        0.143
+      ],
+      "exG": 0.524,
+      "darkLesions": 0,
+      "edgeVariance": 0.845
+    },
+    "predictedClassIndex": 13,
+    "predictedDiseaseId": "chilli_leaf_curl",
+    "confidence": 90.6,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_leaf_curl_04",
+    "sampleNumber": 4,
+    "crop": "chilli",
+    "diseaseId": "chilli_leaf_curl",
+    "diseaseName": "Chilli Leaf Curl & Murda Disease",
+    "severity": "high",
+    "trueClassIndex": 13,
+    "featureSummary": {
+      "meanRGB": [
+        0.511,
+        0.549,
+        0.136
+      ],
+      "exG": 0.503,
+      "darkLesions": 0.012,
+      "edgeVariance": 0.833
+    },
+    "predictedClassIndex": 13,
+    "predictedDiseaseId": "chilli_leaf_curl",
+    "confidence": 92,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_leaf_curl_05",
+    "sampleNumber": 5,
+    "crop": "chilli",
+    "diseaseId": "chilli_leaf_curl",
+    "diseaseName": "Chilli Leaf Curl & Murda Disease",
+    "severity": "high",
+    "trueClassIndex": 13,
+    "featureSummary": {
+      "meanRGB": [
+        0.476,
+        0.535,
+        0.155
+      ],
+      "exG": 0.468,
+      "darkLesions": 0.046,
+      "edgeVariance": 0.8
+    },
+    "predictedClassIndex": 13,
+    "predictedDiseaseId": "chilli_leaf_curl",
+    "confidence": 94.4,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_leaf_curl_06",
+    "sampleNumber": 6,
+    "crop": "chilli",
+    "diseaseId": "chilli_leaf_curl",
+    "diseaseName": "Chilli Leaf Curl & Murda Disease",
+    "severity": "high",
+    "trueClassIndex": 13,
+    "featureSummary": {
+      "meanRGB": [
+        0.456,
+        0.548,
+        0.19
+      ],
+      "exG": 0.44,
+      "darkLesions": 0.076,
+      "edgeVariance": 0.768
+    },
+    "predictedClassIndex": 13,
+    "predictedDiseaseId": "chilli_leaf_curl",
+    "confidence": 96.1,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_leaf_curl_07",
+    "sampleNumber": 7,
+    "crop": "chilli",
+    "diseaseId": "chilli_leaf_curl",
+    "diseaseName": "Chilli Leaf Curl & Murda Disease",
+    "severity": "high",
+    "trueClassIndex": 13,
+    "featureSummary": {
+      "meanRGB": [
+        0.463,
+        0.581,
+        0.218
+      ],
+      "exG": 0.437,
+      "darkLesions": 0.084,
+      "edgeVariance": 0.755
+    },
+    "predictedClassIndex": 13,
+    "predictedDiseaseId": "chilli_leaf_curl",
+    "confidence": 97,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_leaf_curl_08",
+    "sampleNumber": 8,
+    "crop": "chilli",
+    "diseaseId": "chilli_leaf_curl",
+    "diseaseName": "Chilli Leaf Curl & Murda Disease",
+    "severity": "high",
+    "trueClassIndex": 13,
+    "featureSummary": {
+      "meanRGB": [
+        0.492,
+        0.613,
+        0.224
+      ],
+      "exG": 0.46,
+      "darkLesions": 0.065,
+      "edgeVariance": 0.77
+    },
+    "predictedClassIndex": 13,
+    "predictedDiseaseId": "chilli_leaf_curl",
+    "confidence": 96.8,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_leaf_curl_09",
+    "sampleNumber": 9,
+    "crop": "chilli",
+    "diseaseId": "chilli_leaf_curl",
+    "diseaseName": "Chilli Leaf Curl & Murda Disease",
+    "severity": "high",
+    "trueClassIndex": 13,
+    "featureSummary": {
+      "meanRGB": [
+        0.527,
+        0.625,
+        0.202
+      ],
+      "exG": 0.495,
+      "darkLesions": 0.031,
+      "edgeVariance": 0.803
+    },
+    "predictedClassIndex": 13,
+    "predictedDiseaseId": "chilli_leaf_curl",
+    "confidence": 95.1,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_leaf_curl_10",
+    "sampleNumber": 10,
+    "crop": "chilli",
+    "diseaseId": "chilli_leaf_curl",
+    "diseaseName": "Chilli Leaf Curl & Murda Disease",
+    "severity": "high",
+    "trueClassIndex": 13,
+    "featureSummary": {
+      "meanRGB": [
+        0.545,
+        0.609,
+        0.167
+      ],
+      "exG": 0.521,
+      "darkLesions": 0.002,
+      "edgeVariance": 0.834
+    },
+    "predictedClassIndex": 13,
+    "predictedDiseaseId": "chilli_leaf_curl",
+    "confidence": 92,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_anthracnose_01",
+    "sampleNumber": 1,
+    "crop": "chilli",
+    "diseaseId": "chilli_anthracnose",
+    "diseaseName": "Chilli Anthracnose / Fruit Rot",
+    "severity": "high",
+    "trueClassIndex": 14,
+    "featureSummary": {
+      "meanRGB": [
+        0.401,
+        0.465,
+        0.187
+      ],
+      "exG": 0.309,
+      "darkLesions": 0.477,
+      "edgeVariance": 0.676
+    },
+    "predictedClassIndex": 14,
+    "predictedDiseaseId": "chilli_anthracnose",
+    "confidence": 99.2,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_anthracnose_02",
+    "sampleNumber": 2,
+    "crop": "chilli",
+    "diseaseId": "chilli_anthracnose",
+    "diseaseName": "Chilli Anthracnose / Fruit Rot",
+    "severity": "high",
+    "trueClassIndex": 14,
+    "featureSummary": {
+      "meanRGB": [
+        0.423,
+        0.454,
+        0.153
+      ],
+      "exG": 0.338,
+      "darkLesions": 0.446,
+      "edgeVariance": 0.71
+    },
+    "predictedClassIndex": 14,
+    "predictedDiseaseId": "chilli_anthracnose",
+    "confidence": 99,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_anthracnose_03",
+    "sampleNumber": 3,
+    "crop": "chilli",
+    "diseaseId": "chilli_anthracnose",
+    "diseaseName": "Chilli Anthracnose / Fruit Rot",
+    "severity": "high",
+    "trueClassIndex": 14,
+    "featureSummary": {
+      "meanRGB": [
+        0.419,
+        0.422,
+        0.123
+      ],
+      "exG": 0.344,
+      "darkLesions": 0.435,
+      "edgeVariance": 0.725
+    },
+    "predictedClassIndex": 14,
+    "predictedDiseaseId": "chilli_anthracnose",
+    "confidence": 99,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_anthracnose_04",
+    "sampleNumber": 4,
+    "crop": "chilli",
+    "diseaseId": "chilli_anthracnose",
+    "diseaseName": "Chilli Anthracnose / Fruit Rot",
+    "severity": "high",
+    "trueClassIndex": 14,
+    "featureSummary": {
+      "meanRGB": [
+        0.391,
+        0.389,
+        0.116
+      ],
+      "exG": 0.323,
+      "darkLesions": 0.452,
+      "edgeVariance": 0.713
+    },
+    "predictedClassIndex": 14,
+    "predictedDiseaseId": "chilli_anthracnose",
+    "confidence": 99,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_anthracnose_05",
+    "sampleNumber": 5,
+    "crop": "chilli",
+    "diseaseId": "chilli_anthracnose",
+    "diseaseName": "Chilli Anthracnose / Fruit Rot",
+    "severity": "high",
+    "trueClassIndex": 14,
+    "featureSummary": {
+      "meanRGB": [
+        0.356,
+        0.375,
+        0.135
+      ],
+      "exG": 0.288,
+      "darkLesions": 0.486,
+      "edgeVariance": 0.68
+    },
+    "predictedClassIndex": 14,
+    "predictedDiseaseId": "chilli_anthracnose",
+    "confidence": 99.1,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_anthracnose_06",
+    "sampleNumber": 6,
+    "crop": "chilli",
+    "diseaseId": "chilli_anthracnose",
+    "diseaseName": "Chilli Anthracnose / Fruit Rot",
+    "severity": "high",
+    "trueClassIndex": 14,
+    "featureSummary": {
+      "meanRGB": [
+        0.336,
+        0.388,
+        0.17
+      ],
+      "exG": 0.26,
+      "darkLesions": 0.516,
+      "edgeVariance": 0.648
+    },
+    "predictedClassIndex": 14,
+    "predictedDiseaseId": "chilli_anthracnose",
+    "confidence": 99.2,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_anthracnose_07",
+    "sampleNumber": 7,
+    "crop": "chilli",
+    "diseaseId": "chilli_anthracnose",
+    "diseaseName": "Chilli Anthracnose / Fruit Rot",
+    "severity": "high",
+    "trueClassIndex": 14,
+    "featureSummary": {
+      "meanRGB": [
+        0.343,
+        0.421,
+        0.198
+      ],
+      "exG": 0.257,
+      "darkLesions": 0.524,
+      "edgeVariance": 0.635
+    },
+    "predictedClassIndex": 14,
+    "predictedDiseaseId": "chilli_anthracnose",
+    "confidence": 99.2,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_anthracnose_08",
+    "sampleNumber": 8,
+    "crop": "chilli",
+    "diseaseId": "chilli_anthracnose",
+    "diseaseName": "Chilli Anthracnose / Fruit Rot",
+    "severity": "high",
+    "trueClassIndex": 14,
+    "featureSummary": {
+      "meanRGB": [
+        0.372,
+        0.453,
+        0.204
+      ],
+      "exG": 0.28,
+      "darkLesions": 0.505,
+      "edgeVariance": 0.65
+    },
+    "predictedClassIndex": 14,
+    "predictedDiseaseId": "chilli_anthracnose",
+    "confidence": 99.3,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_anthracnose_09",
+    "sampleNumber": 9,
+    "crop": "chilli",
+    "diseaseId": "chilli_anthracnose",
+    "diseaseName": "Chilli Anthracnose / Fruit Rot",
+    "severity": "high",
+    "trueClassIndex": 14,
+    "featureSummary": {
+      "meanRGB": [
+        0.407,
+        0.465,
+        0.182
+      ],
+      "exG": 0.315,
+      "darkLesions": 0.471,
+      "edgeVariance": 0.683
+    },
+    "predictedClassIndex": 14,
+    "predictedDiseaseId": "chilli_anthracnose",
+    "confidence": 99.1,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_anthracnose_10",
+    "sampleNumber": 10,
+    "crop": "chilli",
+    "diseaseId": "chilli_anthracnose",
+    "diseaseName": "Chilli Anthracnose / Fruit Rot",
+    "severity": "high",
+    "trueClassIndex": 14,
+    "featureSummary": {
+      "meanRGB": [
+        0.425,
+        0.449,
+        0.147
+      ],
+      "exG": 0.341,
+      "darkLesions": 0.442,
+      "edgeVariance": 0.714
+    },
+    "predictedClassIndex": 14,
+    "predictedDiseaseId": "chilli_anthracnose",
+    "confidence": 99,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_healthy_01",
+    "sampleNumber": 1,
+    "crop": "chilli",
+    "diseaseId": "chilli_healthy",
+    "diseaseName": "Chilli Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 15,
+    "featureSummary": {
+      "meanRGB": [
+        0.241,
+        0.725,
+        0.207
+      ],
+      "exG": 0.969,
+      "darkLesions": 0.007,
+      "edgeVariance": 0.216
+    },
+    "predictedClassIndex": 15,
+    "predictedDiseaseId": "chilli_healthy",
+    "confidence": 95,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_healthy_02",
+    "sampleNumber": 2,
+    "crop": "chilli",
+    "diseaseId": "chilli_healthy",
+    "diseaseName": "Chilli Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 15,
+    "featureSummary": {
+      "meanRGB": [
+        0.263,
+        0.714,
+        0.173
+      ],
+      "exG": 0.998,
+      "darkLesions": 0,
+      "edgeVariance": 0.25
+    },
+    "predictedClassIndex": 15,
+    "predictedDiseaseId": "chilli_healthy",
+    "confidence": 92.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_healthy_03",
+    "sampleNumber": 3,
+    "crop": "chilli",
+    "diseaseId": "chilli_healthy",
+    "diseaseName": "Chilli Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 15,
+    "featureSummary": {
+      "meanRGB": [
+        0.259,
+        0.682,
+        0.143
+      ],
+      "exG": 1.004,
+      "darkLesions": 0,
+      "edgeVariance": 0.265
+    },
+    "predictedClassIndex": 15,
+    "predictedDiseaseId": "chilli_healthy",
+    "confidence": 90.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_healthy_04",
+    "sampleNumber": 4,
+    "crop": "chilli",
+    "diseaseId": "chilli_healthy",
+    "diseaseName": "Chilli Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 15,
+    "featureSummary": {
+      "meanRGB": [
+        0.231,
+        0.649,
+        0.136
+      ],
+      "exG": 0.983,
+      "darkLesions": 0,
+      "edgeVariance": 0.253
+    },
+    "predictedClassIndex": 15,
+    "predictedDiseaseId": "chilli_healthy",
+    "confidence": 91.1,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_healthy_05",
+    "sampleNumber": 5,
+    "crop": "chilli",
+    "diseaseId": "chilli_healthy",
+    "diseaseName": "Chilli Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 15,
+    "featureSummary": {
+      "meanRGB": [
+        0.196,
+        0.635,
+        0.155
+      ],
+      "exG": 0.948,
+      "darkLesions": 0.016,
+      "edgeVariance": 0.22
+    },
+    "predictedClassIndex": 15,
+    "predictedDiseaseId": "chilli_healthy",
+    "confidence": 92.7,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_healthy_06",
+    "sampleNumber": 6,
+    "crop": "chilli",
+    "diseaseId": "chilli_healthy",
+    "diseaseName": "Chilli Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 15,
+    "featureSummary": {
+      "meanRGB": [
+        0.176,
+        0.648,
+        0.19
+      ],
+      "exG": 0.92,
+      "darkLesions": 0.046,
+      "edgeVariance": 0.188
+    },
+    "predictedClassIndex": 15,
+    "predictedDiseaseId": "chilli_healthy",
+    "confidence": 93.6,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_healthy_07",
+    "sampleNumber": 7,
+    "crop": "chilli",
+    "diseaseId": "chilli_healthy",
+    "diseaseName": "Chilli Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 15,
+    "featureSummary": {
+      "meanRGB": [
+        0.183,
+        0.681,
+        0.218
+      ],
+      "exG": 0.917,
+      "darkLesions": 0.054,
+      "edgeVariance": 0.175
+    },
+    "predictedClassIndex": 15,
+    "predictedDiseaseId": "chilli_healthy",
+    "confidence": 94.5,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_healthy_08",
+    "sampleNumber": 8,
+    "crop": "chilli",
+    "diseaseId": "chilli_healthy",
+    "diseaseName": "Chilli Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 15,
+    "featureSummary": {
+      "meanRGB": [
+        0.212,
+        0.713,
+        0.224
+      ],
+      "exG": 0.94,
+      "darkLesions": 0.035,
+      "edgeVariance": 0.19
+    },
+    "predictedClassIndex": 15,
+    "predictedDiseaseId": "chilli_healthy",
+    "confidence": 95,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_healthy_09",
+    "sampleNumber": 9,
+    "crop": "chilli",
+    "diseaseId": "chilli_healthy",
+    "diseaseName": "Chilli Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 15,
+    "featureSummary": {
+      "meanRGB": [
+        0.247,
+        0.725,
+        0.202
+      ],
+      "exG": 0.975,
+      "darkLesions": 0.001,
+      "edgeVariance": 0.223
+    },
+    "predictedClassIndex": 15,
+    "predictedDiseaseId": "chilli_healthy",
+    "confidence": 94.9,
+    "isCorrect": true
+  },
+  {
+    "id": "test_chilli_healthy_10",
+    "sampleNumber": 10,
+    "crop": "chilli",
+    "diseaseId": "chilli_healthy",
+    "diseaseName": "Chilli Healthy Plant",
+    "severity": "low",
+    "trueClassIndex": 15,
+    "featureSummary": {
+      "meanRGB": [
+        0.265,
+        0.709,
+        0.167
+      ],
+      "exG": 1.001,
+      "darkLesions": 0,
+      "edgeVariance": 0.254
+    },
+    "predictedClassIndex": 15,
+    "predictedDiseaseId": "chilli_healthy",
+    "confidence": 92.3,
+    "isCorrect": true
+  }
+]

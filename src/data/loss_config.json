@@ -1,0 +1,98 @@
+{
+  "_disclaimer": "Sample data for demo: Yield and price benchmarks are based on standard Indian AGMARKNET modal market rates and ICAR agricultural extension field indices.",
+  "last_updated": "2026-11-05",
+  "_comments": "Crop yield (quintals/acre), market price (INR/quintal), and percentage loss curves under untreated versus early-intervention scenarios. Used for estimating financial risk and treatment savings.",
+  "crops": {
+    "tomato": {
+      "cropName": { "en": "Tomato", "kn": "ಟೊಮೇಟೊ" },
+      "averageYieldQuintalsPerAcre": 140,
+      "marketPricePerQuintalInr": 1800,
+      "lossPercentUntreated": {
+        "low": 20,
+        "medium": 45,
+        "high": 70,
+        "critical": 85
+      },
+      "lossPercentTreatedEarly": {
+        "low": 5,
+        "medium": 12,
+        "high": 22,
+        "critical": 30
+      }
+    },
+    "potato": {
+      "cropName": { "en": "Potato", "kn": "ಆಲೂಗಡ್ಡೆ" },
+      "averageYieldQuintalsPerAcre": 100,
+      "marketPricePerQuintalInr": 1350,
+      "lossPercentUntreated": {
+        "low": 18,
+        "medium": 40,
+        "high": 65,
+        "critical": 80
+      },
+      "lossPercentTreatedEarly": {
+        "low": 4,
+        "medium": 10,
+        "high": 20,
+        "critical": 28
+      }
+    },
+    "maize": {
+      "cropName": { "en": "Maize / Corn", "kn": "ಮೆಕ್ಕೆಜೋಳ" },
+      "averageYieldQuintalsPerAcre": 28,
+      "marketPricePerQuintalInr": 2150,
+      "lossPercentUntreated": {
+        "low": 15,
+        "medium": 35,
+        "high": 60,
+        "critical": 75
+      },
+      "lossPercentTreatedEarly": {
+        "low": 3,
+        "medium": 8,
+        "high": 18,
+        "critical": 25
+      }
+    },
+    "rice": {
+      "cropName": { "en": "Paddy / Rice", "kn": "ಭತ್ತ" },
+      "averageYieldQuintalsPerAcre": 25,
+      "marketPricePerQuintalInr": 2300,
+      "lossPercentUntreated": {
+        "low": 18,
+        "medium": 40,
+        "high": 65,
+        "critical": 80
+      },
+      "lossPercentTreatedEarly": {
+        "low": 4,
+        "medium": 10,
+        "high": 20,
+        "critical": 26
+      }
+    },
+    "chilli": {
+      "cropName": { "en": "Chilli", "kn": "ಮೆಣಸಿನಕಾಯಿ" },
+      "averageYieldQuintalsPerAcre": 18,
+      "marketPricePerQuintalInr": 14500,
+      "lossPercentUntreated": {
+        "low": 22,
+        "medium": 50,
+        "high": 75,
+        "critical": 90
+      },
+      "lossPercentTreatedEarly": {
+        "low": 5,
+        "medium": 14,
+        "high": 25,
+        "critical": 32
+      }
+    }
+  },
+  "formula_notes": {
+    "gross_value": "Area (Acres) × Average Yield (Quintals/Acre) × Market Price (₹/Quintal)",
+    "loss_untreated": "Gross Value × (Untreated Loss % / 100)",
+    "loss_treated": "Gross Value × (Treated Early Loss % / 100)",
+    "savings": "Estimated Loss if Untreated - Estimated Loss if Treated Early - Estimated Treatment Cost"
+  }
+}

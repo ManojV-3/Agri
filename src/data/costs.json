@@ -1,0 +1,167 @@
+{
+  "_disclaimer": "Sample data for demo: Treatment costs reflect typical retail chemical and bio-fungicide prices with backpack sprayer application labor across South and North India.",
+  "last_updated": "2026-11-05",
+  "_comments": "Estimated per-acre treatment cost in Indian Rupees (INR) across preventive and curative modes. Used by the economic loss and village risk calculator.",
+  "treatments": {
+    "tomato_early_blight": {
+      "crop": "tomato",
+      "diseaseName": "Tomato Early Blight",
+      "costPerAcrePreventive": 1250,
+      "costPerAcreCurative": 2400,
+      "costPerAcreEmergency": 3600,
+      "preventiveProduct": "Copper Oxychloride 50 WP (2.5g/L) + Neem Oil (3ml/L)",
+      "curativeProduct": "Mancozeb 75 WP (2g/L) or Azoxystrobin (1ml/L)",
+      "laborCostPerAcre": 400
+    },
+    "tomato_late_blight": {
+      "crop": "tomato",
+      "diseaseName": "Tomato Late Blight",
+      "costPerAcrePreventive": 1450,
+      "costPerAcreCurative": 2850,
+      "costPerAcreEmergency": 4200,
+      "preventiveProduct": "Mancozeb 75 WP (2.5g/L) prophylactic barrier spray",
+      "curativeProduct": "Cymoxanil 8% + Mancozeb 64% WP or Metalaxyl-M",
+      "laborCostPerAcre": 450
+    },
+    "tomato_leaf_curl": {
+      "crop": "tomato",
+      "diseaseName": "Tomato Leaf Curl",
+      "costPerAcrePreventive": 950,
+      "costPerAcreCurative": 1900,
+      "costPerAcreEmergency": 2800,
+      "preventiveProduct": "Yellow sticky traps (15/acre) + Neem spray",
+      "curativeProduct": "Imidacloprid 17.8 SL (0.5ml/L) vector suppression",
+      "laborCostPerAcre": 350
+    },
+    "tomato_healthy": {
+      "crop": "tomato",
+      "diseaseName": "Tomato Healthy",
+      "costPerAcrePreventive": 600,
+      "costPerAcreCurative": 600,
+      "costPerAcreEmergency": 600,
+      "preventiveProduct": "Prophylactic bio-stimulant / Panchagavya spray",
+      "curativeProduct": "Routine agronomic scouting",
+      "laborCostPerAcre": 250
+    },
+    "potato_early_blight": {
+      "crop": "potato",
+      "diseaseName": "Potato Early Blight",
+      "costPerAcrePreventive": 1300,
+      "costPerAcreCurative": 2500,
+      "costPerAcreEmergency": 3700,
+      "preventiveProduct": "Chlorothalonil 75 WP (2g/L) protective spray",
+      "curativeProduct": "Difenoconazole 25 EC (1ml/L) systemic spray",
+      "laborCostPerAcre": 400
+    },
+    "potato_late_blight": {
+      "crop": "potato",
+      "diseaseName": "Potato Late Blight",
+      "costPerAcrePreventive": 1500,
+      "costPerAcreCurative": 3100,
+      "costPerAcreEmergency": 4500,
+      "preventiveProduct": "Mancozeb 75 WP (2.5g/L) canopy wash",
+      "curativeProduct": "Dimethomorph 50% + Mancozeb rescue spray",
+      "laborCostPerAcre": 450
+    },
+    "potato_healthy": {
+      "crop": "potato",
+      "diseaseName": "Potato Healthy",
+      "costPerAcrePreventive": 600,
+      "costPerAcreCurative": 600,
+      "costPerAcreEmergency": 600,
+      "preventiveProduct": "Preventive micronutrient foliar spray",
+      "curativeProduct": "Routine monitoring",
+      "laborCostPerAcre": 250
+    },
+    "maize_common_rust": {
+      "crop": "maize",
+      "diseaseName": "Maize Common Rust",
+      "costPerAcrePreventive": 1100,
+      "costPerAcreCurative": 2200,
+      "costPerAcreEmergency": 3200,
+      "preventiveProduct": "Mancozeb 75 WP (2g/L) early season spray",
+      "curativeProduct": "Propiconazole 25 EC (1ml/L) curative spray",
+      "laborCostPerAcre": 350
+    },
+    "maize_fall_armyworm": {
+      "crop": "maize",
+      "diseaseName": "Maize Fall Armyworm",
+      "costPerAcrePreventive": 1200,
+      "costPerAcreCurative": 2600,
+      "costPerAcreEmergency": 3900,
+      "preventiveProduct": "Pheromone traps (5/acre) + Trichogramma cards",
+      "curativeProduct": "Emamectin benzoate 5 SG (0.4g/L) whorl application",
+      "laborCostPerAcre": 400
+    },
+    "maize_healthy": {
+      "crop": "maize",
+      "diseaseName": "Maize Healthy",
+      "costPerAcrePreventive": 500,
+      "costPerAcreCurative": 500,
+      "costPerAcreEmergency": 500,
+      "preventiveProduct": "Balanced NPK booster",
+      "curativeProduct": "Standard monitoring",
+      "laborCostPerAcre": 250
+    },
+    "rice_blast": {
+      "crop": "rice",
+      "diseaseName": "Rice Blast",
+      "costPerAcrePreventive": 1350,
+      "costPerAcreCurative": 2700,
+      "costPerAcreEmergency": 4100,
+      "preventiveProduct": "Pseudomonas fluorescens (10g/kg seed / 5g/L foliar)",
+      "curativeProduct": "Tricyclazole 75 WP (0.6g/L) or Isoprothiolane (1.5ml/L)",
+      "laborCostPerAcre": 400
+    },
+    "rice_brown_spot": {
+      "crop": "rice",
+      "diseaseName": "Rice Brown Spot",
+      "costPerAcrePreventive": 1150,
+      "costPerAcreCurative": 2300,
+      "costPerAcreEmergency": 3400,
+      "preventiveProduct": "Carbendazim + Mancozeb (2g/L) prophylactic",
+      "curativeProduct": "Propiconazole 25 EC (1ml/L) leaf wash",
+      "laborCostPerAcre": 380
+    },
+    "rice_healthy": {
+      "crop": "rice",
+      "diseaseName": "Rice Healthy",
+      "costPerAcrePreventive": 550,
+      "costPerAcreCurative": 550,
+      "costPerAcreEmergency": 550,
+      "preventiveProduct": "Bio-fertilizer application",
+      "curativeProduct": "Water level monitoring",
+      "laborCostPerAcre": 250
+    },
+    "chilli_leaf_curl": {
+      "crop": "chilli",
+      "diseaseName": "Chilli Leaf Curl & Murda",
+      "costPerAcrePreventive": 1250,
+      "costPerAcreCurative": 2600,
+      "costPerAcreEmergency": 3800,
+      "preventiveProduct": "Blue & yellow sticky traps (20/acre) + Neem spray",
+      "curativeProduct": "Diafenthiuron 50 WP (1.2g/L) or Spiromesifen",
+      "laborCostPerAcre": 420
+    },
+    "chilli_anthracnose": {
+      "crop": "chilli",
+      "diseaseName": "Chilli Anthracnose / Fruit Rot",
+      "costPerAcrePreventive": 1400,
+      "costPerAcreCurative": 2900,
+      "costPerAcreEmergency": 4300,
+      "preventiveProduct": "Copper Oxychloride (2.5g/L) canopy spray",
+      "curativeProduct": "Azoxystrobin 23 SC (1ml/L) + Difenoconazole",
+      "laborCostPerAcre": 420
+    },
+    "chilli_healthy": {
+      "crop": "chilli",
+      "diseaseName": "Chilli Healthy",
+      "costPerAcrePreventive": 600,
+      "costPerAcreCurative": 600,
+      "costPerAcreEmergency": 600,
+      "preventiveProduct": "Micronutrient cocktail",
+      "curativeProduct": "Routine monitoring",
+      "laborCostPerAcre": 250
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_disclaimer": "Simplified forecast for guidance, not a scientific prediction",
+  "last_updated": "2026-11-05",
+  "_comments": "Deterministic rule-based agronomic spread parameters for the Krishi early warning animation engine. Combines spatial decay from active outbreaks, ambient humidity/rainfall forecasts, and seasonal monsoon wind vectors.",
+  "simulation_constants": {
+    "days_forecast": 7,
+    "daily_spread_speed_km": 4.5,
+    "distance_decay_km": 28.0,
+    "wind_vector_degrees": 240,
+    "wind_drift_bonus": 1.25,
+    "weather_weight": 0.40,
+    "case_density_weight": 0.35,
+    "hotspot_decay_weight": 0.25
+  },
+  "disease_dispersion_multipliers": {
+    "tomato_late_blight": {
+      "rateMultiplier": 1.35,
+      "transmissionMode": "Airborne sporangia & rain splash",
+      "preferredHumidityMin": 75,
+      "preferredTempMin": 18,
+      "preferredTempMax": 26
+    },
+    "tomato_early_blight": {
+      "rateMultiplier": 1.05,
+      "transmissionMode": "Soil-borne conidia & lower leaf splashing",
+      "preferredHumidityMin": 65,
+      "preferredTempMin": 22,
+      "preferredTempMax": 30
+    },
+    "rice_blast": {
+      "rateMultiplier": 1.30,
+      "transmissionMode": "Wind-borne fungal conidia across paddy canals",
+      "preferredHumidityMin": 80,
+      "preferredTempMin": 20,
+      "preferredTempMax": 28
+    },
+    "potato_early_blight": {
+      "rateMultiplier": 1.10,
+      "transmissionMode": "Alternaria spores on crop canopy",
+      "preferredHumidityMin": 70,
+      "preferredTempMin": 20,
+      "preferredTempMax": 28
+    },
+    "maize_fall_armyworm": {
+      "rateMultiplier": 1.45,
+      "transmissionMode": "Adult nocturnal moth flight (up to 30km/night)",
+      "preferredHumidityMin": 50,
+      "preferredTempMin": 24,
+      "preferredTempMax": 34
+    },
+    "chilli_leaf_curl": {
+      "rateMultiplier": 0.95,
+      "transmissionMode": "Bemisia tabaci whitefly insect vector",
+      "preferredHumidityMin": 45,
+      "preferredTempMin": 26,
+      "preferredTempMax": 35
+    }
+  },
+  "risk_score_thresholds": {
+    "low_max": 29,
+    "medium_max": 54,
+    "high_max": 77,
+    "critical_min": 78
+  },
+  "formula_documentation": "Risk(Day t) = BaseScore + t * (WeatherSuitability * DispersionMultiplier * 6.2) + (WindVectorFactor * 3.5) - Interventions"
+}

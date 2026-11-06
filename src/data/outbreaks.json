@@ -1,0 +1,347 @@
+[
+  {
+    "id": "outbreak-mandya-1",
+    "district": "Mandya",
+    "districtKn": "ಮಂಡ್ಯ",
+    "taluk": "Maddur & Pandavapura",
+    "talukKn": "ಮದ್ದೂರು & ಪಾಂಡವಪುರ",
+    "crop": "tomato",
+    "cropKn": "ಟೊಮೇಟೊ",
+    "diseaseId": "tomato_late_blight",
+    "diseaseName": {
+      "en": "Tomato Late Blight",
+      "kn": "ಟೊಮೇಟೊ ತಡವಾದ ಅಂಗಮಾರಿ ರೋಗ"
+    },
+    "severity": "high",
+    "spreadStatus": "spreading",
+    "spreadRadiusKm": 35,
+    "lat": 12.5218,
+    "lng": 76.8951,
+    "mapCoords": { "x": 58, "y": 72 },
+    "reportedCases": 48,
+    "acresAffected": 180,
+    "neighborDistricts": ["Mysuru", "Ramanagara", "Tumakuru", "Hassan"],
+    "neighborDistrictsKn": ["ಮೈಸೂರು", "ರಾಮನಗರ", "ತುಮಕೂರು", "ಹಾಸನ"],
+    "lossEstimation": {
+      "yieldLossPercent": "45% - 70%",
+      "lossPerAcre": 38000,
+      "totalRegionalLoss": "₹68.4 Lakhs",
+      "marketPricePerTon": 18000,
+      "normalYieldPerAcreTons": 14
+    },
+    "recoveryPlan": {
+      "low": {
+        "title": { "en": "Mild Infection (< 25% foliage affected)", "kn": "ಕಡಿಮೆ ತೀವ್ರತೆ (< ೨೫% ಎಲೆಗಳು ಬಾಧಿತ)" },
+        "action": {
+          "en": "Prune and burn lower infected leaves immediately. Spray Neem oil (Azadirachtin 10,000 ppm) @ 3ml/L or Copper Oxychloride 50 WP @ 2.5g/L during early morning.",
+          "kn": "ಕೆಳಭಾಗದ ರೋಗಪೀಡಿತ ಎಲೆಗಳನ್ನು ಕಿತ್ತು ಸುಟ್ಟುಹಾಕಿ. ಬೆಳಗಿನ ಜಾವ ೩ ಮಿ.ಲೀ ಬೇವಿನ ಎಣ್ಣೆ ಅಥವಾ ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ (೨.೫ ಗ್ರಾಂ/ಲೀಟರ್) ಸಿಂಪಡಿಸಿ."
+        },
+        "dosage": "2.5 g/L water",
+        "timeline": {
+          "en": "Day 1: Sanitization; Day 3: Protective spray; Day 7: Foliar micronutrient spray (Zinc + Boron).",
+          "kn": "ದಿನ ೧: ರೋಗಗ್ರಸ್ತ ಎಲೆ ವಿಲೇವಾರಿ; ದಿನ ೩: ರಕ್ಷಣಾತ್ಮಕ ಸಿಂಪರಣೆ; ದಿನ ೭: ಲಘು ಪೋಷಕಾಂಶಗಳ ಸಿಂಪರಣೆ."
+        }
+      },
+      "medium": {
+        "title": { "en": "Moderate Infection (25% - 50% foliage affected)", "kn": "ಮಧ್ಯಮ ತೀವ್ರತೆ (೨೫% - ೫೦% ಹಾನಿ)" },
+        "action": {
+          "en": "Apply systemic curative fungicide Cymoxanil 8% + Mancozeb 64% WP @ 2g/L water. Halt excessive urea nitrogen; apply Potassium Sulfate (0-0-50) @ 5g/L to strengthen plant cell walls.",
+          "kn": "ತಕ್ಷಣ ಸೈಮೋಕ್ಸಾನಿಲ್ + ಮ್ಯಾಂಕೋಜೆಬ್ (೨ ಗ್ರಾಂ/ಲೀಟರ್) ಶಿಲೀಂಧ್ರನಾಶಕ ಸಿಂಪಡಿಸಿ. ಯೂರಿಯಾ ಗೊಬ್ಬರ ನಿಲ್ಲಿಸಿ, ಪೊಟ್ಯಾಸಿಯಮ್ ಸಲ್ಫೇಟ್ (೫ ಗ್ರಾಂ/ಲೀಟರ್) ಸಿಂಪಡಿಸಿ."
+        },
+        "dosage": "2 g/L water",
+        "timeline": {
+          "en": "Day 1: Systemic curative spray; Day 5: Secondary backup spray with Metalaxyl-M; Day 10: Root humic acid drench.",
+          "kn": "ದಿನ ೧: ಸಿಸ್ಟಮಿಕ್ ಶಿಲೀಂಧ್ರನಾಶಕ; ದಿನ ೫: ಮೆಟಾಲಾಕ್ಸಿಲ್ ಪರ್ಯಾಯ ಸಿಂಪರಣೆ; ದಿನ ೧೦: ಬೇರಿಗೆ ಹ್ಯೂಮಿಕ್ ಆಸಿಡ್ ನೀರು."
+        }
+      },
+      "high": {
+        "title": { "en": "Severe Outbreak (> 50% damage with stem lesions)", "kn": "ತೀವ್ರ ಹರಡುವಿಕೆ (> ೫೦% ಹಾನಿ ಮತ್ತು ಕಾಂಡದ ಕಲೆಗಳು)" },
+        "action": {
+          "en": "Emergency intervention: Spray Dimethomorph 50% WP @ 1g/L combined with Mancozeb @ 2g/L. Create a 50-meter buffer barrier spray around neighboring healthy fields to block spore wind transmission.",
+          "kn": "ತುರ್ತು ಕ್ರಮ: ಡೈಮಿಥೊಮಾರ್ಫ್ (೧ ಗ್ರಾಂ/ಲೀ) ಜೊತೆಗೆ ಮ್ಯಾಂಕೋಜೆಬ್ (೨ ಗ್ರಾಂ/ಲೀ) ಮಿಶ್ರಣ ಸಿಂಪಡಿಸಿ. ಪಕ್ಕದ ಹೊಲಗಳಿಗೆ ಗಾಳಿಯ ಮೂಲಕ ರೋಗ ಹರಡದಂತೆ ೫೦ ಮೀಟರ್ ಬಫರ್ ಸಿಂಪರಣೆ ಮಾಡಿ."
+        },
+        "dosage": "1g Dimethomorph + 2g Mancozeb / L",
+        "timeline": {
+          "en": "Day 1: Emergency rescue spray; Day 4: High-pressure alternate fungicide spray; Day 7: Prune dead stems and disinfect shears in bleach; Day 14: Bio-stimulant booster.",
+          "kn": "ದಿನ ೧: ತುರ್ತು ರಕ್ಷಣಾ ಸಿಂಪರಣೆ; ದಿನ ೪: ಪರ್ಯಾಯ ಔಷಧ ಸಿಂಪರಣೆ; ದಿನ ೭: ಒಣಗಿದ ಕಾಂಡಗಳ ಕತ್ತರಿಸುವಿಕೆ; ದಿನ ೧೪: ಬೆಳೆ ಚೇತರಿಕೆ ಬೂಸ್ಟರ್."
+        }
+      }
+    }
+  },
+  {
+    "id": "outbreak-mysuru-1",
+    "district": "Mysuru",
+    "districtKn": "ಮೈಸೂರು",
+    "taluk": "Hunsur & K.R. Nagar",
+    "talukKn": "ಹುಣಸೂರು & ಕೆ.ಆರ್. ನಗರ",
+    "crop": "potato",
+    "cropKn": "ಆಲೂಗಡ್ಡೆ",
+    "diseaseId": "potato_early_blight",
+    "diseaseName": {
+      "en": "Potato Early Blight (Alternaria)",
+      "kn": "ಆಲೂಗಡ್ಡೆ ಆರಂಭಿಕ ಅಂಗಮಾರಿ ರೋಗ"
+    },
+    "severity": "medium",
+    "spreadStatus": "contained",
+    "spreadRadiusKm": 20,
+    "lat": 12.2958,
+    "lng": 76.6394,
+    "mapCoords": { "x": 50, "y": 78 },
+    "reportedCases": 29,
+    "acresAffected": 95,
+    "neighborDistricts": ["Mandya", "Hassan", "Chamarajanagar", "Kodagu"],
+    "neighborDistrictsKn": ["ಮಂಡ್ಯ", "ಹಾಸನ", "ಚಾಮರಾಜನಗರ", "ಕೊಡಗು"],
+    "lossEstimation": {
+      "yieldLossPercent": "25% - 40%",
+      "lossPerAcre": 24000,
+      "totalRegionalLoss": "₹22.8 Lakhs",
+      "marketPricePerTon": 16000,
+      "normalYieldPerAcreTons": 10
+    },
+    "recoveryPlan": {
+      "low": {
+        "title": { "en": "Initial Leaf Spots (< 20%)", "kn": "ಆರಂಭಿಕ ಚುಕ್ಕೆಗಳು (< ೨೦%)" },
+        "action": {
+          "en": "Spray Chlorothalonil 75% WP @ 2g/L. Keep soil moisture even and avoid sprinkler irrigation that wets leaves.",
+          "kn": "ಕ್ಲೋರೋಥಲೋನಿಲ್ ೭೫ ಡಬ್ಲ್ಯೂಪಿ (೨ ಗ್ರಾಂ/ಲೀಟರ್) ಸಿಂಪಡಿಸಿ. ಎಲೆಗಳು ಹೆಚ್ಚು ತೇವವಾಗದಂತೆ ಹನಿ ನೀರಾವರಿ ಬಳಸಿ."
+        },
+        "dosage": "2 g/L",
+        "timeline": {
+          "en": "Day 1: Chlorothalonil spray; Day 7: Inspect new shoots for concentric target rings.",
+          "kn": "ದಿನ ೧: ಕ್ಲೋರೋಥಲೋನಿಲ್ ಸಿಂಪರಣೆ; ದಿನ ೭: ಹೊಸ ಚಿಗುರುಗಳಲ್ಲಿ ರೋಗ ಪರೀಕ್ಷೆ."
+        }
+      },
+      "medium": {
+        "title": { "en": "Target-board Spots Spread (20% - 45%)", "kn": "ಹೆಚ್ಚುತ್ತಿರುವ ಚುಕ್ಕೆಗಳು (೨೦% - ೪೫%)" },
+        "action": {
+          "en": "Apply Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1ml/L. Irrigate strictly in morning hours so canopy dries quickly.",
+          "kn": "ಅಜಾಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ + ಡೈಫೆನೊಕೊನಜೋಲ್ (೧ ಮಿ.ಲೀ/ಲೀಟರ್) ಸಿಂಪಡಿಸಿ. ಮಧ್ಯಾಹ್ನದೊಳಗೆ ಎಲೆ ಒಣಗುವಂತೆ ಬೆಳಗಿನ ಜಾವ ನೀರು ಹಾಯಿಸಿ."
+        },
+        "dosage": "1 ml/L",
+        "timeline": {
+          "en": "Day 1: Curative systemic spray; Day 6: Potassium foliar spray; Day 12: Soil moisture stabilization.",
+          "kn": "ದಿನ ೧: ಸಿಸ್ಟಮಿಕ್ ಸಿಂಪರಣೆ; ದಿನ ೬: ಪೊಟ್ಯಾಷ್ ಪೋಷಕಾಂಶ; ದಿನ ೧೨: ತೇವಾಂಶ ಸಮತೋಲನ."
+        }
+      },
+      "high": {
+        "title": { "en": "Severe Defoliation (> 45% canopy loss)", "kn": "ತೀವ್ರ ಎಲೆ ಉದುರುವಿಕೆ (> ೪೫%)" },
+        "action": {
+          "en": "Spray Pyraclostrobin 20% WG @ 1g/L. Add seaweed extract bio-stimulant @ 2ml/L to accelerate tuber recovery.",
+          "kn": "ಪೈರಾಕ್ಲೋಸ್ಟ್ರೋಬಿನ್ (೧ ಗ್ರಾಂ/ಲೀ) ಜೊತೆಗೆ ಸೀ-ವೀಡ್ ಬಯೋ-ಸ್ಟಿಮ್ಯುಲಂಟ್ (೨ ಮಿ.ಲೀ/ಲೀ) ಸಿಂಪಡಿಸಿ ಗೆಡ್ಡೆ ಬೆಳವಣಿಗೆ ರಕ್ಷಿಸಿ."
+        },
+        "dosage": "1 g/L Pyraclostrobin",
+        "timeline": {
+          "en": "Day 1: High potency strobilurin spray; Day 5: Foliar calcium chelate; Day 10: Tuber bulking review.",
+          "kn": "ದಿನ ೧: ಪ್ರಬಲ ಶಿಲೀಂಧ್ರನಾಶಕ; ದಿನ ೫: ಕ್ಯಾಲ್ಸಿಯಂ ಪೋಷಕಾಂಶ ಸಿಂಪರಣೆ; ದಿನ ೧೦: ಆಲೂಗಡ್ಡೆ ಬೆಳವಣಿಗೆ ತಪಾಸಣೆ."
+        }
+      }
+    }
+  },
+  {
+    "id": "outbreak-kolar-1",
+    "district": "Kolar",
+    "districtKn": "ಕೋಲಾರ",
+    "taluk": "Srinivaspur & Mulbagal",
+    "talukKn": "ಶ್ರೀನಿವಾಸಪುರ & ಮುಳಬಾಗಿಲು",
+    "crop": "tomato",
+    "cropKn": "ಟೊಮೇಟೊ",
+    "diseaseId": "tomato_bacterial_spot",
+    "diseaseName": {
+      "en": "Tomato Bacterial Spot (Xanthomonas)",
+      "kn": "ಟೊಮೇಟೊ ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ಚುಕ್ಕೆ ರೋಗ"
+    },
+    "severity": "critical",
+    "spreadStatus": "rapidly_spreading",
+    "spreadRadiusKm": 45,
+    "lat": 13.1367,
+    "lng": 78.1291,
+    "mapCoords": { "x": 75, "y": 68 },
+    "reportedCases": 64,
+    "acresAffected": 240,
+    "neighborDistricts": ["Chikkaballapura", "Bengaluru Rural", "Bengaluru Urban"],
+    "neighborDistrictsKn": ["ಚಿಕ್ಕಬಳ್ಳಾಪುರ", "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ", "ಬೆಂಗಳೂರು ನಗರ"],
+    "lossEstimation": {
+      "yieldLossPercent": "50% - 80%",
+      "lossPerAcre": 46000,
+      "totalRegionalLoss": "₹1.10 Crore",
+      "marketPricePerTon": 19000,
+      "normalYieldPerAcreTons": 15
+    },
+    "recoveryPlan": {
+      "low": {
+        "title": { "en": "Scattered Dark Specks (< 15%)", "kn": "ಸಣ್ಣ ಕಪ್ಪು ಚುಕ್ಕೆಗಳು (< ೧೫%)" },
+        "action": {
+          "en": "Copper Hydroxide 53.8% DF @ 2g/L. Disinfect farm tools and footwear before moving between rows.",
+          "kn": "ಕಾಪರ್ ಹೈಡ್ರಾಕ್ಸೈಡ್ (೨ ಗ್ರಾಂ/ಲೀಟರ್) ಸಿಂಪಡಿಸಿ. ಕೃಷಿ ಸಲಕರಣೆಗಳನ್ನು ಬ್ಲೀಚಿಂಗ್ ದ್ರಾವಣದಲ್ಲಿ ಸ್ವಚ್ಛಗೊಳಿಸಿ."
+        },
+        "dosage": "2 g/L",
+        "timeline": {
+          "en": "Day 1: Preventative copper spray; Day 7: Check fruit calyx for water-soaked halos.",
+          "kn": "ದಿನ ೧: ಕಾಪರ್ ಸಿಂಪರಣೆ; ದಿನ ೭: ಹಣ್ಣಿನ ತೊಟ್ಟಿನಲ್ಲಿ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಪರಿಶೀಲನೆ."
+        }
+      },
+      "medium": {
+        "title": { "en": "Leaves Yellowing & Fruit Lesions (15% - 40%)", "kn": "ಎಲೆ ಹಳದಿ & ಕಾಯಿಗಳ ಮೇಲೆ ಕಲೆ (೧೫% - ೪೦%)" },
+        "action": {
+          "en": "Combination tank-mix: Streptomycin Sulfate 90% + Tetracycline 10% (Streptocycline) @ 0.5g/10L + Copper Oxychloride @ 2.5g/L. Avoid handling wet plants.",
+          "kn": "ಸ್ಟ್ರೆಪ್ಟೊಸೈಕ್ಲಿನ್ (೦.೫ ಗ್ರಾಂ/೧೦ ಲೀಟರ್) ಜೊತೆಗೆ ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ (೨.೫ ಗ್ರಾಂ/ಲೀಟರ್) ಮಿಶ್ರಣ ಸಿಂಪಡಿಸಿ. ಒದ್ದೆ ಎಲೆಗಳನ್ನು ಮುಟ್ಟಬೇಡಿ."
+        },
+        "dosage": "0.5g Streptocycline / 10L + 2.5g Copper / L",
+        "timeline": {
+          "en": "Day 1: Antibacterial copper tank-mix; Day 5: Re-spray buffer borders; Day 10: Apply bio-bactericide Bacillus subtilis.",
+          "kn": "ದಿನ ೧: ಬ್ಯಾಕ್ಟೀರಿಯಾನಾಶಕ ಮಿಶ್ರಣ; ದಿನ ೫: ಗಡಿ ಭಾಗದಲ್ಲಿ ಸಿಂಪರಣೆ; ದಿನ ೧೦: ಬ್ಯಾಸಿಲಸ್ ಸಬ್ಟಿಲಿಸ್ ಜೈವಿಕ ಸಿಂಪರಣೆ."
+        }
+      },
+      "high": {
+        "title": { "en": "Epidemic Defoliation (> 40% crop collapse)", "kn": "ವ್ಯಾಪಕ ಹರಡುವಿಕೆ (> ೪೦% ಬೆಳೆ ಕುಸಿತ)" },
+        "action": {
+          "en": "Immediate harvest of marketable mature green fruits. High-dose Kasugamycin 3% SL @ 2ml/L + Copper Hydroxide. Dig trench isolation around field to contain runoff water.",
+          "kn": "ಮಾಗಿದ ಕಾಯಿಗಳನ್ನು ತಕ್ಷಣ ಕೊಯ್ಲು ಮಾಡಿ. ಕಸುಗಾಮೈಸಿನ್ (೨ ಮಿ.ಲೀ/ಲೀ) ಜೊತೆಗೆ ಕಾಪರ್ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಸಿಂಪಡಿಸಿ. ನೀರು ಬೇರೆ ಹೊಲಗಳಿಗೆ ಹರಿಯದಂತೆ ಬದು ನಿರ್ಮಿಸಿ."
+        },
+        "dosage": "2 ml/L Kasugamycin + 2 g/L Copper",
+        "timeline": {
+          "en": "Day 1: Emergency bactericide; Day 3: Stop all overhead watering; Day 7: Foliar potassium phosphite spray; Day 14: Soil solarization protocol.",
+          "kn": "ದಿನ ೧: ತುರ್ತು ಬ್ಯಾಕ್ಟೀರಿಯಾನಾಶಕ; ದಿನ ೩: ಮೇಲಿನಿಂದ ನೀರು ಹಾಯಿಸುವುದು ನಿಲ್ಲಿಸಿ; ದಿನ ೭: ಪೊಟ್ಯಾಸಿಯಮ್ ಫಾಸ್ಫೈಟ್ ಸಿಂಪರಣೆ; ದಿನ ೧೪: ಮಣ್ಣಿನ ಶುದ್ಧೀಕರಣ."
+        }
+      }
+    }
+  },
+  {
+    "id": "outbreak-shivamogga-1",
+    "district": "Shivamogga",
+    "districtKn": "ಶಿವಮೊಗ್ಗ",
+    "taluk": "Bhadravati & Shikaripura",
+    "talukKn": "ಭದ್ರಾವತಿ & ಶಿಕಾರಿಪುರ",
+    "crop": "rice",
+    "cropKn": "ಭತ್ತ",
+    "diseaseId": "rice_blast",
+    "diseaseName": {
+      "en": "Rice Blast (Pyricularia oryzae)",
+      "kn": "ಭತ್ತದ ಬೆಂಕಿ ರೋಗ / ಬ್ಲಾಸ್ಟ್"
+    },
+    "severity": "high",
+    "spreadStatus": "spreading",
+    "spreadRadiusKm": 30,
+    "lat": 13.9299,
+    "lng": 75.5681,
+    "mapCoords": { "x": 38, "y": 50 },
+    "reportedCases": 52,
+    "acresAffected": 210,
+    "neighborDistricts": ["Davanagere", "Chikkamagaluru", "Uttara Kannada", "Haveri"],
+    "neighborDistrictsKn": ["ದಾವಣಗೆರೆ", "ಚಿಕ್ಕಮಗಳೂರು", "ಉತ್ತರ ಕನ್ನಡ", "ಹಾವೇರಿ"],
+    "lossEstimation": {
+      "yieldLossPercent": "40% - 65%",
+      "lossPerAcre": 31000,
+      "totalRegionalLoss": "₹65.1 Lakhs",
+      "marketPricePerTon": 22000,
+      "normalYieldPerAcreTons": 2.8
+    },
+    "recoveryPlan": {
+      "low": {
+        "title": { "en": "Spindle-shaped Leaf Spots (< 20%)", "kn": "ಕಣ್ಣಿನಾಕಾರದ ಎಲೆ ಚುಕ್ಕೆಗಳು (< ೨೦%)" },
+        "action": {
+          "en": "Spray Tricyclazole 75% WP @ 0.6g/L. Drain excess standing water from paddy field for 2 days to lower humidity.",
+          "kn": "ಟ್ರೈಸೈಕ್ಲಜೋಲ್ ೭೫ ಡಬ್ಲ್ಯೂಪಿ (೦.೬ ಗ್ರಾಂ/ಲೀಟರ್) ಸಿಂಪಡಿಸಿ. ಗದ್ದೆಯಲ್ಲಿನ ನಿಂತ ನೀರನ್ನು ೨ ದಿನಗಳ ಕಾಲ ಬಸಿದು ತೆಗೆಯಿರಿ."
+        },
+        "dosage": "0.6 g/L",
+        "timeline": {
+          "en": "Day 1: Drain water & spray Tricyclazole; Day 4: Re-flood with fresh clean water; Day 8: Silica foliar supplement.",
+          "kn": "ದಿನ ೧: ನೀರು ಬಸಿದು ಟ್ರೈಸೈಕ್ಲಜೋಲ್ ಸಿಂಪಡಿಸಿ; ದಿನ ೪: ಶುದ್ಧ ನೀರು ಹಾಯಿಸಿ; ದಿನ ೮: ಸಿಲಿಕಾ ಪೋಷಕಾಂಶ ಸಿಂಪರಣೆ."
+        }
+      },
+      "medium": {
+        "title": { "en": "Neck Blast & Collar Rot (20% - 50%)", "kn": "ತೆನೆ ಕುತ್ತಿಗೆ ರೋಗ & ಕೊಳೆತ (೨೦% - ೫೦%)" },
+        "action": {
+          "en": "Spray Isoprothiolane 40% EC @ 1.5ml/L or Kasugamycin 0.2% SL @ 2ml/L. Stop urea immediately; top-dress with Muriate of Potash (MOP) @ 20kg/acre.",
+          "kn": "ಐಸೊಪ್ರೊಥಿಯೋಲೇನ್ (೧.೫ ಮಿ.ಲೀ/ಲೀ) ಅಥವಾ ಕಸುಗಾಮೈಸಿನ್ (೨ ಮಿ.ಲೀ/ಲೀ) ಸಿಂಪಡಿಸಿ. ಯೂರಿಯಾ ನಿಲ್ಲಿಸಿ ಎಕರೆಗೆ ೨೦ ಕೆ.ಜಿ ಪೊಟ್ಯಾಷ್ ಹಾಕಿ."
+        },
+        "dosage": "1.5 ml/L Isoprothiolane",
+        "timeline": {
+          "en": "Day 1: Isoprothiolane neck spray; Day 6: Top dress Potash; Day 12: Panicle inspection.",
+          "kn": "ದಿನ ೧: ತೆನೆ ರಕ್ಷಣಾ ಸಿಂಪರಣೆ; ದಿನ ೬: ಪೊಟ್ಯಾಷ್ ಗೊಬ್ಬರ; ದಿನ ೧೨: ತೆನೆ ಕಾಳುಗಳ ತಪಾಸಣೆ."
+        }
+      },
+      "high": {
+        "title": { "en": "Total Panicle Blight (> 50% blank grains)", "kn": "ಸಂಪೂರ್ಣ ತೆನೆ ಒಣಗುವಿಕೆ & ಜಳ್ಳು (> ೫೦%)" },
+        "action": {
+          "en": "Tank mix: Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1ml/L + Tricyclazole @ 0.5g/L. Notify agricultural extension officer for community drone spray in surrounding villages.",
+          "kn": "ಅಜಾಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ + ಡೈಫೆನೊಕೊನಜೋಲ್ (೧ ಮಿ.ಲೀ/ಲೀ) ಜೊತೆಗೆ ಟ್ರೈಸೈಕ್ಲಜೋಲ್ (೦.೫ ಗ್ರಾಂ/ಲೀ) ಸಿಂಪಡಿಸಿ. ಹಳ್ಳಿಯ ಸುತ್ತಮುತ್ತ ಡ್ರೋನ್ ಸಿಂಪರಣೆಗೆ ಕೃಷಿ ಇಲಾಖೆಗೆ ತಿಳಿಸಿ."
+        },
+        "dosage": "1 ml/L Azoxystrobin mix + 0.5 g/L Tricyclazole",
+        "timeline": {
+          "en": "Day 1: High potency systemic combination; Day 3: Alert neighbor village farmers; Day 7: Grain salvage assessment; Day 14: Pre-harvest interval check.",
+          "kn": "ದಿನ ೧: ಪ್ರಬಲ ಶಿಲೀಂಧ್ರನಾಶಕ ಮಿಶ್ರಣ; ದಿನ ೩: ನೆರೆಹೊರೆಯ ಗ್ರಾಮದ ರೈತರಿಗೆ ಎಚ್ಚರಿಕೆ; ದಿನ ೭: ಕಾಳುಗಳ ರಕ್ಷಣೆ; ದಿನ ೧೪: ಕೊಯ್ಲು ಪೂರ್ವ ಪರೀಕ್ಷೆ."
+        }
+      }
+    }
+  },
+  {
+    "id": "outbreak-haveri-1",
+    "district": "Haveri",
+    "districtKn": "ಹಾವೇರಿ",
+    "taluk": "Ranebennur & Byadgi",
+    "talukKn": "ರಾಣೆಬೆನ್ನೂರು & ಬ್ಯಾಡಗಿ",
+    "crop": "chilli",
+    "cropKn": "ಮೆಣಸಿನಕಾಯಿ",
+    "diseaseId": "chilli_leaf_curl",
+    "diseaseName": {
+      "en": "Chilli Leaf Curl Virus (Begomovirus)",
+      "kn": "ಮೆಣಸಿನಕಾಯಿ ಎಲೆ ಸುರುಟು ವೈರಸ್ ರೋಗ (ಮುರುಡ)"
+    },
+    "severity": "medium",
+    "spreadStatus": "spreading",
+    "spreadRadiusKm": 25,
+    "lat": 14.7958,
+    "lng": 75.4011,
+    "mapCoords": { "x": 42, "y": 42 },
+    "reportedCases": 37,
+    "acresAffected": 130,
+    "neighborDistricts": ["Davanagere", "Dharwad", "Gadag", "Shivamogga"],
+    "neighborDistrictsKn": ["ದಾವಣಗೆರೆ", "ಧಾರವಾಡ", "ಗದಗ", "ಶಿವಮೊಗ್ಗ"],
+    "lossEstimation": {
+      "yieldLossPercent": "35% - 55%",
+      "lossPerAcre": 35000,
+      "totalRegionalLoss": "₹45.5 Lakhs",
+      "marketPricePerTon": 120000,
+      "normalYieldPerAcreTons": 1.2
+    },
+    "recoveryPlan": {
+      "low": {
+        "title": { "en": "Occasional Upward Leaf Curling (< 20%)", "kn": "ಮೇಲ್ಮುಖವಾಗಿ ಎಲೆ ಮುರುಟುವಿಕೆ (< ೨೦%)" },
+        "action": {
+          "en": "Control whitefly vector: Install yellow sticky traps @ 15 per acre. Spray Neem oil (10,000 ppm) @ 3ml/L or Verticillium lecanii bio-insecticide @ 5g/L.",
+          "kn": "ಬಿಳಿನೊಣಗಳ ನಿಯಂತ್ರಣಕ್ಕೆ ಎಕರೆಗೆ ೧೫ ಹಳದಿ ಅಂಟು ಬಲೆಗಳನ್ನು ಅಳವಡಿಸಿ. ೩ ಮಿ.ಲೀ ಬೇವಿನ ಎಣ್ಣೆ ಅಥವಾ ಜೈವಿಕ ಕೀಟನಾಶಕ ಸಿಂಪಡಿಸಿ."
+        },
+        "dosage": "3 ml/L Neem oil + 15 sticky traps/acre",
+        "timeline": {
+          "en": "Day 1: Set sticky traps; Day 3: Botanical oil spray; Day 7: Inspect leaf undersides for whitefly nymphs.",
+          "kn": "ದಿನ ೧: ಹಳದಿ ಬಲೆಗಳ ಅಳವಡಿಕೆ; ದಿನ ೩: ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪರಣೆ; ದಿನ ೭: ಎಲೆಯ ಕೆಳಭಾಗದಲ್ಲಿ ನೊಣಗಳ ಪರೀಕ್ಷೆ."
+        }
+      },
+      "medium": {
+        "title": { "en": "Stunted Canopy & Heavy Vector Count (20% - 40%)", "kn": "ಬೆಳವಣಿಗೆ ಕುಂಠಿತ & ಬಿಳಿನೊಣಗಳ ಬಾಧೆ (೨೦% - ೪೦%)" },
+        "action": {
+          "en": "Curative vector control: Spray Diafenthiuron 50% WP @ 1.2g/L or Pyriproxyfen 10% EC @ 1.5ml/L. Add micro-nutrient formula (Zinc + Iron + Boron) @ 2g/L to restore chlorophyll.",
+          "kn": "ಡಯಾಫೆಂಥಿಯುರಾನ್ (೧.೨ ಗ್ರಾಂ/ಲೀ) ಅಥವಾ ಪೈರಿಪ್ರಾಕ್ಸಿಫೆನ್ (೧.೫ ಮಿ.ಲೀ/ಲೀ) ಸಿಂಪಡಿಸಿ. ಕ್ಲೋರೊಫಿಲ್ ಸುಧಾರಣೆಗೆ ಲಘು ಪೋಷಕಾಂಶ (೨ ಗ್ರಾಂ/ಲೀ) ಬೆರೆಸಿ."
+        },
+        "dosage": "1.2 g/L Diafenthiuron",
+        "timeline": {
+          "en": "Day 1: Vector knockdown insecticide; Day 5: Zinc-Boron foliar spray; Day 10: Soil probiotic drench.",
+          "kn": "ದಿನ ೧: ಬಿಳಿನೊಣ ಕೀಟನಾಶಕ; ದಿನ ೫: ಜಿಂಕ್-ಬೋರಾನ್ ಸಿಂಪರಣೆ; ದಿನ ೧೦: ಮಣ್ಣಿಗೆ ಜೈವಿಕ ಗೊಬ್ಬರ."
+        }
+      },
+      "high": {
+        "title": { "en": "Severe Bushy Stunting (> 40% stunted)", "kn": "ತೀವ್ರ ಗಿಡ ಕುಬ್ಜತೆ ಮತ್ತು ಎಲೆ ಸುರುಟು (> ೪೦%)" },
+        "action": {
+          "en": "Rogue out and destroy heavily crippled virus-reservoir plants. Spray Spiromesifen 22.9% SC @ 1ml/L + Acetamiprid 20% SP @ 0.3g/L. Intercrop with maize/sorghum as a physical vector barrier on field borders.",
+          "kn": "ತೀವ್ರ ರೋಗಪೀಡಿತ ಗಿಡಗಳನ್ನು ಕಿತ್ತು ಸುಟ್ಟುಹಾಕಿ. ಸ್ಪೈರೋಮೆಸಿಫೆನ್ (೧ ಮಿ.ಲೀ/ಲೀ) ಜೊತೆಗೆ ಅಸಿಟಾಮಿಪ್ರಿಡ್ (೦.೩ ಗ್ರಾಂ/ಲೀ) ಸಿಂಪಡಿಸಿ. ಗಡಿಯ ಸುತ್ತ ರಕ್ಷಣಾತ್ಮಕವಾಗಿ ಜೋಳದ ಬೆಳೆ ಹಾಕಿ."
+        },
+        "dosage": "1 ml/L Spiromesifen + 0.3 g/L Acetamiprid",
+        "timeline": {
+          "en": "Day 1: Rogue out reservoir plants & spray Spiromesifen; Day 4: Sow fast-growing maize perimeter border; Day 8: Humic acid booster; Day 15: Flush irrigation.",
+          "kn": "ದಿನ ೧: ರೋಗಗ್ರಸ್ತ ಗಿಡಗಳ ಕೀಳುವಿಕೆ & ಕೀಟನಾಶಕ; ದಿನ ೪: ಹೊಲದ ಬದಿಯಲ್ಲಿ ಜೋಳದ ಬಿತ್ತನೆ; ದಿನ ೮: ಹ್ಯೂಮಿಕ್ ಆಸಿಡ್ ನೀರು; ದಿನ ೧೫: ನೀರಾವರಿ."
+        }
+      }
+    }
+  }
+]

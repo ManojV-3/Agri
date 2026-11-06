@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Noto Sans Kannada';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/NotoSansKannada-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Noto Sans Kannada';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/NotoSansKannada-Bold.woff2') format('woff2');
+}
+
+:root {
+  font-family: 'Noto Sans Kannada', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  color-scheme: light;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F8FAF6;
+  color: #1A2E1C;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Ensure Kannada text wraps gracefully and buttons never overflow at 360px */
+button, a, span, p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+  word-break: normal;
+}
+
+/* Minimum 48px touch ergonomic buttons for farmers */
+.btn-touch {
+  min-height: 48px;
+  min-width: 48px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  touch-action: manipulation;
+}
+
+/* High contrast card elevation */
+.farm-card {
+  background: #FFFFFF;
+  border: 1px solid #E0E7DD;
+  box-shadow: 0 2px 8px rgba(27, 94, 32, 0.06);
+}
+
+.farm-card-interactive:active {
+  transform: scale(0.98);
+  transition: transform 0.1s ease;
+}
+
+/* Hide scrollbars for clean mobile view while allowing scroll */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Leaflet map enhancements */
+.leaflet-popup-content-wrapper {
+  border-radius: 1rem !important;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.25), 0 8px 10px -6px rgba(0, 0, 0, 0.1) !important;
+  padding: 0.25rem !important;
+}
+.leaflet-popup-content {
+  margin: 0.75rem !important;
+  line-height: 1.4 !important;
+}
+.custom-pulsing-marker {
+  background: transparent !important;
+  border: none !important;
+}

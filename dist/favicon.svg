@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="farmGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2E7D32" />
+      <stop offset="100%" stop-color="#1B5E20" />
+    </linearGradient>
+    <linearGradient id="leafGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#AED581" />
+      <stop offset="100%" stop-color="#66BB6A" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="url(#farmGrad)" />
+  <circle cx="256" cy="256" r="210" fill="none" stroke="#81C784" stroke-width="8" stroke-dasharray="16 12" opacity="0.6"/>
+  <!-- Leaf Stem & Blades -->
+  <path d="M160 380 C190 320 220 250 360 140 C350 250 290 340 180 376 Z" fill="url(#leafGrad)" />
+  <path d="M160 380 Q 250 270 360 140" stroke="#1B5E20" stroke-width="8" stroke-linecap="round" fill="none" />
+  <!-- Small side leaf -->
+  <path d="M220 290 C180 270 145 220 180 180 C210 200 230 250 220 290 Z" fill="#C5E1A5" />
+  <!-- Cross/Plus Doctor symbol -->
+  <rect x="350" y="320" width="80" height="24" rx="8" fill="#FFF9C4" filter="drop-shadow(0 4px 6px rgba(0,0,0,0.3))"/>
+  <rect x="378" y="292" width="24" height="80" rx="8" fill="#FFF9C4" />
+</svg>
